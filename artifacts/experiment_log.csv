@@ -1,4 +1,4 @@
 strategy,chunking,chunk_size,overlap,metadata,filter,vectorizer,hypothesis,dev_hit1,dev_hit3,test_hit1,test_hit3,notes
-A,,,,,,,,,,,,
-B,,,,,,,,,,,,
-C,,,,,,,,,,,,
+A,fixed-size,500,80,"document_id;source;page;printed_page;section_type;chapter;section;document_type;year;language",none,"OpenRouter / openai/text-embedding-3-small (1536d)","Baseline: fixed-size chunking may split paragraphs but provides consistent chunk length.", "7/15 (46.7%)","9/15 (60.0%)","2/5 (40.0%)","2/5 (40.0%)","chunks=1192; total_chars=541333; mean_chars=454.14; embedding=60.808s; upsert=1.079s"
+B,paragraph-aware,900,N/A,"document_id;source;page;printed_page;section_type;chapter;section;document_type;year;language",none,"OpenRouter / openai/text-embedding-3-small (1536d)","Paragraph-aware chunking is expected to preserve semantic context better than fixed-size chunking.", "9/15 (60.0%)","12/15 (80.0%)","2/5 (40.0%)","3/5 (60.0%)","chunks=715; total_chars=469220; mean_chars=656.25; embedding=36.440s; upsert=0.630s"
+C,paragraph-aware,900,N/A,"document_id;source;page;printed_page;section_type;chapter;section;document_type;year;language","Apply question.filter when present (chapter=1 or chapter=2)","OpenRouter / openai/text-embedding-3-small (1536d)","Metadata filtering should constrain retrieval to the requested chapter without changing the underlying chunking or embedding strategy.", "9/15 (60.0%)","12/15 (80.0%)","2/5 (40.0%)","3/5 (60.0%)","chunks=715; same chunks and embeddings as B; embedding reused; upsert=0.678s; filter compliance=6/6 questions and 18/18 records (100%)"
