@@ -1,0 +1,2134 @@
+[
+  {
+    "id": "q01",
+    "split": "dev",
+    "type": "direct",
+    "question": "What record level did the external borrowing of low- and middle-income countries (LMICs) reach at the end of 2025, and how much did it increase from 2024?",
+    "expected_answer": "LMIC external borrowing reached $9.4 trillion, up 5.5 percent from $8.9 trillion in 2024.",
+    "filter": {},
+    "gold": [
+      {
+        "source_id": "wb-idr-2026",
+        "page": 27,
+        "evidence_quotes": [
+          "LMICs’ external borrowing levels reached a record $9.4 trillion at the end of the year, increasing 5.5 percent from $8.9 trillion in 2024."
+        ]
+      }
+    ],
+    "hits": [
+      {
+        "chunk_id": "fixed-wb-idr-2026-p030-0000840-0001340",
+        "document_id": "wb-idr-2026",
+        "source": "data/wb_idr_2026.pdf",
+        "page": 30,
+        "text": "share that has remained stable over the\npast decade for LMICs.\nDebt increased across both low- and middle-income countries. In low-income\ncountries (LICs), it rose 8.9 percent to $262.4 billion. In MICs, debt rose\n5.4 percent to a record $9.2 trillion in 2025, the fastest increase since 2021. The\nrise was striking because China, which accounts for nearly one-quarter of LMIC\ndebt, continued to reduce its borrowing. China’s external debt fell by 4.3 percent\nto $2.3 trillion (figure 1.1), which mea",
+        "metadata": {
+          "year": 2026,
+          "chapter": "1",
+          "indexed": true,
+          "section": "Chapter 1. Analysis of External Debt Stocks and Debt Flows as of End-2025",
+          "chunking": "fixed",
+          "language": "en",
+          "chunk_end": 1340,
+          "char_count": 1818,
+          "chunk_start": 840,
+          "printed_page": "6",
+          "section_type": "analysis",
+          "chunk_ordinal": 2,
+          "document_type": "report",
+          "extraction_error": "",
+          "extraction_status": "ok",
+          "counted_as_content": true
+        },
+        "score": 0.7337125588562757
+      },
+      {
+        "chunk_id": "fixed-wb-idr-2026-p020-0000000-0000500",
+        "document_id": "wb-idr-2026",
+        "source": "data/wb_idr_2026.pdf",
+        "page": 20,
+        "text": "creditors, which increased by 5.7 percent (to $2.4 trillion) and 4.7 percent\n(to $2.7 trillion), respectively. LMIC economies, measured by gross national\nincome, grew by 5.1 percent in 2025. This strong economic growth\nencouraged lenders to return to these countries, and many LMIC governments\nwere willing to borrow despite relatively high interest rates.\n• The countries that can least afford it are paying the most to borrow. Increased\nborrowing from private creditors hardened lending terms dispr",
+        "metadata": {
+          "year": 2026,
+          "chapter": "",
+          "indexed": true,
+          "section": "Key Takeaways",
+          "chunking": "fixed",
+          "language": "en",
+          "chunk_end": 500,
+          "char_count": 2583,
+          "chunk_start": 0,
+          "printed_page": "",
+          "section_type": "key_takeaways",
+          "chunk_ordinal": 0,
+          "document_type": "report",
+          "extraction_error": "",
+          "extraction_status": "ok",
+          "counted_as_content": true
+        },
+        "score": 0.7324425054606409
+      },
+      {
+        "chunk_id": "fixed-wb-idr-2026-p019-0000420-0000920",
+        "document_id": "wb-idr-2026",
+        "source": "data/wb_idr_2026.pdf",
+        "page": 19,
+        "text": "steep price, especially for the poorest countries, which faced\nsome of their highest borrowing costs in decades. Debt service payments also rose\nfor a fifth consecutive year. Even so, stronger economic growth helped stabilize\nsome debt ratios, and net long-term debt transfers turned positive after years of\noutflows.\n• Debt accumulation accelerated sharply in 2025. The external debt of LMICs\njumped 5.5 percent to a record $9.4 trillion in 2025, the fastest increase\nsince 2021 and more than four t",
+        "metadata": {
+          "year": 2026,
+          "chapter": "",
+          "indexed": true,
+          "section": "Key Takeaways",
+          "chunking": "fixed",
+          "language": "en",
+          "chunk_end": 920,
+          "char_count": 2487,
+          "chunk_start": 420,
+          "printed_page": "",
+          "section_type": "key_takeaways",
+          "chunk_ordinal": 1,
+          "document_type": "report",
+          "extraction_error": "",
+          "extraction_status": "ok",
+          "counted_as_content": true
+        },
+        "score": 0.7254821706817791
+      }
+    ],
+    "hit_flags": [
+      false,
+      false,
+      false
+    ],
+    "hit_at_1": false,
+    "evidence_hit_at_3": false,
+    "strategy": "A",
+    "query_filter_applied": {}
+  },
+  {
+    "id": "q02",
+    "split": "dev",
+    "type": "explanatory",
+    "question": "Which two main factors, besides debt forgiveness, drove the change in LMIC external debt stock in 2025?",
+    "expected_answer": "Net debt inflows of $423.5 billion (more than double the 2024 amount) and the upward accounting effect of US dollar depreciation.",
+    "filter": {},
+    "gold": [
+      {
+        "source_id": "wb-idr-2026",
+        "page": 27,
+        "evidence_quotes": [
+          "The change in debt stock was driven by net debt inflows of $423.5 billion, a more than twofold increase from 2024, as well as by some debt forgiveness and the upward accounting effect of US dollar depreciation."
+        ]
+      }
+    ],
+    "hits": [
+      {
+        "chunk_id": "fixed-wb-idr-2026-p027-0000420-0000920",
+        "document_id": "wb-idr-2026",
+        "source": "data/wb_idr_2026.pdf",
+        "page": 27,
+        "text": "from $8.9 trillion in 2024. LMIC external debt has grown about\n60 percent over the past decade, and the 2025 increase was the largest since\nthe easing of the COVID-19 pandemic in 2021. The change in debt stock was\ndriven by net debt inflows of $423.5 billion, a more than twofold increase from\n2024, as well as by some debt forgiveness and the upward accounting effect of\nUS dollar depreciation. During the first half of 2025, the US dollar experienced\nits biggest depreciation against other currenc",
+        "metadata": {
+          "year": 2026,
+          "chapter": "1",
+          "indexed": true,
+          "section": "Chapter 1. Analysis of External Debt Stocks and Debt Flows as of End-2025",
+          "chunking": "fixed",
+          "language": "en",
+          "chunk_end": 920,
+          "char_count": 1642,
+          "chunk_start": 420,
+          "printed_page": "3",
+          "section_type": "analysis",
+          "chunk_ordinal": 1,
+          "document_type": "report",
+          "extraction_error": "",
+          "extraction_status": "ok",
+          "counted_as_content": true
+        },
+        "score": 0.7419650966597845
+      },
+      {
+        "chunk_id": "fixed-wb-idr-2026-p059-0000000-0000500",
+        "document_id": "wb-idr-2026",
+        "source": "data/wb_idr_2026.pdf",
+        "page": 59,
+        "text": "Key Debt Indicators, 2015–25\nIn 2025, LMICs’ external debt ratios remained mainly stable from the peak\nlevels recorded during the COVID-19 pandemic in 2020; however, aggregate\nimprovement was uneven, with debt stock ratios rising or holding flat while debt\nservice and interest payment ratios declined across most borrower groups. This\nchange in ratios reflects a combination of strong export and income growth, the\ncompletion of debt restructuring agreements in several IDA-eligible countries,\nand t",
+        "metadata": {
+          "year": 2026,
+          "chapter": "1",
+          "indexed": true,
+          "section": "Chapter 1. Analysis of External Debt Stocks and Debt Flows as of End-2025",
+          "chunking": "fixed",
+          "language": "en",
+          "chunk_end": 500,
+          "char_count": 2864,
+          "chunk_start": 0,
+          "printed_page": "35",
+          "section_type": "analysis",
+          "chunk_ordinal": 0,
+          "document_type": "report",
+          "extraction_error": "",
+          "extraction_status": "ok",
+          "counted_as_content": true
+        },
+        "score": 0.7329981418624241
+      },
+      {
+        "chunk_id": "fixed-wb-idr-2026-p030-0000420-0000920",
+        "document_id": "wb-idr-2026",
+        "source": "data/wb_idr_2026.pdf",
+        "page": 30,
+        "text": "ate investor confidence and lending, as well as\nLMICs’ eagerness to take advantage of times when international investors are\nwilling to lend.\nIn addition, the short-term debt stock of LMICs increased 4.0 percent to\n$2.4 trillion at end-2025. These obligations, which are composed of liabilities\nwith a maturity of one year or less and interest arrears on long term debt, stood\nfor 25.7 percent of total external debt, a share that has remained stable over the\npast decade for LMICs.\nDebt increased ac",
+        "metadata": {
+          "year": 2026,
+          "chapter": "1",
+          "indexed": true,
+          "section": "Chapter 1. Analysis of External Debt Stocks and Debt Flows as of End-2025",
+          "chunking": "fixed",
+          "language": "en",
+          "chunk_end": 920,
+          "char_count": 1818,
+          "chunk_start": 420,
+          "printed_page": "6",
+          "section_type": "analysis",
+          "chunk_ordinal": 1,
+          "document_type": "report",
+          "extraction_error": "",
+          "extraction_status": "ok",
+          "counted_as_content": true
+        },
+        "score": 0.7292185408469154
+      }
+    ],
+    "hit_flags": [
+      true,
+      false,
+      false
+    ],
+    "hit_at_1": true,
+    "evidence_hit_at_3": true,
+    "strategy": "A",
+    "query_filter_applied": {}
+  },
+  {
+    "id": "q03",
+    "split": "dev",
+    "type": "table_lookup",
+    "question": "According to Table 1.1, what was the stock of LMIC long-term debt owed to multilateral creditors in 2025?",
+    "expected_answer": "US$1,493.7 billion.",
+    "filter": {},
+    "gold": [
+      {
+        "source_id": "wb-idr-2026",
+        "page": 28,
+        "evidence_quotes": [
+          "Multilateral creditors 652.7 683.2 746.2 796.4 852.8 989.7 1,194.3 1,236.5 1,321.8 1,362.4 1,493.7"
+        ]
+      }
+    ],
+    "hits": [
+      {
+        "chunk_id": "fixed-wb-idr-2026-p038-0000000-0000500",
+        "document_id": "wb-idr-2026",
+        "source": "data/wb_idr_2026.pdf",
+        "page": 38,
+        "text": "LMICs’ debt stock owed to all other creditor groups also increased in 2025. Debt\nstock owed to official creditors (public institutions such as national governments\nand international organizations) increased 8.4 percent in 2025, to $2.0 trillion.\nLending by official bilateral creditors (national governments and their agencies)\nalso showed a comeback, increasing 4.7 percent in 2025 after a 3.4 percent\nretrenchment in 2024. Support from multilateral institutions such as the World\nBank Group and the",
+        "metadata": {
+          "year": 2026,
+          "chapter": "1",
+          "indexed": true,
+          "section": "Chapter 1. Analysis of External Debt Stocks and Debt Flows as of End-2025",
+          "chunking": "fixed",
+          "language": "en",
+          "chunk_end": 500,
+          "char_count": 2718,
+          "chunk_start": 0,
+          "printed_page": "14",
+          "section_type": "analysis",
+          "chunk_ordinal": 0,
+          "document_type": "report",
+          "extraction_error": "",
+          "extraction_status": "ok",
+          "counted_as_content": true
+        },
+        "score": 0.7558682332349375
+      },
+      {
+        "chunk_id": "fixed-wb-idr-2026-p034-0002520-0003020",
+        "document_id": "wb-idr-2026",
+        "source": "data/wb_idr_2026.pdf",
+        "page": 34,
+        "text": "usceptible to fluctuations in financial market\nconditions, pricing conditions, and perceived creditworthiness of the borrower,\nsaw a strong rebound in 2025. LMIC debt stock owed to private creditors\nincreased 5.2 percent in 2025 to $5.0 trillion, compared to the 0.6 percent\nincrease recorded in 2024. The increase in debt stock owed to private creditors\nwas due to a combined increase in debt owed to bondholders and to commercial\nbanks and other private creditors, which increased by 5.7 percent (t",
+        "metadata": {
+          "year": 2026,
+          "chapter": "1",
+          "indexed": true,
+          "section": "Chapter 1. Analysis of External Debt Stocks and Debt Flows as of End-2025",
+          "chunking": "fixed",
+          "language": "en",
+          "chunk_end": 3020,
+          "char_count": 3099,
+          "chunk_start": 2520,
+          "printed_page": "10",
+          "section_type": "analysis",
+          "chunk_ordinal": 6,
+          "document_type": "report",
+          "extraction_error": "",
+          "extraction_status": "ok",
+          "counted_as_content": true
+        },
+        "score": 0.752435739097541
+      },
+      {
+        "chunk_id": "fixed-wb-idr-2026-p030-0000420-0000920",
+        "document_id": "wb-idr-2026",
+        "source": "data/wb_idr_2026.pdf",
+        "page": 30,
+        "text": "ate investor confidence and lending, as well as\nLMICs’ eagerness to take advantage of times when international investors are\nwilling to lend.\nIn addition, the short-term debt stock of LMICs increased 4.0 percent to\n$2.4 trillion at end-2025. These obligations, which are composed of liabilities\nwith a maturity of one year or less and interest arrears on long term debt, stood\nfor 25.7 percent of total external debt, a share that has remained stable over the\npast decade for LMICs.\nDebt increased ac",
+        "metadata": {
+          "year": 2026,
+          "chapter": "1",
+          "indexed": true,
+          "section": "Chapter 1. Analysis of External Debt Stocks and Debt Flows as of End-2025",
+          "chunking": "fixed",
+          "language": "en",
+          "chunk_end": 920,
+          "char_count": 1818,
+          "chunk_start": 420,
+          "printed_page": "6",
+          "section_type": "analysis",
+          "chunk_ordinal": 1,
+          "document_type": "report",
+          "extraction_error": "",
+          "extraction_status": "ok",
+          "counted_as_content": true
+        },
+        "score": 0.740701436926767
+      }
+    ],
+    "hit_flags": [
+      false,
+      false,
+      false
+    ],
+    "hit_at_1": false,
+    "evidence_hit_at_3": false,
+    "strategy": "A",
+    "query_filter_applied": {}
+  },
+  {
+    "id": "q04",
+    "split": "dev",
+    "type": "table_lookup",
+    "question": "What was the 2025 external debt stock attributed to the World Bank (IBRD and IDA) in Table 1.1?",
+    "expected_answer": "US$498.7 billion.",
+    "filter": {},
+    "gold": [
+      {
+        "source_id": "wb-idr-2026",
+        "page": 28,
+        "evidence_quotes": [
+          "World Bank (IBRD and IDA) 278.0 288.6 311.7 321.3 339.5 375.2 387.5 405.0 435.7 463.1 498.7"
+        ]
+      }
+    ],
+    "hits": [
+      {
+        "chunk_id": "fixed-wb-idr-2026-p158-0000000-0000500",
+        "document_id": "wb-idr-2026",
+        "source": "data/wb_idr_2026.pdf",
+        "page": 158,
+        "text": "BOTSWANA\nSub-Saharan Africa Upper-middle-income IBRD Data as reported (A) Population 2.6 million GNI 19,217\nTOTAL EXTERNAL DEBT STOCK, 2025\n2,465\n+6.9% from 2024\nFigure 1 Total external debt, 2015–25\nFigure 2 External debt by creditor and creditor type in 2025, including IMF credit and SDR allocations\nTOTAL EXTERNAL DEBT 2,465\nPublic & publicly guaranteed\n2,350 115\nShort-term\nPUBLIC & PUBLICLY GUARANTEED - BY CREDITOR TYPE 2,350\nMultilateral\n2,232 118\nBilateral\nMULTILATERAL 2,232\nAfDB\n1,096\nWorl",
+        "metadata": {
+          "year": 2026,
+          "chapter": "",
+          "indexed": true,
+          "section": "BOTSWANA",
+          "chunking": "fixed",
+          "language": "en",
+          "chunk_end": 500,
+          "char_count": 1308,
+          "chunk_start": 0,
+          "printed_page": "134",
+          "section_type": "country_profile",
+          "chunk_ordinal": 0,
+          "document_type": "report",
+          "extraction_error": "",
+          "extraction_status": "ok",
+          "counted_as_content": false
+        },
+        "score": 0.7351938981623122
+      },
+      {
+        "chunk_id": "fixed-wb-idr-2026-p150-0001260-0001409",
+        "document_id": "wb-idr-2026",
+        "source": "data/wb_idr_2026.pdf",
+        "page": 150,
+        "text": "015 2025\n13,179\nUS$ million, unless otherwise indicated\nSource: World Bank Group International Debt Statistics database.\nData as reported (A)IBRD\n126",
+        "metadata": {
+          "year": 2026,
+          "chapter": "",
+          "indexed": true,
+          "section": "AZERBAIJAN",
+          "chunking": "fixed",
+          "language": "en",
+          "chunk_end": 1409,
+          "char_count": 1409,
+          "chunk_start": 1260,
+          "printed_page": "126",
+          "section_type": "country_profile",
+          "chunk_ordinal": 3,
+          "document_type": "report",
+          "extraction_error": "",
+          "extraction_status": "ok",
+          "counted_as_content": false
+        },
+        "score": 0.7211828919238459
+      },
+      {
+        "chunk_id": "fixed-wb-idr-2026-p028-0000000-0000500",
+        "document_id": "wb-idr-2026",
+        "source": "data/wb_idr_2026.pdf",
+        "page": 28,
+        "text": "Table 1.1 External Debt Stock of Low- and Middle-Income Countries, 2015–25\nUS$ (billion)\n2015 2016 2017 2018 2019 2020 2021 2022 2023 2024 2025\nDebt stock 5,915.7 6,136.4 6,933.1 7,382.3 7,757.7 8.182.1 8,829.2 8,726.3 8,889.6 8,949.6 9,445.0\nLong-term 4,396.6 4,661.3 5,130.5 5,372.6 5,728.8 6,140.5 6,587.9 6,481.8 6,568.3 6,618.7 7,020.9\nOfficial creditors 1,019.3 1,077.0 1,179.0 1,250.2 1,315.3 1,483.2 1,683.8 1,717.2 1,815.5 1,839.4 1,993.3\nBilateral creditors 366.6 393.9 432.8 453.8 462.5 49",
+        "metadata": {
+          "year": 2026,
+          "chapter": "1",
+          "indexed": true,
+          "section": "Chapter 1. Analysis of External Debt Stocks and Debt Flows as of End-2025",
+          "chunking": "fixed",
+          "language": "en",
+          "chunk_end": 500,
+          "char_count": 3025,
+          "chunk_start": 0,
+          "printed_page": "4",
+          "section_type": "analysis",
+          "chunk_ordinal": 0,
+          "document_type": "report",
+          "extraction_error": "",
+          "extraction_status": "ok",
+          "counted_as_content": true
+        },
+        "score": 0.719060300426969
+      }
+    ],
+    "hit_flags": [
+      false,
+      false,
+      false
+    ],
+    "hit_at_1": false,
+    "evidence_hit_at_3": false,
+    "strategy": "A",
+    "query_filter_applied": {}
+  },
+  {
+    "id": "q05",
+    "split": "dev",
+    "type": "direct",
+    "question": "Which three components make up a country's total external debt, according to the report's definition?",
+    "expected_answer": "Public and publicly guaranteed debt, private nonguaranteed debt, and short-term debt.",
+    "filter": {},
+    "gold": [
+      {
+        "source_id": "wb-idr-2026",
+        "page": 29,
+        "evidence_quotes": [
+          "The total external debt of a country is the sum of public and publicly guaranteed debt, private nonguaranteed debt, and short-term debt."
+        ]
+      }
+    ],
+    "hits": [
+      {
+        "chunk_id": "fixed-wb-idr-2026-p141-0000000-0000500",
+        "document_id": "wb-idr-2026",
+        "source": "data/wb_idr_2026.pdf",
+        "page": 141,
+        "text": "MIDDLE EAST, NORTH AFRICA, AFGHANISTAN, AND PAKISTAN\n13 countries Population 741 million GNI 2,036\nTOTAL EXTERNAL DEBT STOCK, 2025\n598\n+5.8% from 2024\nFigure 1 Total external debt, 2015–25\nFigure 2 External debt by creditor and creditor type in 2025, including IMF credit and SDR allocations\nTOTAL EXTERNAL DEBT 598\nPublic & publicly guaranteed\n425 51\nShort-term\n122\nPrivate nonguaranteed\nPUBLIC & PUBLICLY GUARANTEED - BY CREDITOR TYPE 425\nMultilateral\n186\nBilateral\n114\nPrivate creditors\n126\nMULTIL",
+        "metadata": {
+          "year": 2026,
+          "chapter": "",
+          "indexed": true,
+          "section": "MIDDLE EAST, NORTH AFRICA, AFGHANISTAN, AND PAKISTAN",
+          "chunking": "fixed",
+          "language": "en",
+          "chunk_end": 500,
+          "char_count": 1334,
+          "chunk_start": 0,
+          "printed_page": "117",
+          "section_type": "country_profile",
+          "chunk_ordinal": 0,
+          "document_type": "report",
+          "extraction_error": "",
+          "extraction_status": "ok",
+          "counted_as_content": false
+        },
+        "score": 0.6497668555496651
+      },
+      {
+        "chunk_id": "fixed-wb-idr-2026-p192-0000420-0000920",
+        "document_id": "wb-idr-2026",
+        "source": "data/wb_idr_2026.pdf",
+        "page": 192,
+        "text": "editor type in 2025, including IMF credit and SDR allocations\nTOTAL EXTERNAL DEBT 4,277\nPublic & publicly guaranteed\n3,224\nPrivate nonguaranteed\n999\nShort-term 54\nPUBLIC & PUBLICLY GUARANTEED - BY CREDITOR TYPE 3,224\nMultilateral\n2,226\nBilateral\n946\nMULTILATERAL 2,226\nIDB\n1,253 358\nOther multilateral\n615\nIMF-SDR allocations\nBILATERAL 946\nChina\n552 276\nUnited Kingdom 118\nOther bilateral\nFigure 3 Debt ratios, 2015–25\nShaded band shows the 25th–75th percentile range of DRS reporting countries\nExter",
+        "metadata": {
+          "year": 2026,
+          "chapter": "",
+          "indexed": true,
+          "section": "GUYANA",
+          "chunking": "fixed",
+          "language": "en",
+          "chunk_end": 920,
+          "char_count": 1396,
+          "chunk_start": 420,
+          "printed_page": "168",
+          "section_type": "country_profile",
+          "chunk_ordinal": 1,
+          "document_type": "report",
+          "extraction_error": "",
+          "extraction_status": "ok",
+          "counted_as_content": false
+        },
+        "score": 0.6445856843104634
+      },
+      {
+        "chunk_id": "fixed-wb-idr-2026-p204-0000420-0000920",
+        "document_id": "wb-idr-2026",
+        "source": "data/wb_idr_2026.pdf",
+        "page": 204,
+        "text": "TAL EXTERNAL DEBT 12,526\nPublic & publicly guaranteed\n5,577\nPrivate nonguaranteed\n5,516\nShort-term\n1,433\nPUBLIC & PUBLICLY GUARANTEED - BY CREDITOR TYPE 5,577\nMultilateral\n2,975\nBilateral\n1,902\nPrivate\ncreditors\n700\nMULTILATERAL 2,975\nWorld Bank-IDA\n930\nAsian Dev. Bank\n869\nOther multilateral\n1,176\nBILATERAL 1,902\nChina\n1,501 265\nJapan 136\nOther bilateral\nFigure 3 Debt ratios, 2015–25\nShaded band shows the 25th–75th percentile range of DRS reporting countries\nExternal debt / exports\n215% +54.0%\nE",
+        "metadata": {
+          "year": 2026,
+          "chapter": "",
+          "indexed": true,
+          "section": "KYRGYZ REPUBLIC",
+          "chunking": "fixed",
+          "language": "en",
+          "chunk_end": 920,
+          "char_count": 1308,
+          "chunk_start": 420,
+          "printed_page": "180",
+          "section_type": "country_profile",
+          "chunk_ordinal": 1,
+          "document_type": "report",
+          "extraction_error": "",
+          "extraction_status": "ok",
+          "counted_as_content": false
+        },
+        "score": 0.642601184623824
+      }
+    ],
+    "hit_flags": [
+      false,
+      false,
+      false
+    ],
+    "hit_at_1": false,
+    "evidence_hit_at_3": false,
+    "strategy": "A",
+    "query_filter_applied": {}
+  },
+  {
+    "id": "q06",
+    "split": "dev",
+    "type": "definition",
+    "question": "How are debt data reported to the Debtor Reporting System (DRS) checked before they are used in the report?",
+    "expected_answer": "They are validated against data from other sources and, when appropriate, supplemented with those data.",
+    "filter": {},
+    "gold": [
+      {
+        "source_id": "wb-idr-2026",
+        "page": 29,
+        "evidence_quotes": [
+          "All debt data reported to the DRS are validated against—and, when appropriate, supplemented by—data from other sources."
+        ]
+      }
+    ],
+    "hits": [
+      {
+        "chunk_id": "fixed-wb-idr-2026-p028-0002100-0002600",
+        "document_id": "wb-idr-2026",
+        "source": "data/wb_idr_2026.pdf",
+        "page": 28,
+        "text": "hese data is reports to\nthe World Bank Group’s Debtor Reporting System (DRS) from member countries\nthat have received either International Bank for Reconstruction and Development\nloans or International Development Association credits, and that have outstanding\nobligations to the World Bank Group. The DRS, instituted in 1951, has its origins\nin the World Bank Group’s need to monitor and assess the financial position of\nits borrowers. Comprehensive information on data sources and the methodology\nu",
+        "metadata": {
+          "year": 2026,
+          "chapter": "1",
+          "indexed": true,
+          "section": "Chapter 1. Analysis of External Debt Stocks and Debt Flows as of End-2025",
+          "chunking": "fixed",
+          "language": "en",
+          "chunk_end": 2600,
+          "char_count": 3025,
+          "chunk_start": 2100,
+          "printed_page": "4",
+          "section_type": "analysis",
+          "chunk_ordinal": 5,
+          "document_type": "report",
+          "extraction_error": "",
+          "extraction_status": "ok",
+          "counted_as_content": true
+        },
+        "score": 0.6921811806311478
+      },
+      {
+        "chunk_id": "fixed-wb-idr-2026-p107-0002100-0002290",
+        "document_id": "wb-idr-2026",
+        "source": "data/wb_idr_2026.pdf",
+        "page": 107,
+        "text": "of data reported by borrowers to the\nWorld Bank Group Debtor Reporting System (DRS) with data made available by\nbilateral creditors. Consequently, asymmetries between the two data sets have",
+        "metadata": {
+          "year": 2026,
+          "chapter": "3",
+          "indexed": true,
+          "section": "Chapter 3. Advancing Debt Transparency",
+          "chunking": "fixed",
+          "language": "en",
+          "chunk_end": 2290,
+          "char_count": 2290,
+          "chunk_start": 2100,
+          "printed_page": "83",
+          "section_type": "analysis",
+          "chunk_ordinal": 5,
+          "document_type": "report",
+          "extraction_error": "",
+          "extraction_status": "ok",
+          "counted_as_content": true
+        },
+        "score": 0.6848175081683546
+      },
+      {
+        "chunk_id": "fixed-wb-idr-2026-p029-0001680-0002180",
+        "document_id": "wb-idr-2026",
+        "source": "data/wb_idr_2026.pdf",
+        "page": 29,
+        "text": "the Bank for International Settlements.\nAll debt data reported to the DRS are validated against—and, when appropriate,\nsupplemented by—data from other sources. These additional data include the\nBalance of Payments and International Investment Position statistics, Quarterly\nExternal Debt Statistics, information published on official government websites,\nreports from the International Monetary Fund, regional development banks,\nthe Organisation for Economic Co-operation and Development, the Bank fo",
+        "metadata": {
+          "year": 2026,
+          "chapter": "1",
+          "indexed": true,
+          "section": "Chapter 1. Analysis of External Debt Stocks and Debt Flows as of End-2025",
+          "chunking": "fixed",
+          "language": "en",
+          "chunk_end": 2180,
+          "char_count": 2728,
+          "chunk_start": 1680,
+          "printed_page": "5",
+          "section_type": "analysis",
+          "chunk_ordinal": 4,
+          "document_type": "report",
+          "extraction_error": "",
+          "extraction_status": "ok",
+          "counted_as_content": true
+        },
+        "score": 0.6710622172869668
+      }
+    ],
+    "hit_flags": [
+      false,
+      false,
+      true
+    ],
+    "hit_at_1": false,
+    "evidence_hit_at_3": true,
+    "strategy": "A",
+    "query_filter_applied": {}
+  },
+  {
+    "id": "q07",
+    "split": "dev",
+    "type": "definition",
+    "question": "What maturity threshold does the report use to define short-term debt, and is it covered by DRS reporting requirements?",
+    "expected_answer": "Short-term debt has an original maturity of one year or less and is not covered under DRS reporting requirements.",
+    "filter": {},
+    "gold": [
+      {
+        "source_id": "wb-idr-2026",
+        "page": 29,
+        "evidence_quotes": [
+          "Short-term debt is defined as debt with an original maturity of one year or less and is not covered under DRS reporting requirements."
+        ]
+      }
+    ],
+    "hits": [
+      {
+        "chunk_id": "fixed-wb-idr-2026-p029-0001260-0001760",
+        "document_id": "wb-idr-2026",
+        "source": "data/wb_idr_2026.pdf",
+        "page": 29,
+        "text": "However, most DRS\nreporters provide an annual report on outstanding short-term debt stocks on\na voluntary basis. For countries that do not provide these data, information\non their short-term debt is drawn from the Quarterly External Debt Statistics\ndatabase, a joint World Bank Group–International Monetary Fund initiative,\nwherein data are compiled and reported by countries’ central banks, along with\ndata compiled by the Bank for International Settlements.\nAll debt data reported to the DRS are va",
+        "metadata": {
+          "year": 2026,
+          "chapter": "1",
+          "indexed": true,
+          "section": "Chapter 1. Analysis of External Debt Stocks and Debt Flows as of End-2025",
+          "chunking": "fixed",
+          "language": "en",
+          "chunk_end": 1760,
+          "char_count": 2728,
+          "chunk_start": 1260,
+          "printed_page": "5",
+          "section_type": "analysis",
+          "chunk_ordinal": 3,
+          "document_type": "report",
+          "extraction_error": "",
+          "extraction_status": "ok",
+          "counted_as_content": true
+        },
+        "score": 0.6931600168938352
+      },
+      {
+        "chunk_id": "fixed-wb-idr-2026-p132-0000420-0000920",
+        "document_id": "wb-idr-2026",
+        "source": "data/wb_idr_2026.pdf",
+        "page": 132,
+        "text": "the individual debt level, it\ncaptures detailed information on borrowers, creditors, instruments, currencies,\ncommitments, disbursements, debt service, arrears, and restructurings,\nproviding insight not only into the amount of debt outstanding but also into its\ncomposition, financing terms, repayment profile, and evolution. As sovereign\nfinancing instruments and practices continue to evolve, DRS reporting\nrequirements, classifications, and methodological guidance are continuously\nstrengthened t",
+        "metadata": {
+          "year": 2026,
+          "chapter": "3",
+          "indexed": true,
+          "section": "Chapter 3. Advancing Debt Transparency",
+          "chunking": "fixed",
+          "language": "en",
+          "chunk_end": 920,
+          "char_count": 2135,
+          "chunk_start": 420,
+          "printed_page": "108",
+          "section_type": "analysis",
+          "chunk_ordinal": 1,
+          "document_type": "report",
+          "extraction_error": "",
+          "extraction_status": "ok",
+          "counted_as_content": true
+        },
+        "score": 0.6703477538075426
+      },
+      {
+        "chunk_id": "fixed-wb-idr-2026-p029-0000840-0001340",
+        "document_id": "wb-idr-2026",
+        "source": "data/wb_idr_2026.pdf",
+        "page": 29,
+        "text": "ns of private\ndebtors that are not guaranteed by a public entity. The DRS has covered private\nnonguaranteed debt since 1973; however, for this category of debt data, the\nannual status and transactions (gross disbursements, principal, and interest\npayments) are reported in aggregate.\n• Short-term debt is defined as debt with an original maturity of one year or less\nand is not covered under DRS reporting requirements. However, most DRS\nreporters provide an annual report on outstanding short-term d",
+        "metadata": {
+          "year": 2026,
+          "chapter": "1",
+          "indexed": true,
+          "section": "Chapter 1. Analysis of External Debt Stocks and Debt Flows as of End-2025",
+          "chunking": "fixed",
+          "language": "en",
+          "chunk_end": 1340,
+          "char_count": 2728,
+          "chunk_start": 840,
+          "printed_page": "5",
+          "section_type": "analysis",
+          "chunk_ordinal": 2,
+          "document_type": "report",
+          "extraction_error": "",
+          "extraction_status": "ok",
+          "counted_as_content": true
+        },
+        "score": 0.6599124359095443
+      }
+    ],
+    "hit_flags": [
+      false,
+      false,
+      true
+    ],
+    "hit_at_1": false,
+    "evidence_hit_at_3": true,
+    "strategy": "A",
+    "query_filter_applied": {}
+  },
+  {
+    "id": "q08",
+    "split": "dev",
+    "type": "direct",
+    "question": "By what percentage and to what total did the LMIC short-term debt stock increase at the end of 2025?",
+    "expected_answer": "It increased by 4.0 percent to $2.4 trillion.",
+    "filter": {},
+    "gold": [
+      {
+        "source_id": "wb-idr-2026",
+        "page": 30,
+        "evidence_quotes": [
+          "In addition, the short-term debt stock of LMICs increased 4.0 percent to $2.4 trillion at end-2025."
+        ]
+      }
+    ],
+    "hits": [
+      {
+        "chunk_id": "fixed-wb-idr-2026-p030-0000420-0000920",
+        "document_id": "wb-idr-2026",
+        "source": "data/wb_idr_2026.pdf",
+        "page": 30,
+        "text": "ate investor confidence and lending, as well as\nLMICs’ eagerness to take advantage of times when international investors are\nwilling to lend.\nIn addition, the short-term debt stock of LMICs increased 4.0 percent to\n$2.4 trillion at end-2025. These obligations, which are composed of liabilities\nwith a maturity of one year or less and interest arrears on long term debt, stood\nfor 25.7 percent of total external debt, a share that has remained stable over the\npast decade for LMICs.\nDebt increased ac",
+        "metadata": {
+          "year": 2026,
+          "chapter": "1",
+          "indexed": true,
+          "section": "Chapter 1. Analysis of External Debt Stocks and Debt Flows as of End-2025",
+          "chunking": "fixed",
+          "language": "en",
+          "chunk_end": 920,
+          "char_count": 1818,
+          "chunk_start": 420,
+          "printed_page": "6",
+          "section_type": "analysis",
+          "chunk_ordinal": 1,
+          "document_type": "report",
+          "extraction_error": "",
+          "extraction_status": "ok",
+          "counted_as_content": true
+        },
+        "score": 0.7803806977584096
+      },
+      {
+        "chunk_id": "fixed-wb-idr-2026-p031-0000840-0001340",
+        "document_id": "wb-idr-2026",
+        "source": "data/wb_idr_2026.pdf",
+        "page": 31,
+        "text": "e,\nincreasing by 7.0 percent to $2.7 trillion in 2025, with short-term debt stock\nrising at a rate of 8.8 percent, and long-term debt at a rate of 6.7 percent. These\nfive countries accounted for 29.6 percent of MIC total debt stock. Some of these\ncountries also turned to complex liability management operations to transform\nthe profile of their debt portfolios, as well as total return swap operations,\nwhich have gained prominence for LMICs (refer to box 1.2 for definitions and\ncountry-specific us",
+        "metadata": {
+          "year": 2026,
+          "chapter": "1",
+          "indexed": true,
+          "section": "Chapter 1. Analysis of External Debt Stocks and Debt Flows as of End-2025",
+          "chunking": "fixed",
+          "language": "en",
+          "chunk_end": 1340,
+          "char_count": 2570,
+          "chunk_start": 840,
+          "printed_page": "7",
+          "section_type": "analysis",
+          "chunk_ordinal": 2,
+          "document_type": "report",
+          "extraction_error": "",
+          "extraction_status": "ok",
+          "counted_as_content": true
+        },
+        "score": 0.7574750801239561
+      },
+      {
+        "chunk_id": "fixed-wb-idr-2026-p034-0002520-0003020",
+        "document_id": "wb-idr-2026",
+        "source": "data/wb_idr_2026.pdf",
+        "page": 34,
+        "text": "usceptible to fluctuations in financial market\nconditions, pricing conditions, and perceived creditworthiness of the borrower,\nsaw a strong rebound in 2025. LMIC debt stock owed to private creditors\nincreased 5.2 percent in 2025 to $5.0 trillion, compared to the 0.6 percent\nincrease recorded in 2024. The increase in debt stock owed to private creditors\nwas due to a combined increase in debt owed to bondholders and to commercial\nbanks and other private creditors, which increased by 5.7 percent (t",
+        "metadata": {
+          "year": 2026,
+          "chapter": "1",
+          "indexed": true,
+          "section": "Chapter 1. Analysis of External Debt Stocks and Debt Flows as of End-2025",
+          "chunking": "fixed",
+          "language": "en",
+          "chunk_end": 3020,
+          "char_count": 3099,
+          "chunk_start": 2520,
+          "printed_page": "10",
+          "section_type": "analysis",
+          "chunk_ordinal": 6,
+          "document_type": "report",
+          "extraction_error": "",
+          "extraction_status": "ok",
+          "counted_as_content": true
+        },
+        "score": 0.7475308725983539
+      }
+    ],
+    "hit_flags": [
+      true,
+      false,
+      false
+    ],
+    "hit_at_1": true,
+    "evidence_hit_at_3": true,
+    "strategy": "A",
+    "query_filter_applied": {}
+  },
+  {
+    "id": "q09",
+    "split": "dev",
+    "type": "comparison",
+    "question": "How did external debt growth in low-income countries (LICs) compare with that in middle-income countries (MICs) in 2025?",
+    "expected_answer": "LIC debt rose 8.9 percent to $262.4 billion, while MIC debt rose 5.4 percent to a record $9.2 trillion.",
+    "filter": {},
+    "gold": [
+      {
+        "source_id": "wb-idr-2026",
+        "page": 30,
+        "evidence_quotes": [
+          "In low-income countries (LICs), it rose 8.9 percent to $262.4 billion. In MICs, debt rose 5.4 percent to a record $9.2 trillion in 2025, the fastest increase since 2021."
+        ]
+      }
+    ],
+    "hits": [
+      {
+        "chunk_id": "fixed-wb-idr-2026-p030-0000840-0001340",
+        "document_id": "wb-idr-2026",
+        "source": "data/wb_idr_2026.pdf",
+        "page": 30,
+        "text": "share that has remained stable over the\npast decade for LMICs.\nDebt increased across both low- and middle-income countries. In low-income\ncountries (LICs), it rose 8.9 percent to $262.4 billion. In MICs, debt rose\n5.4 percent to a record $9.2 trillion in 2025, the fastest increase since 2021. The\nrise was striking because China, which accounts for nearly one-quarter of LMIC\ndebt, continued to reduce its borrowing. China’s external debt fell by 4.3 percent\nto $2.3 trillion (figure 1.1), which mea",
+        "metadata": {
+          "year": 2026,
+          "chapter": "1",
+          "indexed": true,
+          "section": "Chapter 1. Analysis of External Debt Stocks and Debt Flows as of End-2025",
+          "chunking": "fixed",
+          "language": "en",
+          "chunk_end": 1340,
+          "char_count": 1818,
+          "chunk_start": 840,
+          "printed_page": "6",
+          "section_type": "analysis",
+          "chunk_ordinal": 2,
+          "document_type": "report",
+          "extraction_error": "",
+          "extraction_status": "ok",
+          "counted_as_content": true
+        },
+        "score": 0.7413007729689093
+      },
+      {
+        "chunk_id": "fixed-wb-idr-2026-p034-0001680-0002180",
+        "document_id": "wb-idr-2026",
+        "source": "data/wb_idr_2026.pdf",
+        "page": 34,
+        "text": "n of the effect of the cross-currency valuation.\nViewed from a lending category perspective, the external debt stock of countries\neligible for International Development Association (IDA) financing increased\n8.1 percent in 2025, to $1.3 trillion. Of this group, LICs’ debt increased at an\neven faster pace of 8.9 percent in 2025, to $262.4 billion, a marked increase not\nseen since 2020. Although LICs account for only a 2.8 percent share of total\nLMIC debt stock, over 60 percent of these countries a",
+        "metadata": {
+          "year": 2026,
+          "chapter": "1",
+          "indexed": true,
+          "section": "Chapter 1. Analysis of External Debt Stocks and Debt Flows as of End-2025",
+          "chunking": "fixed",
+          "language": "en",
+          "chunk_end": 2180,
+          "char_count": 3099,
+          "chunk_start": 1680,
+          "printed_page": "10",
+          "section_type": "analysis",
+          "chunk_ordinal": 4,
+          "document_type": "report",
+          "extraction_error": "",
+          "extraction_status": "ok",
+          "counted_as_content": true
+        },
+        "score": 0.717991775529368
+      },
+      {
+        "chunk_id": "fixed-wb-idr-2026-p059-0000000-0000500",
+        "document_id": "wb-idr-2026",
+        "source": "data/wb_idr_2026.pdf",
+        "page": 59,
+        "text": "Key Debt Indicators, 2015–25\nIn 2025, LMICs’ external debt ratios remained mainly stable from the peak\nlevels recorded during the COVID-19 pandemic in 2020; however, aggregate\nimprovement was uneven, with debt stock ratios rising or holding flat while debt\nservice and interest payment ratios declined across most borrower groups. This\nchange in ratios reflects a combination of strong export and income growth, the\ncompletion of debt restructuring agreements in several IDA-eligible countries,\nand t",
+        "metadata": {
+          "year": 2026,
+          "chapter": "1",
+          "indexed": true,
+          "section": "Chapter 1. Analysis of External Debt Stocks and Debt Flows as of End-2025",
+          "chunking": "fixed",
+          "language": "en",
+          "chunk_end": 500,
+          "char_count": 2864,
+          "chunk_start": 0,
+          "printed_page": "35",
+          "section_type": "analysis",
+          "chunk_ordinal": 0,
+          "document_type": "report",
+          "extraction_error": "",
+          "extraction_status": "ok",
+          "counted_as_content": true
+        },
+        "score": 0.7171740850700777
+      }
+    ],
+    "hit_flags": [
+      true,
+      false,
+      false
+    ],
+    "hit_at_1": true,
+    "evidence_hit_at_3": true,
+    "strategy": "A",
+    "query_filter_applied": {}
+  },
+  {
+    "id": "q10",
+    "split": "dev",
+    "type": "paraphrase",
+    "question": "When China is left out, how quickly did MIC external debt grow in 2025, and what was its resulting stock?",
+    "expected_answer": "It increased by 9.1 percent to $6.9 trillion.",
+    "filter": {},
+    "gold": [
+      {
+        "source_id": "wb-idr-2026",
+        "page": 31,
+        "evidence_quotes": [
+          "When China is excluded, the cumulative external debt stock of MICs increased at a much faster pace—by 9.1 percent in 2025, to $6.9 trillion in 2025."
+        ]
+      }
+    ],
+    "hits": [
+      {
+        "chunk_id": "fixed-wb-idr-2026-p031-0000000-0000500",
+        "document_id": "wb-idr-2026",
+        "source": "data/wb_idr_2026.pdf",
+        "page": 31,
+        "text": "When China is excluded, the cumulative external debt stock of MICs increased\nat a much faster pace—by 9.1 percent in 2025, to $6.9 trillion in 2025. An\nincrease of that magnitude has not been seen since 2017 and was concentrated\namong the 10 largest LMIC borrowers other than China. 1 These borrowers\naccount for 59.5 percent of all LMIC external debt. Half of them recorded\ndouble-digit increases in their borrowing levels in 2025, led by a 29.2 percent\nincrease in Ukraine’s debt stock, to $250.3 b",
+        "metadata": {
+          "year": 2026,
+          "chapter": "1",
+          "indexed": true,
+          "section": "Chapter 1. Analysis of External Debt Stocks and Debt Flows as of End-2025",
+          "chunking": "fixed",
+          "language": "en",
+          "chunk_end": 500,
+          "char_count": 2570,
+          "chunk_start": 0,
+          "printed_page": "7",
+          "section_type": "analysis",
+          "chunk_ordinal": 0,
+          "document_type": "report",
+          "extraction_error": "",
+          "extraction_status": "ok",
+          "counted_as_content": true
+        },
+        "score": 0.7760251848268542
+      },
+      {
+        "chunk_id": "fixed-wb-idr-2026-p030-0001260-0001760",
+        "document_id": "wb-idr-2026",
+        "source": "data/wb_idr_2026.pdf",
+        "page": 30,
+        "text": "ina’s external debt fell by 4.3 percent\nto $2.3 trillion (figure 1.1), which means that debt accumulated substantially\nfaster across other MICs than the overall MIC figure suggests.\nFigure 1.1 External Debt Stocks of Low- and Middle-Income Countries, 2015–25\n0\n2\n4\n6\n8\n10\nUS$ (trillion)\n2015 2016 2017 2018 2019 2020 2021 2022 2023 2024 2025\nLow- and middle-income countries China\nIDA-eligible countries Other low- and middle-income countries\nSource: World Bank Group International Debt Statistics da",
+        "metadata": {
+          "year": 2026,
+          "chapter": "1",
+          "indexed": true,
+          "section": "Chapter 1. Analysis of External Debt Stocks and Debt Flows as of End-2025",
+          "chunking": "fixed",
+          "language": "en",
+          "chunk_end": 1760,
+          "char_count": 1818,
+          "chunk_start": 1260,
+          "printed_page": "6",
+          "section_type": "analysis",
+          "chunk_ordinal": 3,
+          "document_type": "report",
+          "extraction_error": "",
+          "extraction_status": "ok",
+          "counted_as_content": true
+        },
+        "score": 0.7002693159320298
+      },
+      {
+        "chunk_id": "fixed-wb-idr-2026-p167-0000000-0000500",
+        "document_id": "wb-idr-2026",
+        "source": "data/wb_idr_2026.pdf",
+        "page": 167,
+        "text": "CHINA\nEast Asia & Pacific Upper-middle-income IBRD Preliminary data (P) Population 1,406.6 million GNI 19,384,279\nTOTAL EXTERNAL DEBT STOCK, 2025\n2,277,598\n-4.3% from 2024\nFigure 1 Total external debt, 2015–25\nFigure 2 External debt by creditor and creditor type in 2025, including IMF credit and SDR allocations\nTOTAL EXTERNAL DEBT 2,277,598\nPublic & publicly\nguaranteed\n509,812\nPrivate nonguaranteed\n507,949\nShort-term\n1,259,838\nPUBLIC & PUBLICLY GUARANTEED - BY CREDITOR TYPE 509,812\nMultilateral",
+        "metadata": {
+          "year": 2026,
+          "chapter": "",
+          "indexed": true,
+          "section": "CHINA",
+          "chunking": "fixed",
+          "language": "en",
+          "chunk_end": 500,
+          "char_count": 1358,
+          "chunk_start": 0,
+          "printed_page": "143",
+          "section_type": "country_profile",
+          "chunk_ordinal": 0,
+          "document_type": "report",
+          "extraction_error": "",
+          "extraction_status": "ok",
+          "counted_as_content": false
+        },
+        "score": 0.6789939043023557
+      }
+    ],
+    "hit_flags": [
+      true,
+      false,
+      false
+    ],
+    "hit_at_1": true,
+    "evidence_hit_at_3": true,
+    "strategy": "A",
+    "query_filter_applied": {}
+  },
+  {
+    "id": "q11",
+    "split": "dev",
+    "type": "metadata_filter",
+    "question": "Within Chapter 1, what share of all LMIC external debt was accounted for by the ten largest LMIC borrowers other than China?",
+    "expected_answer": "They accounted for 59.5 percent of all LMIC external debt.",
+    "filter": {
+      "chapter": "1"
+    },
+    "gold": [
+      {
+        "source_id": "wb-idr-2026",
+        "page": 31,
+        "evidence_quotes": [
+          "These borrowers account for 59.5 percent of all LMIC external debt."
+        ]
+      }
+    ],
+    "hits": [
+      {
+        "chunk_id": "fixed-wb-idr-2026-p031-0000000-0000500",
+        "document_id": "wb-idr-2026",
+        "source": "data/wb_idr_2026.pdf",
+        "page": 31,
+        "text": "When China is excluded, the cumulative external debt stock of MICs increased\nat a much faster pace—by 9.1 percent in 2025, to $6.9 trillion in 2025. An\nincrease of that magnitude has not been seen since 2017 and was concentrated\namong the 10 largest LMIC borrowers other than China. 1 These borrowers\naccount for 59.5 percent of all LMIC external debt. Half of them recorded\ndouble-digit increases in their borrowing levels in 2025, led by a 29.2 percent\nincrease in Ukraine’s debt stock, to $250.3 b",
+        "metadata": {
+          "year": 2026,
+          "chapter": "1",
+          "indexed": true,
+          "section": "Chapter 1. Analysis of External Debt Stocks and Debt Flows as of End-2025",
+          "chunking": "fixed",
+          "language": "en",
+          "chunk_end": 500,
+          "char_count": 2570,
+          "chunk_start": 0,
+          "printed_page": "7",
+          "section_type": "analysis",
+          "chunk_ordinal": 0,
+          "document_type": "report",
+          "extraction_error": "",
+          "extraction_status": "ok",
+          "counted_as_content": true
+        },
+        "score": 0.7398753478312755
+      },
+      {
+        "chunk_id": "fixed-wb-idr-2026-p045-0001680-0002180",
+        "document_id": "wb-idr-2026",
+        "source": "data/wb_idr_2026.pdf",
+        "page": 45,
+        "text": "ower side, net debt inflows were highly concentrated among the\ntop 10 LMIC borrowers, excluding China. These countries are all classified\nas MICs and accounted for 88.1 percent of total net debt inflows to LMICs in\n2025, and their total debt inflows increased drastically, more than doubling\nto $373.1 billion. Because China has been recording net debt outflows since\n2022, this group of countries’ collective share of the total has become more\nsubstantial, increasing from an average 26.6 percent du",
+        "metadata": {
+          "year": 2026,
+          "chapter": "1",
+          "indexed": true,
+          "section": "Chapter 1. Analysis of External Debt Stocks and Debt Flows as of End-2025",
+          "chunking": "fixed",
+          "language": "en",
+          "chunk_end": 2180,
+          "char_count": 2854,
+          "chunk_start": 1680,
+          "printed_page": "21",
+          "section_type": "analysis",
+          "chunk_ordinal": 4,
+          "document_type": "report",
+          "extraction_error": "",
+          "extraction_status": "ok",
+          "counted_as_content": true
+        },
+        "score": 0.7364404120562458
+      },
+      {
+        "chunk_id": "fixed-wb-idr-2026-p049-0000840-0001340",
+        "document_id": "wb-idr-2026",
+        "source": "data/wb_idr_2026.pdf",
+        "page": 49,
+        "text": "anks\nand other private creditors (down 1.5 percent to $703.8 billion).\nChina, the largest borrower among LMICs, accounted for 30.0 percent of the\ngroup’s total debt service payments, and recorded a 13.7 percent increase to $419.8\nbillion in 2025. The country’s largest share of debt service payments, and its largest\nyearly increase in payments, went to private creditors, recording a 19.2 percent\nincrease to $330.3 billion in 2025. When China is excluded, total debt service\npayments of LMICs decre",
+        "metadata": {
+          "year": 2026,
+          "chapter": "1",
+          "indexed": true,
+          "section": "Chapter 1. Analysis of External Debt Stocks and Debt Flows as of End-2025",
+          "chunking": "fixed",
+          "language": "en",
+          "chunk_end": 1340,
+          "char_count": 3051,
+          "chunk_start": 840,
+          "printed_page": "25",
+          "section_type": "analysis",
+          "chunk_ordinal": 2,
+          "document_type": "report",
+          "extraction_error": "",
+          "extraction_status": "ok",
+          "counted_as_content": true
+        },
+        "score": 0.7275307710440446
+      }
+    ],
+    "hit_flags": [
+      true,
+      false,
+      false
+    ],
+    "hit_at_1": true,
+    "evidence_hit_at_3": true,
+    "strategy": "A",
+    "query_filter_applied": {}
+  },
+  {
+    "id": "q12",
+    "split": "dev",
+    "type": "metadata_filter",
+    "question": "In Chapter 1's discussion of sovereign total return swaps, what were the maturity and collateralization ratio of Nigeria's $5 billion transaction in 2026?",
+    "expected_answer": "It had a three-year maturity and approximately 133 percent collateralization, corresponding to about $6.7 billion in domestic securities.",
+    "filter": {
+      "chapter": "1"
+    },
+    "gold": [
+      {
+        "source_id": "wb-idr-2026",
+        "page": 32,
+        "evidence_quotes": [
+          "Nigeria’s $5 billion transaction in 2026 has a three-year maturity and collateralization of approximately 133 percent, corresponding to about $6.7 billion in domestic securities."
+        ]
+      }
+    ],
+    "hits": [
+      {
+        "chunk_id": "fixed-wb-idr-2026-p032-0001680-0002180",
+        "document_id": "wb-idr-2026",
+        "source": "data/wb_idr_2026.pdf",
+        "page": 32,
+        "text": "ion in 2025 had a one-year\nmaturity and collateralization of about 160 percent, implying approximately\n$15.1 billion in pledged external and domestic government securities. Nigeria’s\n$5 billion transaction in 2026 has a three-year maturity and collateralization\nof approximately 133 percent, corresponding to about $6.7 billion in domestic\nsecurities. In Senegal, seven TRS transactions contracted in 2025 provided\napproximately $1 .1 billion in financing with three-year maturities and average\ncolla",
+        "metadata": {
+          "year": 2026,
+          "chapter": "1",
+          "indexed": true,
+          "section": "Chapter 1. Analysis of External Debt Stocks and Debt Flows as of End-2025",
+          "chunking": "fixed",
+          "language": "en",
+          "chunk_end": 2180,
+          "char_count": 2598,
+          "chunk_start": 1680,
+          "printed_page": "8",
+          "section_type": "analysis",
+          "chunk_ordinal": 4,
+          "document_type": "report",
+          "extraction_error": "",
+          "extraction_status": "ok",
+          "counted_as_content": true
+        },
+        "score": 0.7497171939442148
+      },
+      {
+        "chunk_id": "fixed-wb-idr-2026-p032-0000420-0000920",
+        "document_id": "wb-idr-2026",
+        "source": "data/wb_idr_2026.pdf",
+        "page": 32,
+        "text": "ing amounts ranging from about\n$1 .0 billion to $9.3 billion. Maturities have generally ranged from one to three\nyears, and disclosed collateralization ratios have typically been between 133 and\n198 percent. Collateral has included domestic government securities, external\nsovereign bonds, US Treasury securities, or combinations of these instruments.\nThe transactions vary considerably in scale and collateral structure. In Argentina,\nthe central bank entered a $3 billion, three-year TRS in 2025 ba",
+        "metadata": {
+          "year": 2026,
+          "chapter": "1",
+          "indexed": true,
+          "section": "Chapter 1. Analysis of External Debt Stocks and Debt Flows as of End-2025",
+          "chunking": "fixed",
+          "language": "en",
+          "chunk_end": 920,
+          "char_count": 2598,
+          "chunk_start": 420,
+          "printed_page": "8",
+          "section_type": "analysis",
+          "chunk_ordinal": 1,
+          "document_type": "report",
+          "extraction_error": "",
+          "extraction_status": "ok",
+          "counted_as_content": true
+        },
+        "score": 0.6239939509067121
+      },
+      {
+        "chunk_id": "fixed-wb-idr-2026-p032-0001260-0001760",
+        "document_id": "wb-idr-2026",
+        "source": "data/wb_idr_2026.pdf",
+        "page": 32,
+        "text": "$1 .5 billion\nfor three years, with collateralization reduced to 148 percent, or approximately\n$2.2 billion. Angola also entered a separate $1 billion, three-year transaction\nin 2025 collateralized at 140 percent, using a combination of US Treasuries and\ndomestic government securities.\nLarger transactions demonstrate the potential scale of this financing. In Colombia,\nTRS transactions totaling approximately $9.3 billion in 2025 had a one-year\nmaturity and collateralization of about 160 percent,",
+        "metadata": {
+          "year": 2026,
+          "chapter": "1",
+          "indexed": true,
+          "section": "Chapter 1. Analysis of External Debt Stocks and Debt Flows as of End-2025",
+          "chunking": "fixed",
+          "language": "en",
+          "chunk_end": 1760,
+          "char_count": 2598,
+          "chunk_start": 1260,
+          "printed_page": "8",
+          "section_type": "analysis",
+          "chunk_ordinal": 3,
+          "document_type": "report",
+          "extraction_error": "",
+          "extraction_status": "ok",
+          "counted_as_content": true
+        },
+        "score": 0.606704774665806
+      }
+    ],
+    "hit_flags": [
+      true,
+      false,
+      false
+    ],
+    "hit_at_1": true,
+    "evidence_hit_at_3": true,
+    "strategy": "A",
+    "query_filter_applied": {}
+  },
+  {
+    "id": "q13",
+    "split": "dev",
+    "type": "metadata_filter",
+    "question": "According to Chapter 1, what collateral value range was disclosed for each US$1 of financing in recent sovereign total return swap arrangements?",
+    "expected_answer": "Approximately $1.33 to $1.98 in securities for each $1.00 of financing received.",
+    "filter": {
+      "chapter": "1"
+    },
+    "gold": [
+      {
+        "source_id": "wb-idr-2026",
+        "page": 33,
+        "evidence_quotes": [
+          "Significant overcollateralization: For every $1.00 of financing received, disclosed arrangements have involved securities worth approximately $1.33 to $1.98."
+        ]
+      }
+    ],
+    "hits": [
+      {
+        "chunk_id": "fixed-wb-idr-2026-p032-0002100-0002598",
+        "document_id": "wb-idr-2026",
+        "source": "data/wb_idr_2026.pdf",
+        "page": 32,
+        "text": "ximately $1 .1 billion in financing with three-year maturities and average\ncollateralization of about 135 percent, corresponding to approximately $1 .5 billion in\npledged domestic government securities.\nCommon Features of Sovereign TRS Financing\nThe recent transactions point to three common features:\n• Large financing amounts: Transactions range from about $1 .0 billion to\n$9.3 billion.\nBox 1.2 Total Return Swaps: An Emerging Form of Sovereign Financing\n(continued)\n(Box continues on next page)",
+        "metadata": {
+          "year": 2026,
+          "chapter": "1",
+          "indexed": true,
+          "section": "Chapter 1. Analysis of External Debt Stocks and Debt Flows as of End-2025",
+          "chunking": "fixed",
+          "language": "en",
+          "chunk_end": 2598,
+          "char_count": 2598,
+          "chunk_start": 2100,
+          "printed_page": "8",
+          "section_type": "analysis",
+          "chunk_ordinal": 5,
+          "document_type": "report",
+          "extraction_error": "",
+          "extraction_status": "ok",
+          "counted_as_content": true
+        },
+        "score": 0.6805101335572833
+      },
+      {
+        "chunk_id": "fixed-wb-idr-2026-p032-0000420-0000920",
+        "document_id": "wb-idr-2026",
+        "source": "data/wb_idr_2026.pdf",
+        "page": 32,
+        "text": "ing amounts ranging from about\n$1 .0 billion to $9.3 billion. Maturities have generally ranged from one to three\nyears, and disclosed collateralization ratios have typically been between 133 and\n198 percent. Collateral has included domestic government securities, external\nsovereign bonds, US Treasury securities, or combinations of these instruments.\nThe transactions vary considerably in scale and collateral structure. In Argentina,\nthe central bank entered a $3 billion, three-year TRS in 2025 ba",
+        "metadata": {
+          "year": 2026,
+          "chapter": "1",
+          "indexed": true,
+          "section": "Chapter 1. Analysis of External Debt Stocks and Debt Flows as of End-2025",
+          "chunking": "fixed",
+          "language": "en",
+          "chunk_end": 920,
+          "char_count": 2598,
+          "chunk_start": 420,
+          "printed_page": "8",
+          "section_type": "analysis",
+          "chunk_ordinal": 1,
+          "document_type": "report",
+          "extraction_error": "",
+          "extraction_status": "ok",
+          "counted_as_content": true
+        },
+        "score": 0.6468237906211002
+      },
+      {
+        "chunk_id": "fixed-wb-idr-2026-p033-0001260-0001760",
+        "document_id": "wb-idr-2026",
+        "source": "data/wb_idr_2026.pdf",
+        "page": 33,
+        "text": "igations, and rollover or early termination provisions,\nwhile separately identifying the financing and derivative components.\nBox 1.2 Total Return Swaps: An Emerging Form of Sovereign Financing\n(continued)\nExternal debt, which is usually contracted and denominated in foreign currency,\nis exposed to year-on-year and intrayear exchange rate fluctuations that affect\nits rate of accumulation and its debt service payments. Movements in the value\nof the US dollar against other global currencies affect",
+        "metadata": {
+          "year": 2026,
+          "chapter": "1",
+          "indexed": true,
+          "section": "Chapter 1. Analysis of External Debt Stocks and Debt Flows as of End-2025",
+          "chunking": "fixed",
+          "language": "en",
+          "chunk_end": 1760,
+          "char_count": 2797,
+          "chunk_start": 1260,
+          "printed_page": "9",
+          "section_type": "analysis",
+          "chunk_ordinal": 3,
+          "document_type": "report",
+          "extraction_error": "",
+          "extraction_status": "ok",
+          "counted_as_content": true
+        },
+        "score": 0.6382170711651447
+      }
+    ],
+    "hit_flags": [
+      false,
+      false,
+      false
+    ],
+    "hit_at_1": false,
+    "evidence_hit_at_3": false,
+    "strategy": "A",
+    "query_filter_applied": {}
+  },
+  {
+    "id": "q14",
+    "split": "dev",
+    "type": "conditional",
+    "question": "Under what repayment condition does a sovereign total return swap create a debt that should be recorded as debt in the statistics?",
+    "expected_answer": "When the sovereign receives cash upfront and must repay it regardless of the performance of the underlying assets, creating an unconditional repayment obligation.",
+    "filter": {},
+    "gold": [
+      {
+        "source_id": "wb-idr-2026",
+        "page": 33,
+        "evidence_quotes": [
+          "If the sovereign receives cash up front and is required to repay it regardless of the performance of the underlying assets, the financing creates an unconditional repayment obligation and is therefore recorded as debt."
+        ]
+      }
+    ],
+    "hits": [
+      {
+        "chunk_id": "fixed-wb-idr-2026-p033-0000420-0000920",
+        "document_id": "wb-idr-2026",
+        "source": "data/wb_idr_2026.pdf",
+        "page": 33,
+        "text": "ate debt.\nIf the sovereign receives cash up front and is required to repay it regardless of the\nperformance of the underlying assets, the financing creates an unconditional repayment\nobligation and is therefore recorded as debt. The derivative component is recorded\nseparately. Securities pledged as collateral generally remain on the sovereign’s balance\nsheet and do not create additional debt simply because they are pledged.\nThe growing use of TRS financing also raises broader transparency and ri",
+        "metadata": {
+          "year": 2026,
+          "chapter": "1",
+          "indexed": true,
+          "section": "Chapter 1. Analysis of External Debt Stocks and Debt Flows as of End-2025",
+          "chunking": "fixed",
+          "language": "en",
+          "chunk_end": 920,
+          "char_count": 2797,
+          "chunk_start": 420,
+          "printed_page": "9",
+          "section_type": "analysis",
+          "chunk_ordinal": 1,
+          "document_type": "report",
+          "extraction_error": "",
+          "extraction_status": "ok",
+          "counted_as_content": true
+        },
+        "score": 0.6639617656333173
+      },
+      {
+        "chunk_id": "fixed-wb-idr-2026-p033-0000000-0000500",
+        "document_id": "wb-idr-2026",
+        "source": "data/wb_idr_2026.pdf",
+        "page": 33,
+        "text": "• Significant overcollateralization: For every $1 .00 of financing received, disclosed\narrangements have involved securities worth approximately $1 .33 to $1 .98.\n• Relatively short maturities: Maturities of one to three years can create significant\nrefinancing needs when transactions come due.\nImplications for Debt Statistics and Transparency\nA TRS is normally a financial derivative, but some structures can also create debt.\nIf the sovereign receives cash up front and is required to repay it re",
+        "metadata": {
+          "year": 2026,
+          "chapter": "1",
+          "indexed": true,
+          "section": "Chapter 1. Analysis of External Debt Stocks and Debt Flows as of End-2025",
+          "chunking": "fixed",
+          "language": "en",
+          "chunk_end": 500,
+          "char_count": 2797,
+          "chunk_start": 0,
+          "printed_page": "9",
+          "section_type": "analysis",
+          "chunk_ordinal": 0,
+          "document_type": "report",
+          "extraction_error": "",
+          "extraction_status": "ok",
+          "counted_as_content": true
+        },
+        "score": 0.6191949556150205
+      },
+      {
+        "chunk_id": "fixed-wb-idr-2026-p273-0000420-0000920",
+        "document_id": "wb-idr-2026",
+        "source": "data/wb_idr_2026.pdf",
+        "page": 273,
+        "text": "repayments\nand interest payments) to gross national income (GNI).\nDebt sustainability is the condition under which a country (or its government)\ndoes not, in the future, need to default or renegotiate or restructure its debt, or\nmake implausibly large policy adjustments.\nDebt swap (conversion) is an exchange of debt—typically at a discount—for\na nondebt claim (such as equity) or for counterpart funds that can be used to\nfinance a particular project or policy. In essence, public sector debt is e",
+        "metadata": {
+          "year": 2026,
+          "chapter": "",
+          "indexed": true,
+          "section": "Glossary",
+          "chunking": "fixed",
+          "language": "en",
+          "chunk_end": 920,
+          "char_count": 2258,
+          "chunk_start": 420,
+          "printed_page": "249",
+          "section_type": "appendix",
+          "chunk_ordinal": 1,
+          "document_type": "report",
+          "extraction_error": "",
+          "extraction_status": "ok",
+          "counted_as_content": true
+        },
+        "score": 0.6104817596218822
+      }
+    ],
+    "hit_flags": [
+      true,
+      false,
+      false
+    ],
+    "hit_at_1": true,
+    "evidence_hit_at_3": true,
+    "strategy": "A",
+    "query_filter_applied": {}
+  },
+  {
+    "id": "q15",
+    "split": "dev",
+    "type": "quantitative",
+    "question": "At least what proportion of the 2025 increase in LMIC public and publicly guaranteed (PPG) debt stock was attributed to US dollar depreciation?",
+    "expected_answer": "At least 28.2 percent of the US$301.8 billion increase.",
+    "filter": {},
+    "gold": [
+      {
+        "source_id": "wb-idr-2026",
+        "page": 34,
+        "evidence_quotes": [
+          "Of the $301.8 billion increase in LMICs’ PPG debt stock (external debt obligations of a country’s government and any private sector debts backed by a public sector guarantee) recorded in 2025, at least 28.2 percent can be attributed to the depreciation of the US dollar."
+        ]
+      }
+    ],
+    "hits": [
+      {
+        "chunk_id": "fixed-wb-idr-2026-p019-0001260-0001760",
+        "document_id": "wb-idr-2026",
+        "source": "data/wb_idr_2026.pdf",
+        "page": 19,
+        "text": "dollar amplified the rise in debt. The dramatic depreciation of\nthe US dollar during the year accounted for 28.2 percent of the increase in\nLMICs’ external public and publicly guaranteed debt. This outcome reflects\nan important valuation effect: International Debt Statistics are expressed\nin US dollars for comparability, including liabilities denominated in other\ncurrencies. For several of the largest borrowers from concessional windows,\ncurrency valuation gains in 2025 not only offset principa",
+        "metadata": {
+          "year": 2026,
+          "chapter": "",
+          "indexed": true,
+          "section": "Key Takeaways",
+          "chunking": "fixed",
+          "language": "en",
+          "chunk_end": 1760,
+          "char_count": 2487,
+          "chunk_start": 1260,
+          "printed_page": "",
+          "section_type": "key_takeaways",
+          "chunk_ordinal": 3,
+          "document_type": "report",
+          "extraction_error": "",
+          "extraction_status": "ok",
+          "counted_as_content": true
+        },
+        "score": 0.7750017268422168
+      },
+      {
+        "chunk_id": "fixed-wb-idr-2026-p027-0000420-0000920",
+        "document_id": "wb-idr-2026",
+        "source": "data/wb_idr_2026.pdf",
+        "page": 27,
+        "text": "from $8.9 trillion in 2024. LMIC external debt has grown about\n60 percent over the past decade, and the 2025 increase was the largest since\nthe easing of the COVID-19 pandemic in 2021. The change in debt stock was\ndriven by net debt inflows of $423.5 billion, a more than twofold increase from\n2024, as well as by some debt forgiveness and the upward accounting effect of\nUS dollar depreciation. During the first half of 2025, the US dollar experienced\nits biggest depreciation against other currenc",
+        "metadata": {
+          "year": 2026,
+          "chapter": "1",
+          "indexed": true,
+          "section": "Chapter 1. Analysis of External Debt Stocks and Debt Flows as of End-2025",
+          "chunking": "fixed",
+          "language": "en",
+          "chunk_end": 920,
+          "char_count": 1642,
+          "chunk_start": 420,
+          "printed_page": "3",
+          "section_type": "analysis",
+          "chunk_ordinal": 1,
+          "document_type": "report",
+          "extraction_error": "",
+          "extraction_status": "ok",
+          "counted_as_content": true
+        },
+        "score": 0.7327343134225658
+      },
+      {
+        "chunk_id": "fixed-wb-idr-2026-p059-0000420-0000920",
+        "document_id": "wb-idr-2026",
+        "source": "data/wb_idr_2026.pdf",
+        "page": 59,
+        "text": "letion of debt restructuring agreements in several IDA-eligible countries,\nand the depreciation of the US dollar, which inflated the dollar-measured value\nof both debt stocks and GNI simultaneously through an accounting effect, partly\nmoderating ratio movements in both directions. Ratios of debt to national income\nand exports are valuable indicators of countries’ ability to service their debt.\nFor LMICs excluding China, the external debt-to-GNI ratio increased from\n33.5 percent in 2024 to 34.5 p",
+        "metadata": {
+          "year": 2026,
+          "chapter": "1",
+          "indexed": true,
+          "section": "Chapter 1. Analysis of External Debt Stocks and Debt Flows as of End-2025",
+          "chunking": "fixed",
+          "language": "en",
+          "chunk_end": 920,
+          "char_count": 2864,
+          "chunk_start": 420,
+          "printed_page": "35",
+          "section_type": "analysis",
+          "chunk_ordinal": 1,
+          "document_type": "report",
+          "extraction_error": "",
+          "extraction_status": "ok",
+          "counted_as_content": true
+        },
+        "score": 0.704925348629999
+      }
+    ],
+    "hit_flags": [
+      false,
+      false,
+      false
+    ],
+    "hit_at_1": false,
+    "evidence_hit_at_3": false,
+    "strategy": "A",
+    "query_filter_applied": {}
+  },
+  {
+    "id": "q16",
+    "split": "test",
+    "type": "synthesis",
+    "question": "Why can adverse external developments have especially serious consequences for LMICs that already have high debt burdens?",
+    "expected_answer": "Because adverse trade, commodity, growth, exchange-rate and financing developments can weaken external and fiscal positions, while high debt amplifies their economic and development consequences and reduces the effectiveness of policy responses.",
+    "filter": {},
+    "gold": [
+      {
+        "source_id": "wb-idr-2026",
+        "page": 75,
+        "evidence_quotes": [
+          "Adverse developments in trade, commodity markets, growth, exchange rates, and tighter global financing conditions all have the potential to weaken external and fiscal positions, and high debt levels can amplify their economic and development consequences and impair the effectiveness of policy responses."
+        ]
+      }
+    ],
+    "hits": [
+      {
+        "chunk_id": "fixed-wb-idr-2026-p075-0000000-0000500",
+        "document_id": "wb-idr-2026",
+        "source": "data/wb_idr_2026.pdf",
+        "page": 75,
+        "text": "2. Debt Dynamics: Policy\nImplications\nExternal Debt, External Shocks, and Vulnerability in LMICs\nLow- and middle-income countries (LMICs) are facing historically high global\nuncertainty at a time when external debt stocks have reached historic highs,\ndebt service pressures remain elevated, fiscal space is limited in many countries,\nand global bond yields continue to rise, tightening financial conditions. This\ncombination matters because external shocks can be more difficult to absorb\nwhen govern",
+        "metadata": {
+          "year": 2026,
+          "chapter": "2",
+          "indexed": true,
+          "section": "Chapter 2. Debt Dynamics: Policy Implications",
+          "chunking": "fixed",
+          "language": "en",
+          "chunk_end": 500,
+          "char_count": 2385,
+          "chunk_start": 0,
+          "printed_page": "51",
+          "section_type": "analysis",
+          "chunk_ordinal": 0,
+          "document_type": "report",
+          "extraction_error": "",
+          "extraction_status": "ok",
+          "counted_as_content": true
+        },
+        "score": 0.7578434973692998
+      },
+      {
+        "chunk_id": "fixed-wb-idr-2026-p078-0000000-0000500",
+        "document_id": "wb-idr-2026",
+        "source": "data/wb_idr_2026.pdf",
+        "page": 78,
+        "text": "External debt is a key amplifier of the transmission of external shocks. Economies\nwith elevated external debt levels, especially short-term debt, are vulnerable to\nsudden shifts in investor risk appetite and rollover risks, potentially leading to\nsudden stops in capital flows and current account reversals. For most LMICs,\nwhere external debt tends to be denominated in foreign currencies, economic\nvulnerabilities can increase when external shocks lead to currency depreciation,\ncausing an increas",
+        "metadata": {
+          "year": 2026,
+          "chapter": "2",
+          "indexed": true,
+          "section": "Chapter 2. Debt Dynamics: Policy Implications",
+          "chunking": "fixed",
+          "language": "en",
+          "chunk_end": 500,
+          "char_count": 1983,
+          "chunk_start": 0,
+          "printed_page": "54",
+          "section_type": "analysis",
+          "chunk_ordinal": 0,
+          "document_type": "report",
+          "extraction_error": "",
+          "extraction_status": "ok",
+          "counted_as_content": true
+        },
+        "score": 0.731557237833155
+      },
+      {
+        "chunk_id": "fixed-wb-idr-2026-p078-0000420-0000920",
+        "document_id": "wb-idr-2026",
+        "source": "data/wb_idr_2026.pdf",
+        "page": 78,
+        "text": "increase when external shocks lead to currency depreciation,\ncausing an increase in debt service burdens and higher inflation. An increase in\ndebt service costs can slow investment growth by decreasing national savings.\nDuring periods of tightening global financial conditions, LMICs with high levels\nof external debt need to raise interest rates to defend their currencies, causing\ncredit crunches in domestic financial markets and slowing growth.\nDespite a recent slowdown in international integra",
+        "metadata": {
+          "year": 2026,
+          "chapter": "2",
+          "indexed": true,
+          "section": "Chapter 2. Debt Dynamics: Policy Implications",
+          "chunking": "fixed",
+          "language": "en",
+          "chunk_end": 920,
+          "char_count": 1983,
+          "chunk_start": 420,
+          "printed_page": "54",
+          "section_type": "analysis",
+          "chunk_ordinal": 1,
+          "document_type": "report",
+          "extraction_error": "",
+          "extraction_status": "ok",
+          "counted_as_content": true
+        },
+        "score": 0.7297152087710632
+      }
+    ],
+    "hit_flags": [
+      false,
+      false,
+      false
+    ],
+    "hit_at_1": false,
+    "evidence_hit_at_3": false,
+    "strategy": "A",
+    "query_filter_applied": {}
+  },
+  {
+    "id": "q17",
+    "split": "test",
+    "type": "quantitative",
+    "question": "How much did the World Uncertainty Index rise between the third quarters of 2024 and 2025, relative to its COVID-19 peak?",
+    "expected_answer": "It rose more than fivefold and reached nearly twice its COVID-19 peak.",
+    "filter": {},
+    "gold": [
+      {
+        "source_id": "wb-idr-2026",
+        "page": 75,
+        "evidence_quotes": [
+          "The World Uncertainty Index measures broad uncertainty and rose more than fivefold between the third quarter of 2024 and the third quarter of 2025, nearly twice its COVID-19 peak."
+        ]
+      }
+    ],
+    "hits": [
+      {
+        "chunk_id": "fixed-wb-idr-2026-p075-0002100-0002385",
+        "document_id": "wb-idr-2026",
+        "source": "data/wb_idr_2026.pdf",
+        "page": 75,
+        "text": "ose more\nthan fivefold between the third quarter of 2024 and the third quarter of 2025,\nnearly twice its COVID-19 peak. The Global Economic Policy Uncertainty Index\nshowed a similar pattern, rising sharply in early 2025 and remaining elevated into\n2026 (Ahir et al. 2022; Davis 2016).1",
+        "metadata": {
+          "year": 2026,
+          "chapter": "2",
+          "indexed": true,
+          "section": "Chapter 2. Debt Dynamics: Policy Implications",
+          "chunking": "fixed",
+          "language": "en",
+          "chunk_end": 2385,
+          "char_count": 2385,
+          "chunk_start": 2100,
+          "printed_page": "51",
+          "section_type": "analysis",
+          "chunk_ordinal": 5,
+          "document_type": "report",
+          "extraction_error": "",
+          "extraction_status": "ok",
+          "counted_as_content": true
+        },
+        "score": 0.74861679841133
+      },
+      {
+        "chunk_id": "fixed-wb-idr-2026-p076-0000000-0000500",
+        "document_id": "wb-idr-2026",
+        "source": "data/wb_idr_2026.pdf",
+        "page": 76,
+        "text": "Figure 2.1 Global Uncertainty amid Successive Shocks\n1,200\n1,000\n800\n600\n400\n200\n100\n0\nIndex (2000 = 100)\n2000 2005 2010\nWorld Uncertainty Index Global Economic Policy Uncertainty Index\n2015 2020 2025\nSources: Original calculations based on data from the World Uncertainty Index database and the\nGlobal Economic Policy Uncertainty Index database.\nNote: The World Uncertainty Index measures broad uncertainty using Economist Intelligence\nUnit country reports. The Global Economic Policy Uncertainty In",
+        "metadata": {
+          "year": 2026,
+          "chapter": "2",
+          "indexed": true,
+          "section": "Chapter 2. Debt Dynamics: Policy Implications",
+          "chunking": "fixed",
+          "language": "en",
+          "chunk_end": 500,
+          "char_count": 1763,
+          "chunk_start": 0,
+          "printed_page": "52",
+          "section_type": "analysis",
+          "chunk_ordinal": 0,
+          "document_type": "report",
+          "extraction_error": "",
+          "extraction_status": "ok",
+          "counted_as_content": true
+        },
+        "score": 0.619596116847045
+      },
+      {
+        "chunk_id": "fixed-wb-idr-2026-p076-0000420-0000920",
+        "document_id": "wb-idr-2026",
+        "source": "data/wb_idr_2026.pdf",
+        "page": 76,
+        "text": "ist Intelligence\nUnit country reports. The Global Economic Policy Uncertainty Index measures uncertainty\naround economic policy using newspaper coverage and is aggregated across 20 economies using\ncurrent price GDP weights. Both series are rebased so that their average value in 2000 equals 100.\nData shown through 2026Q2.\nElevated uncertainty matters because economies remain closely connected to\ninternational markets. Yet countries differ in the nature and degree of their\nexternal exposure, which",
+        "metadata": {
+          "year": 2026,
+          "chapter": "2",
+          "indexed": true,
+          "section": "Chapter 2. Debt Dynamics: Policy Implications",
+          "chunking": "fixed",
+          "language": "en",
+          "chunk_end": 920,
+          "char_count": 1763,
+          "chunk_start": 420,
+          "printed_page": "52",
+          "section_type": "analysis",
+          "chunk_ordinal": 1,
+          "document_type": "report",
+          "extraction_error": "",
+          "extraction_status": "ok",
+          "counted_as_content": true
+        },
+        "score": 0.5453158674146265
+      }
+    ],
+    "hit_flags": [
+      false,
+      false,
+      false
+    ],
+    "hit_at_1": false,
+    "evidence_hit_at_3": false,
+    "strategy": "A",
+    "query_filter_applied": {}
+  },
+  {
+    "id": "q18",
+    "split": "test",
+    "type": "metadata_filter",
+    "question": "In Chapter 2, how do flexible and fixed exchange-rate regimes differ in absorbing external shocks?",
+    "expected_answer": "Flexible regimes partly absorb shocks through currency movements; fixed regimes can cushion exchange-rate pressure by using foreign reserves.",
+    "filter": {
+      "chapter": "2"
+    },
+    "gold": [
+      {
+        "source_id": "wb-idr-2026",
+        "page": 77,
+        "evidence_quotes": [
+          "In economies with flexible exchange rate regimes, the effects of external shocks are partly absorbed through currency movements. In economies with fixed exchange rate regimes, pressure on the exchange rate can be cushioned by using foreign reserves."
+        ]
+      }
+    ],
+    "hits": [
+      {
+        "chunk_id": "fixed-wb-idr-2026-p077-0000840-0001340",
+        "document_id": "wb-idr-2026",
+        "source": "data/wb_idr_2026.pdf",
+        "page": 77,
+        "text": "absorbed through currency movements. In economies with fixed\nexchange rate regimes, pressure on the exchange rate can be cushioned by using\nforeign reserves. As discussed later in this chapter, damage from external shocks\nthat LMICs can absorb and the speed of subsequent recovery are also subject\nto the availability of fiscal buffers and the implementation of fiscal and foreign\nexchange policy frameworks.\nFigure 2.2 Trade Exposure Across Income Groups, 2000–25\n35\n30\n25\n20\n15\nPercent of GDP\n2000",
+        "metadata": {
+          "year": 2026,
+          "chapter": "2",
+          "indexed": true,
+          "section": "Chapter 2. Debt Dynamics: Policy Implications",
+          "chunking": "fixed",
+          "language": "en",
+          "chunk_end": 1340,
+          "char_count": 1841,
+          "chunk_start": 840,
+          "printed_page": "53",
+          "section_type": "analysis",
+          "chunk_ordinal": 2,
+          "document_type": "report",
+          "extraction_error": "",
+          "extraction_status": "ok",
+          "counted_as_content": true
+        },
+        "score": 0.6479477087727722
+      },
+      {
+        "chunk_id": "fixed-wb-idr-2026-p077-0000420-0000920",
+        "document_id": "wb-idr-2026",
+        "source": "data/wb_idr_2026.pdf",
+        "page": 77,
+        "text": "re more vulnerable to shifts in demand among their trading partners. External\nshocks also tend to spill more forcefully into LMICs with open financial markets,\npartly reflecting rapid capital flow movements. In addition, the types of policy\nframeworks in LMICs are important for the transmission of external shocks. For\nexample, in economies with flexible exchange rate regimes, the effects of external\nshocks are partly absorbed through currency movements. In economies with fixed\nexchange rate regi",
+        "metadata": {
+          "year": 2026,
+          "chapter": "2",
+          "indexed": true,
+          "section": "Chapter 2. Debt Dynamics: Policy Implications",
+          "chunking": "fixed",
+          "language": "en",
+          "chunk_end": 920,
+          "char_count": 1841,
+          "chunk_start": 420,
+          "printed_page": "53",
+          "section_type": "analysis",
+          "chunk_ordinal": 1,
+          "document_type": "report",
+          "extraction_error": "",
+          "extraction_status": "ok",
+          "counted_as_content": true
+        },
+        "score": 0.626709089348827
+      },
+      {
+        "chunk_id": "fixed-wb-idr-2026-p081-0000420-0000920",
+        "document_id": "wb-idr-2026",
+        "source": "data/wb_idr_2026.pdf",
+        "page": 81,
+        "text": "ng low- and middle-income countries with flexible exchange rate regimes or\nintermediate arrangements. Average refers to simple averages across 28 economies.\nThe energy supply shock in 2026 has caused exchange rates in commodity-\nimporting LMICs to fall, worsening trade balances. Among commodity-importing\nLMICs with flexible or adjustable exchange rate regimes, currencies depreciated\nby about 1.7 percent between January and July 2026 (figure 2.5), on average.\nIn contrast, currencies in commodity-",
+        "metadata": {
+          "year": 2026,
+          "chapter": "2",
+          "indexed": true,
+          "section": "Chapter 2. Debt Dynamics: Policy Implications",
+          "chunking": "fixed",
+          "language": "en",
+          "chunk_end": 920,
+          "char_count": 1695,
+          "chunk_start": 420,
+          "printed_page": "57",
+          "section_type": "analysis",
+          "chunk_ordinal": 1,
+          "document_type": "report",
+          "extraction_error": "",
+          "extraction_status": "ok",
+          "counted_as_content": true
+        },
+        "score": 0.5900767693286737
+      }
+    ],
+    "hit_flags": [
+      false,
+      false,
+      false
+    ],
+    "hit_at_1": false,
+    "evidence_hit_at_3": false,
+    "strategy": "A",
+    "query_filter_applied": {}
+  },
+  {
+    "id": "q19",
+    "split": "test",
+    "type": "metadata_filter",
+    "question": "According to Chapter 2, why are economies with high external debt, especially short-term debt, vulnerable to rollover risk?",
+    "expected_answer": "Sudden changes in investor risk appetite can trigger rollover risks, sudden stops in capital flows and current-account reversals.",
+    "filter": {
+      "chapter": "2"
+    },
+    "gold": [
+      {
+        "source_id": "wb-idr-2026",
+        "page": 78,
+        "evidence_quotes": [
+          "Economies with elevated external debt levels, especially short-term debt, are vulnerable to sudden shifts in investor risk appetite and rollover risks, potentially leading to sudden stops in capital flows and current account reversals."
+        ]
+      }
+    ],
+    "hits": [
+      {
+        "chunk_id": "fixed-wb-idr-2026-p078-0000000-0000500",
+        "document_id": "wb-idr-2026",
+        "source": "data/wb_idr_2026.pdf",
+        "page": 78,
+        "text": "External debt is a key amplifier of the transmission of external shocks. Economies\nwith elevated external debt levels, especially short-term debt, are vulnerable to\nsudden shifts in investor risk appetite and rollover risks, potentially leading to\nsudden stops in capital flows and current account reversals. For most LMICs,\nwhere external debt tends to be denominated in foreign currencies, economic\nvulnerabilities can increase when external shocks lead to currency depreciation,\ncausing an increas",
+        "metadata": {
+          "year": 2026,
+          "chapter": "2",
+          "indexed": true,
+          "section": "Chapter 2. Debt Dynamics: Policy Implications",
+          "chunking": "fixed",
+          "language": "en",
+          "chunk_end": 500,
+          "char_count": 1983,
+          "chunk_start": 0,
+          "printed_page": "54",
+          "section_type": "analysis",
+          "chunk_ordinal": 0,
+          "document_type": "report",
+          "extraction_error": "",
+          "extraction_status": "ok",
+          "counted_as_content": true
+        },
+        "score": 0.6431584969632482
+      },
+      {
+        "chunk_id": "fixed-wb-idr-2026-p092-0000000-0000500",
+        "document_id": "wb-idr-2026",
+        "source": "data/wb_idr_2026.pdf",
+        "page": 92,
+        "text": "borrowing increases exposure to exchange rate and refinancing shocks. At the\nsame time, high debt limits countries’ ability to borrow to close financing gaps.\nCountries are therefore left increasingly exposed to shocks, with minimal fiscal\nand financial buffers.\nSound fiscal and debt policies are central to preparing for, responding to, and\nrecovering from external shocks. Fiscal buffers and debt sustainability determine\nthe extent to which countries can absorb shocks and support recovery. Count",
+        "metadata": {
+          "year": 2026,
+          "chapter": "2",
+          "indexed": true,
+          "section": "Chapter 2. Debt Dynamics: Policy Implications",
+          "chunking": "fixed",
+          "language": "en",
+          "chunk_end": 500,
+          "char_count": 2851,
+          "chunk_start": 0,
+          "printed_page": "68",
+          "section_type": "analysis",
+          "chunk_ordinal": 0,
+          "document_type": "report",
+          "extraction_error": "",
+          "extraction_status": "ok",
+          "counted_as_content": true
+        },
+        "score": 0.616437902147091
+      },
+      {
+        "chunk_id": "fixed-wb-idr-2026-p092-0001680-0002180",
+        "document_id": "wb-idr-2026",
+        "source": "data/wb_idr_2026.pdf",
+        "page": 92,
+        "text": "t rate, refinancing, and creditor risks. Sound debt management acts as a\nkey shock absorber during times of crisis. Poor borrowing choices made during\nperiods of stress can worsen liquidity and solvency risks, particularly when\ngovernments turn to short-term solutions that are less transparent or less market\nbased, such as private placements or collateralized borrowing. These instruments\nmay provide immediate financing, but they can also increase rollover risks,\nreduce transparency, constrain fu",
+        "metadata": {
+          "year": 2026,
+          "chapter": "2",
+          "indexed": true,
+          "section": "Chapter 2. Debt Dynamics: Policy Implications",
+          "chunking": "fixed",
+          "language": "en",
+          "chunk_end": 2180,
+          "char_count": 2851,
+          "chunk_start": 1680,
+          "printed_page": "68",
+          "section_type": "analysis",
+          "chunk_ordinal": 4,
+          "document_type": "report",
+          "extraction_error": "",
+          "extraction_status": "ok",
+          "counted_as_content": true
+        },
+        "score": 0.6100038747395484
+      }
+    ],
+    "hit_flags": [
+      true,
+      false,
+      false
+    ],
+    "hit_at_1": true,
+    "evidence_hit_at_3": true,
+    "strategy": "A",
+    "query_filter_applied": {}
+  },
+  {
+    "id": "q20",
+    "split": "test",
+    "type": "metadata_filter",
+    "question": "In Chapter 2, what happened to headline inflation in commodity-importing LMICs after the energy supply shock began in late February 2026?",
+    "expected_answer": "It rose to 3.6 percent in June 2026, up from a preconflict level of 2.6 percent.",
+    "filter": {
+      "chapter": "2"
+    },
+    "gold": [
+      {
+        "source_id": "wb-idr-2026",
+        "page": 80,
+        "evidence_quotes": [
+          "The conflict in the Middle East involving major energy producers, which began at the end of February 2026, has caused a surge in headline inflation in these countries, to 3.6 percent in June 2026, from the preconflict level of 2.6 percent (figure 2.4)."
+        ]
+      }
+    ],
+    "hits": [
+      {
+        "chunk_id": "fixed-wb-idr-2026-p080-0000000-0000500",
+        "document_id": "wb-idr-2026",
+        "source": "data/wb_idr_2026.pdf",
+        "page": 80,
+        "text": "Inflation in commodity-importing LMICs has increased following a major\nenergy supply shock in 2026. The conflict in the Middle East involving major\nenergy producers, which began at the end of February 2026, has caused a\nsurge in headline inflation in these countries, to 3.6 percent in June 2026, from\nthe preconflict level of 2.6 percent (figure 2.4). Among market participants,\ninflation expectations for 2026 have also risen, from 2.7 percent according to\npreconflict February surveys to 3.4 perce",
+        "metadata": {
+          "year": 2026,
+          "chapter": "2",
+          "indexed": true,
+          "section": "Chapter 2. Debt Dynamics: Policy Implications",
+          "chunking": "fixed",
+          "language": "en",
+          "chunk_end": 500,
+          "char_count": 1744,
+          "chunk_start": 0,
+          "printed_page": "56",
+          "section_type": "analysis",
+          "chunk_ordinal": 0,
+          "document_type": "report",
+          "extraction_error": "",
+          "extraction_status": "ok",
+          "counted_as_content": true
+        },
+        "score": 0.7695847251957803
+      },
+      {
+        "chunk_id": "fixed-wb-idr-2026-p080-0000840-0001340",
+        "document_id": "wb-idr-2026",
+        "source": "data/wb_idr_2026.pdf",
+        "page": 80,
+        "text": "ints\nbetween January and June 2026 (excluding China). To ease price pressures,\nseveral central banks have raised interest rates. In addition, several commodity-\nimporting LMICs have introduced subsidies in response to higher fuel prices\n(World Bank 2026b).\nFigure 2.4 Headline Consumer Prices in Commodity-Importing Low- and\nMiddle-Income Countries, 2024–26\n2\n4\n6\n8\n10\n12\n14\n2024 2025 2026\nCommodity-importing LMICs Commodity-importing LMICs (excl. China)\nPercent change from a year earlier\nSources:",
+        "metadata": {
+          "year": 2026,
+          "chapter": "2",
+          "indexed": true,
+          "section": "Chapter 2. Debt Dynamics: Policy Implications",
+          "chunking": "fixed",
+          "language": "en",
+          "chunk_end": 1340,
+          "char_count": 1744,
+          "chunk_start": 840,
+          "printed_page": "56",
+          "section_type": "analysis",
+          "chunk_ordinal": 2,
+          "document_type": "report",
+          "extraction_error": "",
+          "extraction_status": "ok",
+          "counted_as_content": true
+        },
+        "score": 0.736772030106444
+      },
+      {
+        "chunk_id": "fixed-wb-idr-2026-p080-0000420-0000920",
+        "document_id": "wb-idr-2026",
+        "source": "data/wb_idr_2026.pdf",
+        "page": 80,
+        "text": "o risen, from 2.7 percent according to\npreconflict February surveys to 3.4 percent in July. Excluding China, which has\nbeen relatively insulated from the shock, partly because of its large petroleum\nreserves, inflation in commodity-importing LMICs increased from 7.0 percent\nto 8.3 percent between January and June, with higher inflation expectations\nfor 2026. Energy prices have increased, as well, by 1.1 percentage points\nbetween January and June 2026 (excluding China). To ease price pressures,\ns",
+        "metadata": {
+          "year": 2026,
+          "chapter": "2",
+          "indexed": true,
+          "section": "Chapter 2. Debt Dynamics: Policy Implications",
+          "chunking": "fixed",
+          "language": "en",
+          "chunk_end": 920,
+          "char_count": 1744,
+          "chunk_start": 420,
+          "printed_page": "56",
+          "section_type": "analysis",
+          "chunk_ordinal": 1,
+          "document_type": "report",
+          "extraction_error": "",
+          "extraction_status": "ok",
+          "counted_as_content": true
+        },
+        "score": 0.6997019282758543
+      }
+    ],
+    "hit_flags": [
+      true,
+      false,
+      false
+    ],
+    "hit_at_1": true,
+    "evidence_hit_at_3": true,
+    "strategy": "A",
+    "query_filter_applied": {}
+  }
+]

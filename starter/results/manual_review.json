@@ -1,0 +1,3757 @@
+{
+  "instructions": "Fill human_score_0_1_2 / human_grounding_score_0_1_2 and reviewer_reason after inspecting the evidence. Do not treat automatic quote match as a human quality score.",
+  "chunk_coherence": [
+    {
+      "document_id": "wb-idr-2026",
+      "source": "data/wb_idr_2026.pdf",
+      "physical_page": 13,
+      "printed_page": "",
+      "source_position_character": 1170,
+      "source_excerpt": "cutive year in 2025, which means that more public resources are\nbeing absorbed by servicing debt at a time when countries need to invest more in\ninfrastructure, jobs, education, health, and the foundations of long-term growth.\nContinued borrowing through international bond markets in 2026, despite\ne",
+      "strategies": {
+        "A": {
+          "chunk_id": "fixed-wb-idr-2026-p013-0000840-0001340",
+          "text": "en. The poorest\nand most vulnerable countries face borrowing costs not seen since the late\n1980s. Low- and middle-income countries’ total debt service burden rose for\na fifth consecutive year in 2025, which means that more public resources are\nbeing absorbed by servicing debt at a time when countries need to invest more in\ninfrastructure, jobs, education, health, and the foundations of long-term growth.\nContinued borrowing through international bond markets in 2026, despite\nelevated yields, rais",
+          "human_score_0_1_2": 1,
+          "reviewer_reason": "Đoạn trích đúng chủ đề và có phần nội dung liên quan, nhưng bị cắt ở đầu/cuối giữa câu hoặc mạch ý nên chưa phải một đơn vị văn bản hoàn chỉnh."
+        },
+        "B": {
+          "chunk_id": "paragraph-wb-idr-2026-p013-0000779-0001490",
+          "text": "The return to international capital markets has been highly uneven. The poorest and most vulnerable countries face borrowing costs not seen since the late 1980s. Low- and middle-income countries’ total debt service burden rose for a fifth consecutive year in 2025, which means that more public resources are being absorbed by servicing debt at a time when countries need to invest more in infrastructure, jobs, education, health, and the foundations of long-term growth.\n\nContinued borrowing through international bond markets in 2026, despite elevated yields, raises important questions about whether the terms are sustainable and whether the capital raised is reaching the people and places that need it most.",
+          "human_score_0_1_2": 2,
+          "reviewer_reason": "Đoạn văn giữ được mạch ý và ngữ cảnh cần thiết, đồng thời bao phủ trực tiếp phần nội dung được trích dẫn; phần tiêu đề hình/ghi chú kèm theo không làm mất tính mạch lạc chính."
+        },
+        "C": {
+          "chunk_id": "paragraph-wb-idr-2026-p013-0000779-0001490",
+          "text": "The return to international capital markets has been highly uneven. The poorest and most vulnerable countries face borrowing costs not seen since the late 1980s. Low- and middle-income countries’ total debt service burden rose for a fifth consecutive year in 2025, which means that more public resources are being absorbed by servicing debt at a time when countries need to invest more in infrastructure, jobs, education, health, and the foundations of long-term growth.\n\nContinued borrowing through international bond markets in 2026, despite elevated yields, raises important questions about whether the terms are sustainable and whether the capital raised is reaching the people and places that need it most.",
+          "human_score_0_1_2": 2,
+          "reviewer_reason": "Đoạn văn giữ được mạch ý và ngữ cảnh cần thiết, đồng thời bao phủ trực tiếp phần nội dung được trích dẫn; phần tiêu đề hình/ghi chú kèm theo không làm mất tính mạch lạc chính."
+        }
+      }
+    },
+    {
+      "document_id": "wb-idr-2026",
+      "source": "data/wb_idr_2026.pdf",
+      "physical_page": 34,
+      "printed_page": "10",
+      "source_position_character": 1550,
+      "source_excerpt": "be attributed\nto the depreciation of the US dollar. Borrowing by the PPG sector of the economy\ngets reported at the instrument level and in the currency in which the liabilities\nare denominated or repaid. Accordingly, this level of detailed reporting makes\npossible the computation of the effect of t",
+      "strategies": {
+        "A": {
+          "chunk_id": "fixed-wb-idr-2026-p034-0001260-0001760",
+          "text": "ons of a country’s government and any private sector debts backed by a\npublic sector guarantee) recorded in 2025, at least 28.2 percent can be attributed\nto the depreciation of the US dollar. Borrowing by the PPG sector of the economy\ngets reported at the instrument level and in the currency in which the liabilities\nare denominated or repaid. Accordingly, this level of detailed reporting makes\npossible the computation of the effect of the cross-currency valuation.\nViewed from a lending category",
+          "human_score_0_1_2": 1,
+          "reviewer_reason": "Đoạn trích đúng chủ đề và có phần nội dung liên quan, nhưng bị cắt ở đầu/cuối giữa câu hoặc mạch ý nên chưa phải một đơn vị văn bản hoàn chỉnh."
+        },
+        "B": {
+          "chunk_id": "paragraph-wb-idr-2026-p034-0000849-0001731",
+          "text": "For several of the largest borrowers from concessional windows, currency valuation gains in 2025 not only offset principal payments made during the year but also, in some cases, partially reversed the stock reductions achieved through repayments in 2024, leaving reported balances higher at end-2025 despite continued debt servicing.\n\nOf the $301.8 billion increase in LMICs’ PPG debt stock (external debt obligations of a country’s government and any private sector debts backed by a public sector guarantee) recorded in 2025, at least 28.2 percent can be attributed to the depreciation of the US dollar. Borrowing by the PPG sector of the economy gets reported at the instrument level and in the currency in which the liabilities are denominated or repaid. Accordingly, this level of detailed reporting makes possible the computation of the effect of the cross-currency valuation.",
+          "human_score_0_1_2": 2,
+          "reviewer_reason": "Đoạn văn giữ được mạch ý và ngữ cảnh cần thiết, đồng thời bao phủ trực tiếp phần nội dung được trích dẫn; phần tiêu đề hình/ghi chú kèm theo không làm mất tính mạch lạc chính."
+        },
+        "C": {
+          "chunk_id": "paragraph-wb-idr-2026-p034-0000849-0001731",
+          "text": "For several of the largest borrowers from concessional windows, currency valuation gains in 2025 not only offset principal payments made during the year but also, in some cases, partially reversed the stock reductions achieved through repayments in 2024, leaving reported balances higher at end-2025 despite continued debt servicing.\n\nOf the $301.8 billion increase in LMICs’ PPG debt stock (external debt obligations of a country’s government and any private sector debts backed by a public sector guarantee) recorded in 2025, at least 28.2 percent can be attributed to the depreciation of the US dollar. Borrowing by the PPG sector of the economy gets reported at the instrument level and in the currency in which the liabilities are denominated or repaid. Accordingly, this level of detailed reporting makes possible the computation of the effect of the cross-currency valuation.",
+          "human_score_0_1_2": 2,
+          "reviewer_reason": "Đoạn văn giữ được mạch ý và ngữ cảnh cần thiết, đồng thời bao phủ trực tiếp phần nội dung được trích dẫn; phần tiêu đề hình/ghi chú kèm theo không làm mất tính mạch lạc chính."
+        }
+      }
+    },
+    {
+      "document_id": "wb-idr-2026",
+      "source": "data/wb_idr_2026.pdf",
+      "physical_page": 48,
+      "printed_page": "24",
+      "source_position_character": 880,
+      "source_excerpt": "l) payments continued on an upward\ntrajectory for the fifth year in a row, increasing 1.9 percent in 2025 and directly\naccompanying the increase in LMICs’ debt levels in 2025. The rise was driven\nby debt service payments to private creditors, particularly to bondholders, which\nincreased 13.7 percent",
+      "strategies": {
+        "A": {
+          "chunk_id": "fixed-wb-idr-2026-p048-0000420-0000920",
+          "text": "0.1 billion more\nthan they received in 2025, after recording five years of outflows from LMICs;\ncommercial banks and other private creditors provided $24.1 billion more in\n2025, after recording four years of outflows (figure 1.8).\nDebt Servicing Burdens of LMICs, 2025\nTotal debt service (interest and principal) payments continued on an upward\ntrajectory for the fifth year in a row, increasing 1.9 percent in 2025 and directly\naccompanying the increase in LMICs’ debt levels in 2025. The rise was d",
+          "human_score_0_1_2": 1,
+          "reviewer_reason": "Đoạn trích đúng chủ đề và có phần nội dung liên quan, nhưng bị cắt ở đầu/cuối giữa câu hoặc mạch ý nên chưa phải một đơn vị văn bản hoàn chỉnh."
+        },
+        "B": {
+          "chunk_id": "paragraph-wb-idr-2026-p048-0000653-0001329",
+          "text": "Debt Servicing Burdens of LMICs, 2025 Total debt service (interest and principal) payments continued on an upward trajectory for the fifth year in a row, increasing 1.9 percent in 2025 and directly accompanying the increase in LMICs’ debt levels in 2025. The rise was driven by debt service payments to private creditors, particularly to bondholders, which increased 13.7 percent to $363.1 billion in 2025. Although these payments stood for 28.8 percent of LMICs’ total long-term debt service payments in 2025, they should be interpreted with caution because the figure also includes the principal\n\nFigure 1.8 Long-Term Net Transfers on Public and Publicly Guaranteed External",
+          "human_score_0_1_2": 2,
+          "reviewer_reason": "Đoạn văn giữ được mạch ý và ngữ cảnh cần thiết, đồng thời bao phủ trực tiếp phần nội dung được trích dẫn; phần tiêu đề hình/ghi chú kèm theo không làm mất tính mạch lạc chính."
+        },
+        "C": {
+          "chunk_id": "paragraph-wb-idr-2026-p048-0000653-0001329",
+          "text": "Debt Servicing Burdens of LMICs, 2025 Total debt service (interest and principal) payments continued on an upward trajectory for the fifth year in a row, increasing 1.9 percent in 2025 and directly accompanying the increase in LMICs’ debt levels in 2025. The rise was driven by debt service payments to private creditors, particularly to bondholders, which increased 13.7 percent to $363.1 billion in 2025. Although these payments stood for 28.8 percent of LMICs’ total long-term debt service payments in 2025, they should be interpreted with caution because the figure also includes the principal\n\nFigure 1.8 Long-Term Net Transfers on Public and Publicly Guaranteed External",
+          "human_score_0_1_2": 2,
+          "reviewer_reason": "Đoạn văn giữ được mạch ý và ngữ cảnh cần thiết, đồng thời bao phủ trực tiếp phần nội dung được trích dẫn; phần tiêu đề hình/ghi chú kèm theo không làm mất tính mạch lạc chính."
+        }
+      }
+    },
+    {
+      "document_id": "wb-idr-2026",
+      "source": "data/wb_idr_2026.pdf",
+      "physical_page": 61,
+      "printed_page": "37",
+      "source_position_character": 1085,
+      "source_excerpt": "st deterioration,\nwith the external debt-to-exports ratio rising 14.7 percentage points to\n152.2 percent in 2025, the largest increase of any region. The region’s debt\nservice-to-exports ratio also increased from 22.9 percent to 24.8 percent in 2025,\nmore than double the level recorded in East Asia ",
+      "strategies": {
+        "A": {
+          "chunk_id": "fixed-wb-idr-2026-p061-0000840-0001340",
+          "text": "t and 2.8 percent, respectively.\nAt the regional level, Europe and Central Asia recorded the most deterioration,\nwith the external debt-to-exports ratio rising 14.7 percentage points to\n152.2 percent in 2025, the largest increase of any region. The region’s debt\nservice-to-exports ratio also increased from 22.9 percent to 24.8 percent in 2025,\nmore than double the level recorded in East Asia and Pacific, highlighting the\ngrowing debt servicing capacity across regions. The interest-to-exports rat",
+          "human_score_0_1_2": 1,
+          "reviewer_reason": "Đoạn trích đúng chủ đề và có phần nội dung liên quan, nhưng bị cắt ở đầu/cuối giữa câu hoặc mạch ý nên chưa phải một đơn vị văn bản hoàn chỉnh."
+        },
+        "B": {
+          "chunk_id": "paragraph-wb-idr-2026-p061-0000875-0001772",
+          "text": "At the regional level, Europe and Central Asia recorded the most deterioration, with the external debt-to-exports ratio rising 14.7 percentage points to 152.2 percent in 2025, the largest increase of any region. The region’s debt service-to-exports ratio also increased from 22.9 percent to 24.8 percent in 2025, more than double the level recorded in East Asia and Pacific, highlighting the growing debt servicing capacity across regions. The interest-to-exports ratio reached 6.8 percent, the highest of any LMIC region. The Middle East, North Africa, Afghanistan, and Pakistan region, despite recording improvements in debt service and interest ratios, saw its external debt-to-GNI ratio rise from 26.7 percent to 29.4 percent, the largest single-year increase of any region, signaling continued debt stock accumulation.\n\nFigure 1.17 External Debt Stock to Exports of Low-Income, Middle-Income,",
+          "human_score_0_1_2": 2,
+          "reviewer_reason": "Đoạn văn giữ được mạch ý và ngữ cảnh cần thiết, đồng thời bao phủ trực tiếp phần nội dung được trích dẫn; phần tiêu đề hình/ghi chú kèm theo không làm mất tính mạch lạc chính."
+        },
+        "C": {
+          "chunk_id": "paragraph-wb-idr-2026-p061-0000875-0001772",
+          "text": "At the regional level, Europe and Central Asia recorded the most deterioration, with the external debt-to-exports ratio rising 14.7 percentage points to 152.2 percent in 2025, the largest increase of any region. The region’s debt service-to-exports ratio also increased from 22.9 percent to 24.8 percent in 2025, more than double the level recorded in East Asia and Pacific, highlighting the growing debt servicing capacity across regions. The interest-to-exports ratio reached 6.8 percent, the highest of any LMIC region. The Middle East, North Africa, Afghanistan, and Pakistan region, despite recording improvements in debt service and interest ratios, saw its external debt-to-GNI ratio rise from 26.7 percent to 29.4 percent, the largest single-year increase of any region, signaling continued debt stock accumulation.\n\nFigure 1.17 External Debt Stock to Exports of Low-Income, Middle-Income,",
+          "human_score_0_1_2": 2,
+          "reviewer_reason": "Đoạn văn giữ được mạch ý và ngữ cảnh cần thiết, đồng thời bao phủ trực tiếp phần nội dung được trích dẫn; phần tiêu đề hình/ghi chú kèm theo không làm mất tính mạch lạc chính."
+        }
+      }
+    },
+    {
+      "document_id": "wb-idr-2026",
+      "source": "data/wb_idr_2026.pdf",
+      "physical_page": 76,
+      "printed_page": "52",
+      "source_position_character": 880,
+      "source_excerpt": "ough 2026Q2.\nElevated uncertainty matters because economies remain closely connected to\ninternational markets. Yet countries differ in the nature and degree of their\nexternal exposure, which shapes how global external shocks affect them. Trade\nprovides an important example. As figure 2.2 shows, glob",
+      "strategies": {
+        "A": {
+          "chunk_id": "fixed-wb-idr-2026-p076-0000420-0000920",
+          "text": "ist Intelligence\nUnit country reports. The Global Economic Policy Uncertainty Index measures uncertainty\naround economic policy using newspaper coverage and is aggregated across 20 economies using\ncurrent price GDP weights. Both series are rebased so that their average value in 2000 equals 100.\nData shown through 2026Q2.\nElevated uncertainty matters because economies remain closely connected to\ninternational markets. Yet countries differ in the nature and degree of their\nexternal exposure, which",
+          "human_score_0_1_2": 1,
+          "reviewer_reason": "Đoạn trích đúng chủ đề và có phần nội dung liên quan, nhưng bị cắt ở đầu/cuối giữa câu hoặc mạch ý nên chưa phải một đơn vị văn bản hoàn chỉnh."
+        },
+        "B": {
+          "chunk_id": "paragraph-wb-idr-2026-p076-0000749-0001526",
+          "text": "Elevated uncertainty matters because economies remain closely connected to international markets. Yet countries differ in the nature and degree of their external exposure, which shapes how global external shocks affect them. Trade provides an important example. As figure 2.2 shows, global imports and exports of goods and services increased from below 25 percent of gross domestic product (GDP) in the early 2000s, were halted by the 2008 global financial crisis, and subsequently rebounded and have fluctuated around 30 percent. Exposure, however, varies significantly across income groups. In 2025, imports accounted for about 34 percent of GDP in low-income economies, compared with exports of about 24 percent; trade flows were much more balanced in high-income economies.",
+          "human_score_0_1_2": 2,
+          "reviewer_reason": "Đoạn văn giữ được mạch ý và ngữ cảnh cần thiết, đồng thời bao phủ trực tiếp phần nội dung được trích dẫn; phần tiêu đề hình/ghi chú kèm theo không làm mất tính mạch lạc chính."
+        },
+        "C": {
+          "chunk_id": "paragraph-wb-idr-2026-p076-0000749-0001526",
+          "text": "Elevated uncertainty matters because economies remain closely connected to international markets. Yet countries differ in the nature and degree of their external exposure, which shapes how global external shocks affect them. Trade provides an important example. As figure 2.2 shows, global imports and exports of goods and services increased from below 25 percent of gross domestic product (GDP) in the early 2000s, were halted by the 2008 global financial crisis, and subsequently rebounded and have fluctuated around 30 percent. Exposure, however, varies significantly across income groups. In 2025, imports accounted for about 34 percent of GDP in low-income economies, compared with exports of about 24 percent; trade flows were much more balanced in high-income economies.",
+          "human_score_0_1_2": 2,
+          "reviewer_reason": "Đoạn văn giữ được mạch ý và ngữ cảnh cần thiết, đồng thời bao phủ trực tiếp phần nội dung được trích dẫn; phần tiêu đề hình/ghi chú kèm theo không làm mất tính mạch lạc chính."
+        }
+      }
+    },
+    {
+      "document_id": "wb-idr-2026",
+      "source": "data/wb_idr_2026.pdf",
+      "physical_page": 89,
+      "printed_page": "65",
+      "source_position_character": 1170,
+      "source_excerpt": "solv ency, liquidity risk, and macro-\nfinancial linkages (including the sovereign–bank–central bank nexus); and\n– A long-term module t o evaluate implications of policy and investment deci-\nsions (including climate adaptation, infrastructure, and human capital) over\nlonger horizons\n• New emphasis on",
+      "strategies": {
+        "A": {
+          "chunk_id": "fixed-wb-idr-2026-p089-0000840-0001340",
+          "text": "n updated model for the risk of\nexternal public debt stress\n• New dedicated modules to support the structured application of judgment, including\n– A domestic debt module to assess solv ency, liquidity risk, and macro-\nfinancial linkages (including the sovereign–bank–central bank nexus); and\n– A long-term module t o evaluate implications of policy and investment deci-\nsions (including climate adaptation, infrastructure, and human capital) over\nlonger horizons\n• New emphasis on data quality via th",
+          "human_score_0_1_2": 1,
+          "reviewer_reason": "Đoạn trích đúng chủ đề và có phần nội dung liên quan, nhưng bị cắt ở đầu/cuối giữa câu hoặc mạch ý nên chưa phải một đơn vị văn bản hoàn chỉnh."
+        },
+        "B": {
+          "chunk_id": "paragraph-wb-idr-2026-p089-0000718-0001578",
+          "text": "• The introduction of new models for the risk of overall public debt stress and public debt unsustainability, together with an updated model for the risk of external public debt stress\n\n• New dedicated modules to support the structured application of judgment, including – A domestic debt module to assess solv ency, liquidity risk, and macro- financial linkages (including the sovereign–bank–central bank nexus); and – A long-term module t o evaluate implications of policy and investment deci- sions (including climate adaptation, infrastructure, and human capital) over longer horizons\n\n• New emphasis on data quality via the new debt data confidence flag, clearer guidance on the debt perimeter, and incentives to close reporting gaps\n\n• Introduction of additional granularity to risk ratings to differentiate among countries at high risk of debt distress.",
+          "human_score_0_1_2": 2,
+          "reviewer_reason": "Đoạn văn giữ được mạch ý và ngữ cảnh cần thiết, đồng thời bao phủ trực tiếp phần nội dung được trích dẫn; phần tiêu đề hình/ghi chú kèm theo không làm mất tính mạch lạc chính."
+        },
+        "C": {
+          "chunk_id": "paragraph-wb-idr-2026-p089-0000718-0001578",
+          "text": "• The introduction of new models for the risk of overall public debt stress and public debt unsustainability, together with an updated model for the risk of external public debt stress\n\n• New dedicated modules to support the structured application of judgment, including – A domestic debt module to assess solv ency, liquidity risk, and macro- financial linkages (including the sovereign–bank–central bank nexus); and – A long-term module t o evaluate implications of policy and investment deci- sions (including climate adaptation, infrastructure, and human capital) over longer horizons\n\n• New emphasis on data quality via the new debt data confidence flag, clearer guidance on the debt perimeter, and incentives to close reporting gaps\n\n• Introduction of additional granularity to risk ratings to differentiate among countries at high risk of debt distress.",
+          "human_score_0_1_2": 2,
+          "reviewer_reason": "Đoạn văn giữ được mạch ý và ngữ cảnh cần thiết, đồng thời bao phủ trực tiếp phần nội dung được trích dẫn; phần tiêu đề hình/ghi chú kèm theo không làm mất tính mạch lạc chính."
+        }
+      }
+    },
+    {
+      "document_id": "wb-idr-2026",
+      "source": "data/wb_idr_2026.pdf",
+      "physical_page": 103,
+      "printed_page": "79",
+      "source_position_character": 1550,
+      "source_excerpt": "s. The period analysis adds an\noutcome perspective, showing that higher debt burdens are more strongly\nassociated with nutrition security challenges during major external shocks, as\nreflected in changes in healthy diet unaffordability. This pattern is consistent with\nthe earlier framing of debt acti",
+      "strategies": {
+        "A": {
+          "chunk_id": "fixed-wb-idr-2026-p103-0001260-0001760",
+          "text": "s both reliance on\nimported supply and the concentration of import sources, and these dimensions\ncan coincide with high external debt burdens. The period analysis adds an\noutcome perspective, showing that higher debt burdens are more strongly\nassociated with nutrition security challenges during major external shocks, as\nreflected in changes in healthy diet unaffordability. This pattern is consistent with\nthe earlier framing of debt acting as an amplifier of vulnerability, and it highlights\nthe i",
+          "human_score_0_1_2": 1,
+          "reviewer_reason": "Đoạn trích đúng chủ đề và có phần nội dung liên quan, nhưng bị cắt ở đầu/cuối giữa câu hoặc mạch ý nên chưa phải một đơn vị văn bản hoàn chỉnh."
+        },
+        "B": {
+          "chunk_id": "paragraph-wb-idr-2026-p103-0001202-0001918",
+          "text": "As revealed in this section, food import vulnerability reflects both reliance on imported supply and the concentration of import sources, and these dimensions can coincide with high external debt burdens. The period analysis adds an outcome perspective, showing that higher debt burdens are more strongly associated with nutrition security challenges during major external shocks, as reflected in changes in healthy diet unaffordability. This pattern is consistent with the earlier framing of debt acting as an amplifier of vulnerability, and it highlights the importance of considering food import exposure and external debt together when assessing a country’s nutrition resilience to future external shocks.\n\nNotes",
+          "human_score_0_1_2": 2,
+          "reviewer_reason": "Đoạn văn giữ được mạch ý và ngữ cảnh cần thiết, đồng thời bao phủ trực tiếp phần nội dung được trích dẫn; phần tiêu đề hình/ghi chú kèm theo không làm mất tính mạch lạc chính."
+        },
+        "C": {
+          "chunk_id": "paragraph-wb-idr-2026-p103-0001202-0001918",
+          "text": "As revealed in this section, food import vulnerability reflects both reliance on imported supply and the concentration of import sources, and these dimensions can coincide with high external debt burdens. The period analysis adds an outcome perspective, showing that higher debt burdens are more strongly associated with nutrition security challenges during major external shocks, as reflected in changes in healthy diet unaffordability. This pattern is consistent with the earlier framing of debt acting as an amplifier of vulnerability, and it highlights the importance of considering food import exposure and external debt together when assessing a country’s nutrition resilience to future external shocks.\n\nNotes",
+          "human_score_0_1_2": 2,
+          "reviewer_reason": "Đoạn văn giữ được mạch ý và ngữ cảnh cần thiết, đồng thời bao phủ trực tiếp phần nội dung được trích dẫn; phần tiêu đề hình/ghi chú kèm theo không làm mất tính mạch lạc chính."
+        }
+      }
+    },
+    {
+      "document_id": "wb-idr-2026",
+      "source": "data/wb_idr_2026.pdf",
+      "physical_page": 117,
+      "printed_page": "93",
+      "source_position_character": 1410,
+      "source_excerpt": "gs\ninconsistencies in the data being uploaded by the reporter.\nIntegrating Domestic Public Debt into the Debt Transparency Agenda\nA critical new frontier for the debt transparency agenda is the expansion of data\ncoverage to domestic public debt, which has become an increasingly important\nshare of LM",
+      "strategies": {
+        "A": {
+          "chunk_id": "fixed-wb-idr-2026-p117-0001260-0001760",
+          "text": "gs\ninconsistencies in the data being uploaded by the reporter.\nIntegrating Domestic Public Debt into the Debt Transparency Agenda\nA critical new frontier for the debt transparency agenda is the expansion of data\ncoverage to domestic public debt, which has become an increasingly important\nshare of LMICs’ public debt. In many of these countries, domestic public debt\nnow accounts for 40–60 percent of total public debt, and in some of them it\nexceeds those shares. Despite the centrality of domestic",
+          "human_score_0_1_2": 1,
+          "reviewer_reason": "Đoạn trích đúng chủ đề và có phần nội dung liên quan, nhưng bị cắt ở đầu/cuối giữa câu hoặc mạch ý nên chưa phải một đơn vị văn bản hoàn chỉnh."
+        },
+        "B": {
+          "chunk_id": "paragraph-wb-idr-2026-p117-0001327-0002209",
+          "text": "Integrating Domestic Public Debt into the Debt Transparency Agenda A critical new frontier for the debt transparency agenda is the expansion of data coverage to domestic public debt, which has become an increasingly important share of LMICs’ public debt. In many of these countries, domestic public debt now accounts for 40–60 percent of total public debt, and in some of them it exceeds those shares. Despite the centrality of domestic debt levels to fiscal sustainability, sound monetary policy, and financial stability, data on domestic debt obligations remain fragmented, inconsistently defined, and only partially captured in international data sets. In marked contrast to external public debt, no comprehensive global platform currently exists to systematically collect and disseminate detailed, comprehensive, and cross-country comparable domestic public debt data for LMICs.",
+          "human_score_0_1_2": 2,
+          "reviewer_reason": "Đoạn văn giữ được mạch ý và ngữ cảnh cần thiết, đồng thời bao phủ trực tiếp phần nội dung được trích dẫn; phần tiêu đề hình/ghi chú kèm theo không làm mất tính mạch lạc chính."
+        },
+        "C": {
+          "chunk_id": "paragraph-wb-idr-2026-p117-0001327-0002209",
+          "text": "Integrating Domestic Public Debt into the Debt Transparency Agenda A critical new frontier for the debt transparency agenda is the expansion of data coverage to domestic public debt, which has become an increasingly important share of LMICs’ public debt. In many of these countries, domestic public debt now accounts for 40–60 percent of total public debt, and in some of them it exceeds those shares. Despite the centrality of domestic debt levels to fiscal sustainability, sound monetary policy, and financial stability, data on domestic debt obligations remain fragmented, inconsistently defined, and only partially captured in international data sets. In marked contrast to external public debt, no comprehensive global platform currently exists to systematically collect and disseminate detailed, comprehensive, and cross-country comparable domestic public debt data for LMICs.",
+          "human_score_0_1_2": 2,
+          "reviewer_reason": "Đoạn văn giữ được mạch ý và ngữ cảnh cần thiết, đồng thời bao phủ trực tiếp phần nội dung được trích dẫn; phần tiêu đề hình/ghi chú kèm theo không làm mất tính mạch lạc chính."
+        }
+      }
+    },
+    {
+      "document_id": "wb-idr-2026",
+      "source": "data/wb_idr_2026.pdf",
+      "physical_page": 131,
+      "printed_page": "107",
+      "source_position_character": 1340,
+      "source_excerpt": "s. Their strength is that they offer unique insights into certain types of\nfinancing—such as officially supported export credits and market-based lending—\nthat are often underrepresented in other data sets. Their limitation is that the\ninformation is fragmented, not systematically compiled, and ofte",
+      "strategies": {
+        "A": {
+          "chunk_id": "fixed-wb-idr-2026-p131-0001260-0001760",
+          "text": "s of\nfinancing—such as officially supported export credits and market-based lending—\nthat are often underrepresented in other data sets. Their limitation is that the\ninformation is fragmented, not systematically compiled, and often not publicly\navailable in a timely manner, creating gaps in comprehensive debt monitoring.\nAnnex 3B. The World Bank Group Debt Statistics Three-Tier\nArchitecture\nThe World Bank Group Debt Statistics Program operates through a three-\ntier architecture that progressivel",
+          "human_score_0_1_2": 1,
+          "reviewer_reason": "Đoạn trích đúng chủ đề và có phần nội dung liên quan, nhưng bị cắt ở đầu/cuối giữa câu hoặc mạch ý nên chưa phải một đơn vị văn bản hoàn chỉnh."
+        },
+        "B": {
+          "chunk_id": "paragraph-wb-idr-2026-p131-0000949-0001657",
+          "text": "The Paris Club, private sector data collection entities like Dealogic, and some export credit agencies supply information on bilateral debt restructurings, syndicated loans and international bond issues, and direct and guaranteed export credits. Their strength is that they offer unique insights into certain types of financing—such as officially supported export credits and market-based lending— that are often underrepresented in other data sets. Their limitation is that the information is fragmented, not systematically compiled, and often not publicly available in a timely manner, creating gaps in comprehensive debt monitoring.\n\nAnnex 3B. The World Bank Group Debt Statistics Three-Tier\n\nArchitecture",
+          "human_score_0_1_2": 2,
+          "reviewer_reason": "Đoạn văn giữ được mạch ý và ngữ cảnh cần thiết, đồng thời bao phủ trực tiếp phần nội dung được trích dẫn; phần tiêu đề hình/ghi chú kèm theo không làm mất tính mạch lạc chính."
+        },
+        "C": {
+          "chunk_id": "paragraph-wb-idr-2026-p131-0000949-0001657",
+          "text": "The Paris Club, private sector data collection entities like Dealogic, and some export credit agencies supply information on bilateral debt restructurings, syndicated loans and international bond issues, and direct and guaranteed export credits. Their strength is that they offer unique insights into certain types of financing—such as officially supported export credits and market-based lending— that are often underrepresented in other data sets. Their limitation is that the information is fragmented, not systematically compiled, and often not publicly available in a timely manner, creating gaps in comprehensive debt monitoring.\n\nAnnex 3B. The World Bank Group Debt Statistics Three-Tier\n\nArchitecture",
+          "human_score_0_1_2": 2,
+          "reviewer_reason": "Đoạn văn giữ được mạch ý và ngữ cảnh cần thiết, đồng thời bao phủ trực tiếp phần nội dung được trích dẫn; phần tiêu đề hình/ghi chú kèm theo không làm mất tính mạch lạc chính."
+        }
+      }
+    },
+    {
+      "document_id": "wb-idr-2026",
+      "source": "data/wb_idr_2026.pdf",
+      "physical_page": 277,
+      "printed_page": "253",
+      "source_position_character": 815,
+      "source_excerpt": "xternal debt has an original maturity of one year or less. Available\ndata permit no distinctions among public, publicly guaranteed, and private\nnonguaranteed short-term external debt.\nState-owned enterprise is a corporate entity recognized by law that is at least\npartially owned by the government.\nT",
+      "strategies": {
+        "A": {
+          "chunk_id": "fixed-wb-idr-2026-p277-0000420-0000920",
+          "text": "ember countries in\nproportion to their quota shares at the International Monetary Fund. The SDR\n(special drawing right) allocations are included in the gross external debt position\nand classified as long-term special drawing rights.\nShort-term external debt has an original maturity of one year or less. Available\ndata permit no distinctions among public, publicly guaranteed, and private\nnonguaranteed short-term external debt.\nState-owned enterprise is a corporate entity recognized by law that is",
+          "human_score_0_1_2": 1,
+          "reviewer_reason": "Đoạn trích đúng chủ đề và có phần nội dung liên quan, nhưng bị cắt ở đầu/cuối giữa câu hoặc mạch ý nên chưa phải một đơn vị văn bản hoàn chỉnh."
+        },
+        "B": {
+          "chunk_id": "paragraph-wb-idr-2026-p277-0000000-0000851",
+          "text": "Public debt is an external obligation of a public debtor, including all levels of government, the central bank, state-owned enterprises, public corporations, development banks, and any other autonomous public bodies of government.\n\nPublic domestic debt comprises debt liabilities owed by public sector entities to other resident units of the same economy.\n\nSDR allocations are reserve-related liabilities, distributed to member countries in proportion to their quota shares at the International Monetary Fund. The SDR (special drawing right) allocations are included in the gross external debt position and classified as long-term special drawing rights.\n\nShort-term external debt has an original maturity of one year or less. Available data permit no distinctions among public, publicly guaranteed, and private nonguaranteed short-term external debt.",
+          "human_score_0_1_2": 2,
+          "reviewer_reason": "Đoạn văn giữ được mạch ý và ngữ cảnh cần thiết, đồng thời bao phủ trực tiếp phần nội dung được trích dẫn; phần tiêu đề hình/ghi chú kèm theo không làm mất tính mạch lạc chính."
+        },
+        "C": {
+          "chunk_id": "paragraph-wb-idr-2026-p277-0000000-0000851",
+          "text": "Public debt is an external obligation of a public debtor, including all levels of government, the central bank, state-owned enterprises, public corporations, development banks, and any other autonomous public bodies of government.\n\nPublic domestic debt comprises debt liabilities owed by public sector entities to other resident units of the same economy.\n\nSDR allocations are reserve-related liabilities, distributed to member countries in proportion to their quota shares at the International Monetary Fund. The SDR (special drawing right) allocations are included in the gross external debt position and classified as long-term special drawing rights.\n\nShort-term external debt has an original maturity of one year or less. Available data permit no distinctions among public, publicly guaranteed, and private nonguaranteed short-term external debt.",
+          "human_score_0_1_2": 2,
+          "reviewer_reason": "Đoạn văn giữ được mạch ý và ngữ cảnh cần thiết, đồng thời bao phủ trực tiếp phần nội dung được trích dẫn; phần tiêu đề hình/ghi chú kèm theo không làm mất tính mạch lạc chính."
+        }
+      }
+    }
+  ],
+  "grounding_quality": {
+    "A": [
+      {
+        "question_id": "q16",
+        "question": "Why can adverse external developments have especially serious consequences for LMICs that already have high debt burdens?",
+        "top3": [
+          {
+            "chunk_id": "fixed-wb-idr-2026-p075-0000000-0000500",
+            "document_id": "wb-idr-2026",
+            "source": "data/wb_idr_2026.pdf",
+            "page": 75,
+            "text": "2. Debt Dynamics: Policy\nImplications\nExternal Debt, External Shocks, and Vulnerability in LMICs\nLow- and middle-income countries (LMICs) are facing historically high global\nuncertainty at a time when external debt stocks have reached historic highs,\ndebt service pressures remain elevated, fiscal space is limited in many countries,\nand global bond yields continue to rise, tightening financial conditions. This\ncombination matters because external shocks can be more difficult to absorb\nwhen govern",
+            "metadata": {
+              "year": 2026,
+              "chapter": "2",
+              "indexed": true,
+              "section": "Chapter 2. Debt Dynamics: Policy Implications",
+              "chunking": "fixed",
+              "language": "en",
+              "chunk_end": 500,
+              "char_count": 2385,
+              "chunk_start": 0,
+              "printed_page": "51",
+              "section_type": "analysis",
+              "chunk_ordinal": 0,
+              "document_type": "report",
+              "extraction_error": "",
+              "extraction_status": "ok",
+              "counted_as_content": true
+            },
+            "score": 0.7578434973692998
+          },
+          {
+            "chunk_id": "fixed-wb-idr-2026-p078-0000000-0000500",
+            "document_id": "wb-idr-2026",
+            "source": "data/wb_idr_2026.pdf",
+            "page": 78,
+            "text": "External debt is a key amplifier of the transmission of external shocks. Economies\nwith elevated external debt levels, especially short-term debt, are vulnerable to\nsudden shifts in investor risk appetite and rollover risks, potentially leading to\nsudden stops in capital flows and current account reversals. For most LMICs,\nwhere external debt tends to be denominated in foreign currencies, economic\nvulnerabilities can increase when external shocks lead to currency depreciation,\ncausing an increas",
+            "metadata": {
+              "year": 2026,
+              "chapter": "2",
+              "indexed": true,
+              "section": "Chapter 2. Debt Dynamics: Policy Implications",
+              "chunking": "fixed",
+              "language": "en",
+              "chunk_end": 500,
+              "char_count": 1983,
+              "chunk_start": 0,
+              "printed_page": "54",
+              "section_type": "analysis",
+              "chunk_ordinal": 0,
+              "document_type": "report",
+              "extraction_error": "",
+              "extraction_status": "ok",
+              "counted_as_content": true
+            },
+            "score": 0.731557237833155
+          },
+          {
+            "chunk_id": "fixed-wb-idr-2026-p078-0000420-0000920",
+            "document_id": "wb-idr-2026",
+            "source": "data/wb_idr_2026.pdf",
+            "page": 78,
+            "text": "increase when external shocks lead to currency depreciation,\ncausing an increase in debt service burdens and higher inflation. An increase in\ndebt service costs can slow investment growth by decreasing national savings.\nDuring periods of tightening global financial conditions, LMICs with high levels\nof external debt need to raise interest rates to defend their currencies, causing\ncredit crunches in domestic financial markets and slowing growth.\nDespite a recent slowdown in international integra",
+            "metadata": {
+              "year": 2026,
+              "chapter": "2",
+              "indexed": true,
+              "section": "Chapter 2. Debt Dynamics: Policy Implications",
+              "chunking": "fixed",
+              "language": "en",
+              "chunk_end": 920,
+              "char_count": 1983,
+              "chunk_start": 420,
+              "printed_page": "54",
+              "section_type": "analysis",
+              "chunk_ordinal": 1,
+              "document_type": "report",
+              "extraction_error": "",
+              "extraction_status": "ok",
+              "counted_as_content": true
+            },
+            "score": 0.7297152087710632
+          }
+        ],
+        "human_grounding_score_0_1_2": 2,
+        "reviewer_reason": "Các đoạn xếp hạng cao nêu trực tiếp cơ chế khuếch đại cú sốc: dư địa tài khóa hạn chế, chi phí trả nợ tăng, rủi ro dòng vốn/tỷ giá và suy giảm đầu tư."
+      },
+      {
+        "question_id": "q17",
+        "question": "How much did the World Uncertainty Index rise between the third quarters of 2024 and 2025, relative to its COVID-19 peak?",
+        "top3": [
+          {
+            "chunk_id": "fixed-wb-idr-2026-p075-0002100-0002385",
+            "document_id": "wb-idr-2026",
+            "source": "data/wb_idr_2026.pdf",
+            "page": 75,
+            "text": "ose more\nthan fivefold between the third quarter of 2024 and the third quarter of 2025,\nnearly twice its COVID-19 peak. The Global Economic Policy Uncertainty Index\nshowed a similar pattern, rising sharply in early 2025 and remaining elevated into\n2026 (Ahir et al. 2022; Davis 2016).1",
+            "metadata": {
+              "year": 2026,
+              "chapter": "2",
+              "indexed": true,
+              "section": "Chapter 2. Debt Dynamics: Policy Implications",
+              "chunking": "fixed",
+              "language": "en",
+              "chunk_end": 2385,
+              "char_count": 2385,
+              "chunk_start": 2100,
+              "printed_page": "51",
+              "section_type": "analysis",
+              "chunk_ordinal": 5,
+              "document_type": "report",
+              "extraction_error": "",
+              "extraction_status": "ok",
+              "counted_as_content": true
+            },
+            "score": 0.74861679841133
+          },
+          {
+            "chunk_id": "fixed-wb-idr-2026-p076-0000000-0000500",
+            "document_id": "wb-idr-2026",
+            "source": "data/wb_idr_2026.pdf",
+            "page": 76,
+            "text": "Figure 2.1 Global Uncertainty amid Successive Shocks\n1,200\n1,000\n800\n600\n400\n200\n100\n0\nIndex (2000 = 100)\n2000 2005 2010\nWorld Uncertainty Index Global Economic Policy Uncertainty Index\n2015 2020 2025\nSources: Original calculations based on data from the World Uncertainty Index database and the\nGlobal Economic Policy Uncertainty Index database.\nNote: The World Uncertainty Index measures broad uncertainty using Economist Intelligence\nUnit country reports. The Global Economic Policy Uncertainty In",
+            "metadata": {
+              "year": 2026,
+              "chapter": "2",
+              "indexed": true,
+              "section": "Chapter 2. Debt Dynamics: Policy Implications",
+              "chunking": "fixed",
+              "language": "en",
+              "chunk_end": 500,
+              "char_count": 1763,
+              "chunk_start": 0,
+              "printed_page": "52",
+              "section_type": "analysis",
+              "chunk_ordinal": 0,
+              "document_type": "report",
+              "extraction_error": "",
+              "extraction_status": "ok",
+              "counted_as_content": true
+            },
+            "score": 0.619596116847045
+          },
+          {
+            "chunk_id": "fixed-wb-idr-2026-p076-0000420-0000920",
+            "document_id": "wb-idr-2026",
+            "source": "data/wb_idr_2026.pdf",
+            "page": 76,
+            "text": "ist Intelligence\nUnit country reports. The Global Economic Policy Uncertainty Index measures uncertainty\naround economic policy using newspaper coverage and is aggregated across 20 economies using\ncurrent price GDP weights. Both series are rebased so that their average value in 2000 equals 100.\nData shown through 2026Q2.\nElevated uncertainty matters because economies remain closely connected to\ninternational markets. Yet countries differ in the nature and degree of their\nexternal exposure, which",
+            "metadata": {
+              "year": 2026,
+              "chapter": "2",
+              "indexed": true,
+              "section": "Chapter 2. Debt Dynamics: Policy Implications",
+              "chunking": "fixed",
+              "language": "en",
+              "chunk_end": 920,
+              "char_count": 1763,
+              "chunk_start": 420,
+              "printed_page": "52",
+              "section_type": "analysis",
+              "chunk_ordinal": 1,
+              "document_type": "report",
+              "extraction_error": "",
+              "extraction_status": "ok",
+              "counted_as_content": true
+            },
+            "score": 0.5453158674146265
+          }
+        ],
+        "human_grounding_score_0_1_2": 2,
+        "reviewer_reason": "Đoạn dẫn chứng nêu trực tiếp mức tăng hơn 5 lần từ Q3/2024 đến Q3/2025 và gần gấp đôi đỉnh COVID-19; hình minh họa bổ trợ."
+      },
+      {
+        "question_id": "q18",
+        "question": "In Chapter 2, how do flexible and fixed exchange-rate regimes differ in absorbing external shocks?",
+        "top3": [
+          {
+            "chunk_id": "fixed-wb-idr-2026-p077-0000840-0001340",
+            "document_id": "wb-idr-2026",
+            "source": "data/wb_idr_2026.pdf",
+            "page": 77,
+            "text": "absorbed through currency movements. In economies with fixed\nexchange rate regimes, pressure on the exchange rate can be cushioned by using\nforeign reserves. As discussed later in this chapter, damage from external shocks\nthat LMICs can absorb and the speed of subsequent recovery are also subject\nto the availability of fiscal buffers and the implementation of fiscal and foreign\nexchange policy frameworks.\nFigure 2.2 Trade Exposure Across Income Groups, 2000–25\n35\n30\n25\n20\n15\nPercent of GDP\n2000",
+            "metadata": {
+              "year": 2026,
+              "chapter": "2",
+              "indexed": true,
+              "section": "Chapter 2. Debt Dynamics: Policy Implications",
+              "chunking": "fixed",
+              "language": "en",
+              "chunk_end": 1340,
+              "char_count": 1841,
+              "chunk_start": 840,
+              "printed_page": "53",
+              "section_type": "analysis",
+              "chunk_ordinal": 2,
+              "document_type": "report",
+              "extraction_error": "",
+              "extraction_status": "ok",
+              "counted_as_content": true
+            },
+            "score": 0.6479477087727722
+          },
+          {
+            "chunk_id": "fixed-wb-idr-2026-p077-0000420-0000920",
+            "document_id": "wb-idr-2026",
+            "source": "data/wb_idr_2026.pdf",
+            "page": 77,
+            "text": "re more vulnerable to shifts in demand among their trading partners. External\nshocks also tend to spill more forcefully into LMICs with open financial markets,\npartly reflecting rapid capital flow movements. In addition, the types of policy\nframeworks in LMICs are important for the transmission of external shocks. For\nexample, in economies with flexible exchange rate regimes, the effects of external\nshocks are partly absorbed through currency movements. In economies with fixed\nexchange rate regi",
+            "metadata": {
+              "year": 2026,
+              "chapter": "2",
+              "indexed": true,
+              "section": "Chapter 2. Debt Dynamics: Policy Implications",
+              "chunking": "fixed",
+              "language": "en",
+              "chunk_end": 920,
+              "char_count": 1841,
+              "chunk_start": 420,
+              "printed_page": "53",
+              "section_type": "analysis",
+              "chunk_ordinal": 1,
+              "document_type": "report",
+              "extraction_error": "",
+              "extraction_status": "ok",
+              "counted_as_content": true
+            },
+            "score": 0.626709089348827
+          },
+          {
+            "chunk_id": "fixed-wb-idr-2026-p081-0000420-0000920",
+            "document_id": "wb-idr-2026",
+            "source": "data/wb_idr_2026.pdf",
+            "page": 81,
+            "text": "ng low- and middle-income countries with flexible exchange rate regimes or\nintermediate arrangements. Average refers to simple averages across 28 economies.\nThe energy supply shock in 2026 has caused exchange rates in commodity-\nimporting LMICs to fall, worsening trade balances. Among commodity-importing\nLMICs with flexible or adjustable exchange rate regimes, currencies depreciated\nby about 1.7 percent between January and July 2026 (figure 2.5), on average.\nIn contrast, currencies in commodity-",
+            "metadata": {
+              "year": 2026,
+              "chapter": "2",
+              "indexed": true,
+              "section": "Chapter 2. Debt Dynamics: Policy Implications",
+              "chunking": "fixed",
+              "language": "en",
+              "chunk_end": 920,
+              "char_count": 1695,
+              "chunk_start": 420,
+              "printed_page": "57",
+              "section_type": "analysis",
+              "chunk_ordinal": 1,
+              "document_type": "report",
+              "extraction_error": "",
+              "extraction_status": "ok",
+              "counted_as_content": true
+            },
+            "score": 0.5900767693286737
+          }
+        ],
+        "human_grounding_score_0_1_2": 2,
+        "reviewer_reason": "Các đoạn liên quan mô tả hai cơ chế đối chiếu: tỷ giá linh hoạt hấp thụ một phần cú sốc qua biến động tiền tệ, còn chế độ cố định dùng dự trữ ngoại hối để giảm áp lực."
+      },
+      {
+        "question_id": "q19",
+        "question": "According to Chapter 2, why are economies with high external debt, especially short-term debt, vulnerable to rollover risk?",
+        "top3": [
+          {
+            "chunk_id": "fixed-wb-idr-2026-p078-0000000-0000500",
+            "document_id": "wb-idr-2026",
+            "source": "data/wb_idr_2026.pdf",
+            "page": 78,
+            "text": "External debt is a key amplifier of the transmission of external shocks. Economies\nwith elevated external debt levels, especially short-term debt, are vulnerable to\nsudden shifts in investor risk appetite and rollover risks, potentially leading to\nsudden stops in capital flows and current account reversals. For most LMICs,\nwhere external debt tends to be denominated in foreign currencies, economic\nvulnerabilities can increase when external shocks lead to currency depreciation,\ncausing an increas",
+            "metadata": {
+              "year": 2026,
+              "chapter": "2",
+              "indexed": true,
+              "section": "Chapter 2. Debt Dynamics: Policy Implications",
+              "chunking": "fixed",
+              "language": "en",
+              "chunk_end": 500,
+              "char_count": 1983,
+              "chunk_start": 0,
+              "printed_page": "54",
+              "section_type": "analysis",
+              "chunk_ordinal": 0,
+              "document_type": "report",
+              "extraction_error": "",
+              "extraction_status": "ok",
+              "counted_as_content": true
+            },
+            "score": 0.6431584969632482
+          },
+          {
+            "chunk_id": "fixed-wb-idr-2026-p092-0000000-0000500",
+            "document_id": "wb-idr-2026",
+            "source": "data/wb_idr_2026.pdf",
+            "page": 92,
+            "text": "borrowing increases exposure to exchange rate and refinancing shocks. At the\nsame time, high debt limits countries’ ability to borrow to close financing gaps.\nCountries are therefore left increasingly exposed to shocks, with minimal fiscal\nand financial buffers.\nSound fiscal and debt policies are central to preparing for, responding to, and\nrecovering from external shocks. Fiscal buffers and debt sustainability determine\nthe extent to which countries can absorb shocks and support recovery. Count",
+            "metadata": {
+              "year": 2026,
+              "chapter": "2",
+              "indexed": true,
+              "section": "Chapter 2. Debt Dynamics: Policy Implications",
+              "chunking": "fixed",
+              "language": "en",
+              "chunk_end": 500,
+              "char_count": 2851,
+              "chunk_start": 0,
+              "printed_page": "68",
+              "section_type": "analysis",
+              "chunk_ordinal": 0,
+              "document_type": "report",
+              "extraction_error": "",
+              "extraction_status": "ok",
+              "counted_as_content": true
+            },
+            "score": 0.616437902147091
+          },
+          {
+            "chunk_id": "fixed-wb-idr-2026-p092-0001680-0002180",
+            "document_id": "wb-idr-2026",
+            "source": "data/wb_idr_2026.pdf",
+            "page": 92,
+            "text": "t rate, refinancing, and creditor risks. Sound debt management acts as a\nkey shock absorber during times of crisis. Poor borrowing choices made during\nperiods of stress can worsen liquidity and solvency risks, particularly when\ngovernments turn to short-term solutions that are less transparent or less market\nbased, such as private placements or collateralized borrowing. These instruments\nmay provide immediate financing, but they can also increase rollover risks,\nreduce transparency, constrain fu",
+            "metadata": {
+              "year": 2026,
+              "chapter": "2",
+              "indexed": true,
+              "section": "Chapter 2. Debt Dynamics: Policy Implications",
+              "chunking": "fixed",
+              "language": "en",
+              "chunk_end": 2180,
+              "char_count": 2851,
+              "chunk_start": 1680,
+              "printed_page": "68",
+              "section_type": "analysis",
+              "chunk_ordinal": 4,
+              "document_type": "report",
+              "extraction_error": "",
+              "extraction_status": "ok",
+              "counted_as_content": true
+            },
+            "score": 0.6100038747395484
+          }
+        ],
+        "human_grounding_score_0_1_2": 2,
+        "reviewer_reason": "Bằng chứng nêu rõ nợ nước ngoài, nhất là nợ ngắn hạn, dễ chịu thay đổi khẩu vị rủi ro và rủi ro đảo nợ; các đoạn khác bổ sung hệ quả tái cấp vốn và bộ đệm hạn chế."
+      },
+      {
+        "question_id": "q20",
+        "question": "In Chapter 2, what happened to headline inflation in commodity-importing LMICs after the energy supply shock began in late February 2026?",
+        "top3": [
+          {
+            "chunk_id": "fixed-wb-idr-2026-p080-0000000-0000500",
+            "document_id": "wb-idr-2026",
+            "source": "data/wb_idr_2026.pdf",
+            "page": 80,
+            "text": "Inflation in commodity-importing LMICs has increased following a major\nenergy supply shock in 2026. The conflict in the Middle East involving major\nenergy producers, which began at the end of February 2026, has caused a\nsurge in headline inflation in these countries, to 3.6 percent in June 2026, from\nthe preconflict level of 2.6 percent (figure 2.4). Among market participants,\ninflation expectations for 2026 have also risen, from 2.7 percent according to\npreconflict February surveys to 3.4 perce",
+            "metadata": {
+              "year": 2026,
+              "chapter": "2",
+              "indexed": true,
+              "section": "Chapter 2. Debt Dynamics: Policy Implications",
+              "chunking": "fixed",
+              "language": "en",
+              "chunk_end": 500,
+              "char_count": 1744,
+              "chunk_start": 0,
+              "printed_page": "56",
+              "section_type": "analysis",
+              "chunk_ordinal": 0,
+              "document_type": "report",
+              "extraction_error": "",
+              "extraction_status": "ok",
+              "counted_as_content": true
+            },
+            "score": 0.7695847251957803
+          },
+          {
+            "chunk_id": "fixed-wb-idr-2026-p080-0000840-0001340",
+            "document_id": "wb-idr-2026",
+            "source": "data/wb_idr_2026.pdf",
+            "page": 80,
+            "text": "ints\nbetween January and June 2026 (excluding China). To ease price pressures,\nseveral central banks have raised interest rates. In addition, several commodity-\nimporting LMICs have introduced subsidies in response to higher fuel prices\n(World Bank 2026b).\nFigure 2.4 Headline Consumer Prices in Commodity-Importing Low- and\nMiddle-Income Countries, 2024–26\n2\n4\n6\n8\n10\n12\n14\n2024 2025 2026\nCommodity-importing LMICs Commodity-importing LMICs (excl. China)\nPercent change from a year earlier\nSources:",
+            "metadata": {
+              "year": 2026,
+              "chapter": "2",
+              "indexed": true,
+              "section": "Chapter 2. Debt Dynamics: Policy Implications",
+              "chunking": "fixed",
+              "language": "en",
+              "chunk_end": 1340,
+              "char_count": 1744,
+              "chunk_start": 840,
+              "printed_page": "56",
+              "section_type": "analysis",
+              "chunk_ordinal": 2,
+              "document_type": "report",
+              "extraction_error": "",
+              "extraction_status": "ok",
+              "counted_as_content": true
+            },
+            "score": 0.736772030106444
+          },
+          {
+            "chunk_id": "fixed-wb-idr-2026-p080-0000420-0000920",
+            "document_id": "wb-idr-2026",
+            "source": "data/wb_idr_2026.pdf",
+            "page": 80,
+            "text": "o risen, from 2.7 percent according to\npreconflict February surveys to 3.4 percent in July. Excluding China, which has\nbeen relatively insulated from the shock, partly because of its large petroleum\nreserves, inflation in commodity-importing LMICs increased from 7.0 percent\nto 8.3 percent between January and June, with higher inflation expectations\nfor 2026. Energy prices have increased, as well, by 1.1 percentage points\nbetween January and June 2026 (excluding China). To ease price pressures,\ns",
+            "metadata": {
+              "year": 2026,
+              "chapter": "2",
+              "indexed": true,
+              "section": "Chapter 2. Debt Dynamics: Policy Implications",
+              "chunking": "fixed",
+              "language": "en",
+              "chunk_end": 920,
+              "char_count": 1744,
+              "chunk_start": 420,
+              "printed_page": "56",
+              "section_type": "analysis",
+              "chunk_ordinal": 1,
+              "document_type": "report",
+              "extraction_error": "",
+              "extraction_status": "ok",
+              "counted_as_content": true
+            },
+            "score": 0.6997019282758543
+          }
+        ],
+        "human_grounding_score_0_1_2": 2,
+        "reviewer_reason": "Đoạn xếp hạng cao nêu trực tiếp lạm phát headline tăng lên 3,6% vào tháng 6/2026 từ mức 2,6% trước xung đột."
+      }
+    ],
+    "B": [
+      {
+        "question_id": "q16",
+        "question": "Why can adverse external developments have especially serious consequences for LMICs that already have high debt burdens?",
+        "top3": [
+          {
+            "chunk_id": "paragraph-wb-idr-2026-p075-0000000-0000718",
+            "document_id": "wb-idr-2026",
+            "source": "data/wb_idr_2026.pdf",
+            "page": 75,
+            "text": "2. Debt Dynamics: Policy\n\nImplications\n\nExternal Debt, External Shocks, and Vulnerability in LMICs Low- and middle-income countries (LMICs) are facing historically high global uncertainty at a time when external debt stocks have reached historic highs, debt service pressures remain elevated, fiscal space is limited in many countries, and global bond yields continue to rise, tightening financial conditions. This combination matters because external shocks can be more difficult to absorb when governments already face substantial financing needs and limited room to respond. The key vulnerability therefore lies not in exposure to global shocks alone but in how those shocks interact with already-high debt burdens.",
+            "metadata": {
+              "year": 2026,
+              "chapter": "2",
+              "indexed": true,
+              "section": "Chapter 2. Debt Dynamics: Policy Implications",
+              "chunking": "paragraph",
+              "language": "en",
+              "chunk_end": 718,
+              "char_count": 2385,
+              "chunk_start": 0,
+              "printed_page": "51",
+              "section_type": "analysis",
+              "chunk_ordinal": 0,
+              "document_type": "report",
+              "extraction_error": "",
+              "extraction_status": "ok",
+              "counted_as_content": true
+            },
+            "score": 0.7787771410271808
+          },
+          {
+            "chunk_id": "paragraph-wb-idr-2026-p078-0000000-0000870",
+            "document_id": "wb-idr-2026",
+            "source": "data/wb_idr_2026.pdf",
+            "page": 78,
+            "text": "External debt is a key amplifier of the transmission of external shocks. Economies with elevated external debt levels, especially short-term debt, are vulnerable to sudden shifts in investor risk appetite and rollover risks, potentially leading to sudden stops in capital flows and current account reversals. For most LMICs, where external debt tends to be denominated in foreign currencies, economic vulnerabilities can increase when external shocks lead to currency depreciation, causing an increase in debt service burdens and higher inflation. An increase in debt service costs can slow investment growth by decreasing national savings.\n\nDuring periods of tightening global financial conditions, LMICs with high levels of external debt need to raise interest rates to defend their currencies, causing credit crunches in domestic financial markets and slowing growth.",
+            "metadata": {
+              "year": 2026,
+              "chapter": "2",
+              "indexed": true,
+              "section": "Chapter 2. Debt Dynamics: Policy Implications",
+              "chunking": "paragraph",
+              "language": "en",
+              "chunk_end": 870,
+              "char_count": 1983,
+              "chunk_start": 0,
+              "printed_page": "54",
+              "section_type": "analysis",
+              "chunk_ordinal": 0,
+              "document_type": "report",
+              "extraction_error": "",
+              "extraction_status": "ok",
+              "counted_as_content": true
+            },
+            "score": 0.7732895915338575
+          },
+          {
+            "chunk_id": "paragraph-wb-idr-2026-p021-0001311-0002011",
+            "document_id": "wb-idr-2026",
+            "source": "data/wb_idr_2026.pdf",
+            "page": 21,
+            "text": "• An analysis of macroeconomic conditions and risks LMICs face amid changing global financial and trade conditions and what these shifts imply for these countries’ debt burdens and vulnerabilities;\n\n• A discussion of how rising debt service burdens, elevated financing needs, and changing financing patterns are constraining fiscal space and intensifying debt and rollover risks, as well as the policy priorities for strengthening resilience;\n\n• An analysis of how elevated debt burdens appear to be associated with adverse changes in healthy diet unaffordability in LMICs during periods of global stress and of potential underlying mechanisms, including food import reliance and diversification; and",
+            "metadata": {
+              "year": 2026,
+              "chapter": "",
+              "indexed": true,
+              "section": "Key Takeaways",
+              "chunking": "paragraph",
+              "language": "en",
+              "chunk_end": 2011,
+              "char_count": 2275,
+              "chunk_start": 1311,
+              "printed_page": "",
+              "section_type": "key_takeaways",
+              "chunk_ordinal": 2,
+              "document_type": "report",
+              "extraction_error": "",
+              "extraction_status": "ok",
+              "counted_as_content": true
+            },
+            "score": 0.6941251984816315
+          }
+        ],
+        "human_grounding_score_0_1_2": 2,
+        "reviewer_reason": "Các đoạn xếp hạng cao nêu trực tiếp cơ chế khuếch đại cú sốc: dư địa tài khóa hạn chế, chi phí trả nợ tăng, rủi ro dòng vốn/tỷ giá và suy giảm đầu tư."
+      },
+      {
+        "question_id": "q17",
+        "question": "How much did the World Uncertainty Index rise between the third quarters of 2024 and 2025, relative to its COVID-19 peak?",
+        "top3": [
+          {
+            "chunk_id": "paragraph-wb-idr-2026-p075-0002042-0002393",
+            "document_id": "wb-idr-2026",
+            "source": "data/wb_idr_2026.pdf",
+            "page": 75,
+            "text": "2026. The World Uncertainty Index measures broad uncertainty and rose more than fivefold between the third quarter of 2024 and the third quarter of 2025, nearly twice its COVID-19 peak. The Global Economic Policy Uncertainty Index showed a similar pattern, rising sharply in early 2025 and remaining elevated into 2026 (Ahir et al. 2022; Davis 2016).1",
+            "metadata": {
+              "year": 2026,
+              "chapter": "2",
+              "indexed": true,
+              "section": "Chapter 2. Debt Dynamics: Policy Implications",
+              "chunking": "paragraph",
+              "language": "en",
+              "chunk_end": 2393,
+              "char_count": 2385,
+              "chunk_start": 2042,
+              "printed_page": "51",
+              "section_type": "analysis",
+              "chunk_ordinal": 3,
+              "document_type": "report",
+              "extraction_error": "",
+              "extraction_status": "ok",
+              "counted_as_content": true
+            },
+            "score": 0.8214671500109475
+          },
+          {
+            "chunk_id": "paragraph-wb-idr-2026-p076-0000000-0000747",
+            "document_id": "wb-idr-2026",
+            "source": "data/wb_idr_2026.pdf",
+            "page": 76,
+            "text": "Figure 2.1 Global Uncertainty amid Successive Shocks 1,200 1,000 800 600 400 200 100 0\n\nIndex (2000 = 100) 2000 2005 2010\n\nWorld Uncertainty Index Global Economic Policy Uncertainty Index 2015 2020 2025\n\nSources: Original calculations based on data from the World Uncertainty Index database and the Global Economic Policy Uncertainty Index database.\n\nNote: The World Uncertainty Index measures broad uncertainty using Economist Intelligence Unit country reports. The Global Economic Policy Uncertainty Index measures uncertainty around economic policy using newspaper coverage and is aggregated across 20 economies using current price GDP weights. Both series are rebased so that their average value in 2000 equals 100.\n\nData shown through 2026Q2.",
+            "metadata": {
+              "year": 2026,
+              "chapter": "2",
+              "indexed": true,
+              "section": "Chapter 2. Debt Dynamics: Policy Implications",
+              "chunking": "paragraph",
+              "language": "en",
+              "chunk_end": 747,
+              "char_count": 1763,
+              "chunk_start": 0,
+              "printed_page": "52",
+              "section_type": "analysis",
+              "chunk_ordinal": 0,
+              "document_type": "report",
+              "extraction_error": "",
+              "extraction_status": "ok",
+              "counted_as_content": true
+            },
+            "score": 0.6763005351955159
+          },
+          {
+            "chunk_id": "paragraph-wb-idr-2026-p103-0001920-0002555",
+            "document_id": "wb-idr-2026",
+            "source": "data/wb_idr_2026.pdf",
+            "page": 103,
+            "text": "1. The World Uncertainty Index measures broad uncertainty according to references to uncertainty in Economist Intelligence Unit country reports; the Global Economic Policy Uncertainty Index measures economic policy uncertainty using newspaper coverage across major economies.\n\n2. The larger the ΔDSPD, the larger the fiscal adjustment needed in the primary balance to ensure debt stabilization.\n\n3. Based on the International Monetary Fund Sovereign Risk and Debt Sustainability Framework for Market Access Countries, https://www.imf.org/en/publications/dsa/sovereign-risk-and-debt -sustainability-analysis-for-market-access-countries.",
+            "metadata": {
+              "year": 2026,
+              "chapter": "2",
+              "indexed": true,
+              "section": "Chapter 2. Debt Dynamics: Policy Implications",
+              "chunking": "paragraph",
+              "language": "en",
+              "chunk_end": 2555,
+              "char_count": 3096,
+              "chunk_start": 1920,
+              "printed_page": "79",
+              "section_type": "analysis",
+              "chunk_ordinal": 3,
+              "document_type": "report",
+              "extraction_error": "",
+              "extraction_status": "ok",
+              "counted_as_content": true
+            },
+            "score": 0.4935089246804918
+          }
+        ],
+        "human_grounding_score_0_1_2": 2,
+        "reviewer_reason": "Đoạn dẫn chứng nêu trực tiếp mức tăng hơn 5 lần từ Q3/2024 đến Q3/2025 và gần gấp đôi đỉnh COVID-19; hình minh họa bổ trợ."
+      },
+      {
+        "question_id": "q18",
+        "question": "In Chapter 2, how do flexible and fixed exchange-rate regimes differ in absorbing external shocks?",
+        "top3": [
+          {
+            "chunk_id": "paragraph-wb-idr-2026-p077-0000879-0001625",
+            "document_id": "wb-idr-2026",
+            "source": "data/wb_idr_2026.pdf",
+            "page": 77,
+            "text": "In economies with fixed exchange rate regimes, pressure on the exchange rate can be cushioned by using foreign reserves. As discussed later in this chapter, damage from external shocks that LMICs can absorb and the speed of subsequent recovery are also subject to the availability of fiscal buffers and the implementation of fiscal and foreign exchange policy frameworks.\n\nFigure 2.2 Trade Exposure Across Income Groups, 2000–25 35 30 25 20 15 Percent of GDP 2000 2005 2010 a. Imports of goods and services 2015 2020 2025 35 30 25 20 15 Percent of GDP b. Exports of goods and services 2000 2005 2010 2015 2020 2025 World Low income High incomeLower-middle income Upper-middle income Source: World Bank Group World Development Indicators database.",
+            "metadata": {
+              "year": 2026,
+              "chapter": "2",
+              "indexed": true,
+              "section": "Chapter 2. Debt Dynamics: Policy Implications",
+              "chunking": "paragraph",
+              "language": "en",
+              "chunk_end": 1625,
+              "char_count": 1841,
+              "chunk_start": 879,
+              "printed_page": "53",
+              "section_type": "analysis",
+              "chunk_ordinal": 1,
+              "document_type": "report",
+              "extraction_error": "",
+              "extraction_status": "ok",
+              "counted_as_content": true
+            },
+            "score": 0.6193850344717176
+          },
+          {
+            "chunk_id": "paragraph-wb-idr-2026-p077-0000000-0000877",
+            "document_id": "wb-idr-2026",
+            "source": "data/wb_idr_2026.pdf",
+            "page": 77,
+            "text": "Transmission of External Shocks External shocks are transmitted to LMICs differently, depending on their structural features. Economies that rely heavily on imports of goods and services for domestic activity are vulnerable to sudden changes in the external environment, such as production shortfalls in major supplier countries, export restrictions, or supply chain disruptions; in contrast, export-oriented economies are more vulnerable to shifts in demand among their trading partners. External shocks also tend to spill more forcefully into LMICs with open financial markets, partly reflecting rapid capital flow movements. In addition, the types of policy frameworks in LMICs are important for the transmission of external shocks. For example, in economies with flexible exchange rate regimes, the effects of external shocks are partly absorbed through currency movements.",
+            "metadata": {
+              "year": 2026,
+              "chapter": "2",
+              "indexed": true,
+              "section": "Chapter 2. Debt Dynamics: Policy Implications",
+              "chunking": "paragraph",
+              "language": "en",
+              "chunk_end": 877,
+              "char_count": 1841,
+              "chunk_start": 0,
+              "printed_page": "53",
+              "section_type": "analysis",
+              "chunk_ordinal": 0,
+              "document_type": "report",
+              "extraction_error": "",
+              "extraction_status": "ok",
+              "counted_as_content": true
+            },
+            "score": 0.5666203915398507
+          },
+          {
+            "chunk_id": "paragraph-wb-idr-2026-p082-0000856-0001709",
+            "document_id": "wb-idr-2026",
+            "source": "data/wb_idr_2026.pdf",
+            "page": 82,
+            "text": "The impact of external shocks tends to be larger and more persistent in fragile economies and low-income countries (LICs). In both LICs and economies in fragile, conflict, and violence-affected environments or with institutional fragility, financial markets tend to be shallower than in other LMICs, making them more exposed to external shocks. They tend to rely on narrower economic bases, in terms of exports and revenue sources, and are therefore more affected by sudden shifts in external conditions. With a weak institutional framework and limited access to financing, these economies tend to implement procyclical fiscal tightening during economic downturns. Increases in commodity prices and supply shortages translate into substantial losses in economic welfare and income, reflecting persistently low personal savings and acute food insecurity.",
+            "metadata": {
+              "year": 2026,
+              "chapter": "2",
+              "indexed": true,
+              "section": "Chapter 2. Debt Dynamics: Policy Implications",
+              "chunking": "paragraph",
+              "language": "en",
+              "chunk_end": 1709,
+              "char_count": 3077,
+              "chunk_start": 856,
+              "printed_page": "58",
+              "section_type": "analysis",
+              "chunk_ordinal": 1,
+              "document_type": "report",
+              "extraction_error": "",
+              "extraction_status": "ok",
+              "counted_as_content": true
+            },
+            "score": 0.559035314249847
+          }
+        ],
+        "human_grounding_score_0_1_2": 2,
+        "reviewer_reason": "Các đoạn liên quan mô tả hai cơ chế đối chiếu: tỷ giá linh hoạt hấp thụ một phần cú sốc qua biến động tiền tệ, còn chế độ cố định dùng dự trữ ngoại hối để giảm áp lực."
+      },
+      {
+        "question_id": "q19",
+        "question": "According to Chapter 2, why are economies with high external debt, especially short-term debt, vulnerable to rollover risk?",
+        "top3": [
+          {
+            "chunk_id": "paragraph-wb-idr-2026-p092-0000000-0000263",
+            "document_id": "wb-idr-2026",
+            "source": "data/wb_idr_2026.pdf",
+            "page": 92,
+            "text": "borrowing increases exposure to exchange rate and refinancing shocks. At the same time, high debt limits countries’ ability to borrow to close financing gaps.\n\nCountries are therefore left increasingly exposed to shocks, with minimal fiscal and financial buffers.",
+            "metadata": {
+              "year": 2026,
+              "chapter": "2",
+              "indexed": true,
+              "section": "Chapter 2. Debt Dynamics: Policy Implications",
+              "chunking": "paragraph",
+              "language": "en",
+              "chunk_end": 263,
+              "char_count": 2851,
+              "chunk_start": 0,
+              "printed_page": "68",
+              "section_type": "analysis",
+              "chunk_ordinal": 0,
+              "document_type": "report",
+              "extraction_error": "",
+              "extraction_status": "ok",
+              "counted_as_content": true
+            },
+            "score": 0.6310274096588894
+          },
+          {
+            "chunk_id": "paragraph-wb-idr-2026-p078-0000000-0000870",
+            "document_id": "wb-idr-2026",
+            "source": "data/wb_idr_2026.pdf",
+            "page": 78,
+            "text": "External debt is a key amplifier of the transmission of external shocks. Economies with elevated external debt levels, especially short-term debt, are vulnerable to sudden shifts in investor risk appetite and rollover risks, potentially leading to sudden stops in capital flows and current account reversals. For most LMICs, where external debt tends to be denominated in foreign currencies, economic vulnerabilities can increase when external shocks lead to currency depreciation, causing an increase in debt service burdens and higher inflation. An increase in debt service costs can slow investment growth by decreasing national savings.\n\nDuring periods of tightening global financial conditions, LMICs with high levels of external debt need to raise interest rates to defend their currencies, causing credit crunches in domestic financial markets and slowing growth.",
+            "metadata": {
+              "year": 2026,
+              "chapter": "2",
+              "indexed": true,
+              "section": "Chapter 2. Debt Dynamics: Policy Implications",
+              "chunking": "paragraph",
+              "language": "en",
+              "chunk_end": 870,
+              "char_count": 1983,
+              "chunk_start": 0,
+              "printed_page": "54",
+              "section_type": "analysis",
+              "chunk_ordinal": 0,
+              "document_type": "report",
+              "extraction_error": "",
+              "extraction_status": "ok",
+              "counted_as_content": true
+            },
+            "score": 0.6268345126267243
+          },
+          {
+            "chunk_id": "paragraph-wb-idr-2026-p075-0000000-0000718",
+            "document_id": "wb-idr-2026",
+            "source": "data/wb_idr_2026.pdf",
+            "page": 75,
+            "text": "2. Debt Dynamics: Policy\n\nImplications\n\nExternal Debt, External Shocks, and Vulnerability in LMICs Low- and middle-income countries (LMICs) are facing historically high global uncertainty at a time when external debt stocks have reached historic highs, debt service pressures remain elevated, fiscal space is limited in many countries, and global bond yields continue to rise, tightening financial conditions. This combination matters because external shocks can be more difficult to absorb when governments already face substantial financing needs and limited room to respond. The key vulnerability therefore lies not in exposure to global shocks alone but in how those shocks interact with already-high debt burdens.",
+            "metadata": {
+              "year": 2026,
+              "chapter": "2",
+              "indexed": true,
+              "section": "Chapter 2. Debt Dynamics: Policy Implications",
+              "chunking": "paragraph",
+              "language": "en",
+              "chunk_end": 718,
+              "char_count": 2385,
+              "chunk_start": 0,
+              "printed_page": "51",
+              "section_type": "analysis",
+              "chunk_ordinal": 0,
+              "document_type": "report",
+              "extraction_error": "",
+              "extraction_status": "ok",
+              "counted_as_content": true
+            },
+            "score": 0.6069171882169331
+          }
+        ],
+        "human_grounding_score_0_1_2": 2,
+        "reviewer_reason": "Bằng chứng nêu rõ nợ nước ngoài, nhất là nợ ngắn hạn, dễ chịu thay đổi khẩu vị rủi ro và rủi ro đảo nợ; các đoạn khác bổ sung hệ quả tái cấp vốn và bộ đệm hạn chế."
+      },
+      {
+        "question_id": "q20",
+        "question": "In Chapter 2, what happened to headline inflation in commodity-importing LMICs after the energy supply shock began in late February 2026?",
+        "top3": [
+          {
+            "chunk_id": "paragraph-wb-idr-2026-p080-0000000-0000893",
+            "document_id": "wb-idr-2026",
+            "source": "data/wb_idr_2026.pdf",
+            "page": 80,
+            "text": "Inflation in commodity-importing LMICs has increased following a major energy supply shock in 2026. The conflict in the Middle East involving major energy producers, which began at the end of February 2026, has caused a surge in headline inflation in these countries, to 3.6 percent in June 2026, from the preconflict level of 2.6 percent (figure 2.4). Among market participants, inflation expectations for 2026 have also risen, from 2.7 percent according to preconflict February surveys to 3.4 percent in July. Excluding China, which has been relatively insulated from the shock, partly because of its large petroleum reserves, inflation in commodity-importing LMICs increased from 7.0 percent to 8.3 percent between January and June, with higher inflation expectations for 2026. Energy prices have increased, as well, by 1.1 percentage points between January and June 2026 (excluding China).",
+            "metadata": {
+              "year": 2026,
+              "chapter": "2",
+              "indexed": true,
+              "section": "Chapter 2. Debt Dynamics: Policy Implications",
+              "chunking": "paragraph",
+              "language": "en",
+              "chunk_end": 893,
+              "char_count": 1744,
+              "chunk_start": 0,
+              "printed_page": "56",
+              "section_type": "analysis",
+              "chunk_ordinal": 0,
+              "document_type": "report",
+              "extraction_error": "",
+              "extraction_status": "ok",
+              "counted_as_content": true
+            },
+            "score": 0.7770793226362135
+          },
+          {
+            "chunk_id": "paragraph-wb-idr-2026-p080-0000895-0001750",
+            "document_id": "wb-idr-2026",
+            "source": "data/wb_idr_2026.pdf",
+            "page": 80,
+            "text": "To ease price pressures, several central banks have raised interest rates. In addition, several commodity- importing LMICs have introduced subsidies in response to higher fuel prices (World Bank 2026b).\n\nFigure 2.4 Headline Consumer Prices in Commodity-Importing Low- and\n\nMiddle-Income Countries, 2024–26 2 4 6 8 10 12 14 2024 2025 2026 Commodity-importing LMICs Commodity-importing LMICs (excl. China) Percent change from a year earlier\n\nSources: Original calculations based on data from Haver Analytics; International Monetary Fund; World Bank Group.\n\nNote: Figure shows year-on-year changes in nonseasonally adjusted headline consumer prices.\n\nAggregates are computed as geometric weighted averages using nominal GDP in US dollars as weights. Sample includes up to 40 economies. Last observation is June 2026. LMICs = low- and middle-income countries.",
+            "metadata": {
+              "year": 2026,
+              "chapter": "2",
+              "indexed": true,
+              "section": "Chapter 2. Debt Dynamics: Policy Implications",
+              "chunking": "paragraph",
+              "language": "en",
+              "chunk_end": 1750,
+              "char_count": 1744,
+              "chunk_start": 895,
+              "printed_page": "56",
+              "section_type": "analysis",
+              "chunk_ordinal": 1,
+              "document_type": "report",
+              "extraction_error": "",
+              "extraction_status": "ok",
+              "counted_as_content": true
+            },
+            "score": 0.7218897259550782
+          },
+          {
+            "chunk_id": "paragraph-wb-idr-2026-p081-0000000-0000887",
+            "document_id": "wb-idr-2026",
+            "source": "data/wb_idr_2026.pdf",
+            "page": 81,
+            "text": "Figure 2.5 Exchange Rates in Commodity-Importing Low- and Middle-Income\n\nCountries, 2026 –2 0 Percent change since January 2 4\n\nJan Feb Mar Apr May Jun Jul Average Interquartile range\n\nSources: Original calculations based on data from the Bank for International Settlements; Haver Analytics; World Bank Group.\n\nNote: Figure shows changes in exchange rates relative to the US dollar since January 2026 among commodity-importing low- and middle-income countries with flexible exchange rate regimes or intermediate arrangements. Average refers to simple averages across 28 economies.\n\nThe energy supply shock in 2026 has caused exchange rates in commodity- importing LMICs to fall, worsening trade balances. Among commodity-importing LMICs with flexible or adjustable exchange rate regimes, currencies depreciated by about 1.7 percent between January and July 2026 (figure 2.5), on average.",
+            "metadata": {
+              "year": 2026,
+              "chapter": "2",
+              "indexed": true,
+              "section": "Chapter 2. Debt Dynamics: Policy Implications",
+              "chunking": "paragraph",
+              "language": "en",
+              "chunk_end": 887,
+              "char_count": 1695,
+              "chunk_start": 0,
+              "printed_page": "57",
+              "section_type": "analysis",
+              "chunk_ordinal": 0,
+              "document_type": "report",
+              "extraction_error": "",
+              "extraction_status": "ok",
+              "counted_as_content": true
+            },
+            "score": 0.699886396541666
+          }
+        ],
+        "human_grounding_score_0_1_2": 2,
+        "reviewer_reason": "Đoạn xếp hạng cao nêu trực tiếp lạm phát headline tăng lên 3,6% vào tháng 6/2026 từ mức 2,6% trước xung đột."
+      }
+    ],
+    "C": [
+      {
+        "question_id": "q16",
+        "question": "Why can adverse external developments have especially serious consequences for LMICs that already have high debt burdens?",
+        "top3": [
+          {
+            "chunk_id": "paragraph-wb-idr-2026-p075-0000000-0000718",
+            "document_id": "wb-idr-2026",
+            "source": "data/wb_idr_2026.pdf",
+            "page": 75,
+            "text": "2. Debt Dynamics: Policy\n\nImplications\n\nExternal Debt, External Shocks, and Vulnerability in LMICs Low- and middle-income countries (LMICs) are facing historically high global uncertainty at a time when external debt stocks have reached historic highs, debt service pressures remain elevated, fiscal space is limited in many countries, and global bond yields continue to rise, tightening financial conditions. This combination matters because external shocks can be more difficult to absorb when governments already face substantial financing needs and limited room to respond. The key vulnerability therefore lies not in exposure to global shocks alone but in how those shocks interact with already-high debt burdens.",
+            "metadata": {
+              "year": 2026,
+              "chapter": "2",
+              "indexed": true,
+              "section": "Chapter 2. Debt Dynamics: Policy Implications",
+              "chunking": "paragraph",
+              "language": "en",
+              "chunk_end": 718,
+              "char_count": 2385,
+              "chunk_start": 0,
+              "printed_page": "51",
+              "section_type": "analysis",
+              "chunk_ordinal": 0,
+              "document_type": "report",
+              "extraction_error": "",
+              "extraction_status": "ok",
+              "counted_as_content": true
+            },
+            "score": 0.7787771410271808
+          },
+          {
+            "chunk_id": "paragraph-wb-idr-2026-p078-0000000-0000870",
+            "document_id": "wb-idr-2026",
+            "source": "data/wb_idr_2026.pdf",
+            "page": 78,
+            "text": "External debt is a key amplifier of the transmission of external shocks. Economies with elevated external debt levels, especially short-term debt, are vulnerable to sudden shifts in investor risk appetite and rollover risks, potentially leading to sudden stops in capital flows and current account reversals. For most LMICs, where external debt tends to be denominated in foreign currencies, economic vulnerabilities can increase when external shocks lead to currency depreciation, causing an increase in debt service burdens and higher inflation. An increase in debt service costs can slow investment growth by decreasing national savings.\n\nDuring periods of tightening global financial conditions, LMICs with high levels of external debt need to raise interest rates to defend their currencies, causing credit crunches in domestic financial markets and slowing growth.",
+            "metadata": {
+              "year": 2026,
+              "chapter": "2",
+              "indexed": true,
+              "section": "Chapter 2. Debt Dynamics: Policy Implications",
+              "chunking": "paragraph",
+              "language": "en",
+              "chunk_end": 870,
+              "char_count": 1983,
+              "chunk_start": 0,
+              "printed_page": "54",
+              "section_type": "analysis",
+              "chunk_ordinal": 0,
+              "document_type": "report",
+              "extraction_error": "",
+              "extraction_status": "ok",
+              "counted_as_content": true
+            },
+            "score": 0.7732895915338575
+          },
+          {
+            "chunk_id": "paragraph-wb-idr-2026-p021-0001311-0002011",
+            "document_id": "wb-idr-2026",
+            "source": "data/wb_idr_2026.pdf",
+            "page": 21,
+            "text": "• An analysis of macroeconomic conditions and risks LMICs face amid changing global financial and trade conditions and what these shifts imply for these countries’ debt burdens and vulnerabilities;\n\n• A discussion of how rising debt service burdens, elevated financing needs, and changing financing patterns are constraining fiscal space and intensifying debt and rollover risks, as well as the policy priorities for strengthening resilience;\n\n• An analysis of how elevated debt burdens appear to be associated with adverse changes in healthy diet unaffordability in LMICs during periods of global stress and of potential underlying mechanisms, including food import reliance and diversification; and",
+            "metadata": {
+              "year": 2026,
+              "chapter": "",
+              "indexed": true,
+              "section": "Key Takeaways",
+              "chunking": "paragraph",
+              "language": "en",
+              "chunk_end": 2011,
+              "char_count": 2275,
+              "chunk_start": 1311,
+              "printed_page": "",
+              "section_type": "key_takeaways",
+              "chunk_ordinal": 2,
+              "document_type": "report",
+              "extraction_error": "",
+              "extraction_status": "ok",
+              "counted_as_content": true
+            },
+            "score": 0.6941251984816315
+          }
+        ],
+        "human_grounding_score_0_1_2": 2,
+        "reviewer_reason": "Các đoạn xếp hạng cao nêu trực tiếp cơ chế khuếch đại cú sốc: dư địa tài khóa hạn chế, chi phí trả nợ tăng, rủi ro dòng vốn/tỷ giá và suy giảm đầu tư."
+      },
+      {
+        "question_id": "q17",
+        "question": "How much did the World Uncertainty Index rise between the third quarters of 2024 and 2025, relative to its COVID-19 peak?",
+        "top3": [
+          {
+            "chunk_id": "paragraph-wb-idr-2026-p075-0002042-0002393",
+            "document_id": "wb-idr-2026",
+            "source": "data/wb_idr_2026.pdf",
+            "page": 75,
+            "text": "2026. The World Uncertainty Index measures broad uncertainty and rose more than fivefold between the third quarter of 2024 and the third quarter of 2025, nearly twice its COVID-19 peak. The Global Economic Policy Uncertainty Index showed a similar pattern, rising sharply in early 2025 and remaining elevated into 2026 (Ahir et al. 2022; Davis 2016).1",
+            "metadata": {
+              "year": 2026,
+              "chapter": "2",
+              "indexed": true,
+              "section": "Chapter 2. Debt Dynamics: Policy Implications",
+              "chunking": "paragraph",
+              "language": "en",
+              "chunk_end": 2393,
+              "char_count": 2385,
+              "chunk_start": 2042,
+              "printed_page": "51",
+              "section_type": "analysis",
+              "chunk_ordinal": 3,
+              "document_type": "report",
+              "extraction_error": "",
+              "extraction_status": "ok",
+              "counted_as_content": true
+            },
+            "score": 0.8214671500109475
+          },
+          {
+            "chunk_id": "paragraph-wb-idr-2026-p076-0000000-0000747",
+            "document_id": "wb-idr-2026",
+            "source": "data/wb_idr_2026.pdf",
+            "page": 76,
+            "text": "Figure 2.1 Global Uncertainty amid Successive Shocks 1,200 1,000 800 600 400 200 100 0\n\nIndex (2000 = 100) 2000 2005 2010\n\nWorld Uncertainty Index Global Economic Policy Uncertainty Index 2015 2020 2025\n\nSources: Original calculations based on data from the World Uncertainty Index database and the Global Economic Policy Uncertainty Index database.\n\nNote: The World Uncertainty Index measures broad uncertainty using Economist Intelligence Unit country reports. The Global Economic Policy Uncertainty Index measures uncertainty around economic policy using newspaper coverage and is aggregated across 20 economies using current price GDP weights. Both series are rebased so that their average value in 2000 equals 100.\n\nData shown through 2026Q2.",
+            "metadata": {
+              "year": 2026,
+              "chapter": "2",
+              "indexed": true,
+              "section": "Chapter 2. Debt Dynamics: Policy Implications",
+              "chunking": "paragraph",
+              "language": "en",
+              "chunk_end": 747,
+              "char_count": 1763,
+              "chunk_start": 0,
+              "printed_page": "52",
+              "section_type": "analysis",
+              "chunk_ordinal": 0,
+              "document_type": "report",
+              "extraction_error": "",
+              "extraction_status": "ok",
+              "counted_as_content": true
+            },
+            "score": 0.6763005351955159
+          },
+          {
+            "chunk_id": "paragraph-wb-idr-2026-p103-0001920-0002555",
+            "document_id": "wb-idr-2026",
+            "source": "data/wb_idr_2026.pdf",
+            "page": 103,
+            "text": "1. The World Uncertainty Index measures broad uncertainty according to references to uncertainty in Economist Intelligence Unit country reports; the Global Economic Policy Uncertainty Index measures economic policy uncertainty using newspaper coverage across major economies.\n\n2. The larger the ΔDSPD, the larger the fiscal adjustment needed in the primary balance to ensure debt stabilization.\n\n3. Based on the International Monetary Fund Sovereign Risk and Debt Sustainability Framework for Market Access Countries, https://www.imf.org/en/publications/dsa/sovereign-risk-and-debt -sustainability-analysis-for-market-access-countries.",
+            "metadata": {
+              "year": 2026,
+              "chapter": "2",
+              "indexed": true,
+              "section": "Chapter 2. Debt Dynamics: Policy Implications",
+              "chunking": "paragraph",
+              "language": "en",
+              "chunk_end": 2555,
+              "char_count": 3096,
+              "chunk_start": 1920,
+              "printed_page": "79",
+              "section_type": "analysis",
+              "chunk_ordinal": 3,
+              "document_type": "report",
+              "extraction_error": "",
+              "extraction_status": "ok",
+              "counted_as_content": true
+            },
+            "score": 0.4935089246804918
+          }
+        ],
+        "human_grounding_score_0_1_2": 2,
+        "reviewer_reason": "Đoạn dẫn chứng nêu trực tiếp mức tăng hơn 5 lần từ Q3/2024 đến Q3/2025 và gần gấp đôi đỉnh COVID-19; hình minh họa bổ trợ."
+      },
+      {
+        "question_id": "q18",
+        "question": "In Chapter 2, how do flexible and fixed exchange-rate regimes differ in absorbing external shocks?",
+        "top3": [
+          {
+            "chunk_id": "paragraph-wb-idr-2026-p077-0000879-0001625",
+            "document_id": "wb-idr-2026",
+            "source": "data/wb_idr_2026.pdf",
+            "page": 77,
+            "text": "In economies with fixed exchange rate regimes, pressure on the exchange rate can be cushioned by using foreign reserves. As discussed later in this chapter, damage from external shocks that LMICs can absorb and the speed of subsequent recovery are also subject to the availability of fiscal buffers and the implementation of fiscal and foreign exchange policy frameworks.\n\nFigure 2.2 Trade Exposure Across Income Groups, 2000–25 35 30 25 20 15 Percent of GDP 2000 2005 2010 a. Imports of goods and services 2015 2020 2025 35 30 25 20 15 Percent of GDP b. Exports of goods and services 2000 2005 2010 2015 2020 2025 World Low income High incomeLower-middle income Upper-middle income Source: World Bank Group World Development Indicators database.",
+            "metadata": {
+              "year": 2026,
+              "chapter": "2",
+              "indexed": true,
+              "section": "Chapter 2. Debt Dynamics: Policy Implications",
+              "chunking": "paragraph",
+              "language": "en",
+              "chunk_end": 1625,
+              "char_count": 1841,
+              "chunk_start": 879,
+              "printed_page": "53",
+              "section_type": "analysis",
+              "chunk_ordinal": 1,
+              "document_type": "report",
+              "extraction_error": "",
+              "extraction_status": "ok",
+              "counted_as_content": true
+            },
+            "score": 0.6193850344717176
+          },
+          {
+            "chunk_id": "paragraph-wb-idr-2026-p077-0000000-0000877",
+            "document_id": "wb-idr-2026",
+            "source": "data/wb_idr_2026.pdf",
+            "page": 77,
+            "text": "Transmission of External Shocks External shocks are transmitted to LMICs differently, depending on their structural features. Economies that rely heavily on imports of goods and services for domestic activity are vulnerable to sudden changes in the external environment, such as production shortfalls in major supplier countries, export restrictions, or supply chain disruptions; in contrast, export-oriented economies are more vulnerable to shifts in demand among their trading partners. External shocks also tend to spill more forcefully into LMICs with open financial markets, partly reflecting rapid capital flow movements. In addition, the types of policy frameworks in LMICs are important for the transmission of external shocks. For example, in economies with flexible exchange rate regimes, the effects of external shocks are partly absorbed through currency movements.",
+            "metadata": {
+              "year": 2026,
+              "chapter": "2",
+              "indexed": true,
+              "section": "Chapter 2. Debt Dynamics: Policy Implications",
+              "chunking": "paragraph",
+              "language": "en",
+              "chunk_end": 877,
+              "char_count": 1841,
+              "chunk_start": 0,
+              "printed_page": "53",
+              "section_type": "analysis",
+              "chunk_ordinal": 0,
+              "document_type": "report",
+              "extraction_error": "",
+              "extraction_status": "ok",
+              "counted_as_content": true
+            },
+            "score": 0.5666203915398507
+          },
+          {
+            "chunk_id": "paragraph-wb-idr-2026-p082-0000856-0001709",
+            "document_id": "wb-idr-2026",
+            "source": "data/wb_idr_2026.pdf",
+            "page": 82,
+            "text": "The impact of external shocks tends to be larger and more persistent in fragile economies and low-income countries (LICs). In both LICs and economies in fragile, conflict, and violence-affected environments or with institutional fragility, financial markets tend to be shallower than in other LMICs, making them more exposed to external shocks. They tend to rely on narrower economic bases, in terms of exports and revenue sources, and are therefore more affected by sudden shifts in external conditions. With a weak institutional framework and limited access to financing, these economies tend to implement procyclical fiscal tightening during economic downturns. Increases in commodity prices and supply shortages translate into substantial losses in economic welfare and income, reflecting persistently low personal savings and acute food insecurity.",
+            "metadata": {
+              "year": 2026,
+              "chapter": "2",
+              "indexed": true,
+              "section": "Chapter 2. Debt Dynamics: Policy Implications",
+              "chunking": "paragraph",
+              "language": "en",
+              "chunk_end": 1709,
+              "char_count": 3077,
+              "chunk_start": 856,
+              "printed_page": "58",
+              "section_type": "analysis",
+              "chunk_ordinal": 1,
+              "document_type": "report",
+              "extraction_error": "",
+              "extraction_status": "ok",
+              "counted_as_content": true
+            },
+            "score": 0.559035314249847
+          }
+        ],
+        "human_grounding_score_0_1_2": 2,
+        "reviewer_reason": "Các đoạn liên quan mô tả hai cơ chế đối chiếu: tỷ giá linh hoạt hấp thụ một phần cú sốc qua biến động tiền tệ, còn chế độ cố định dùng dự trữ ngoại hối để giảm áp lực."
+      },
+      {
+        "question_id": "q19",
+        "question": "According to Chapter 2, why are economies with high external debt, especially short-term debt, vulnerable to rollover risk?",
+        "top3": [
+          {
+            "chunk_id": "paragraph-wb-idr-2026-p092-0000000-0000263",
+            "document_id": "wb-idr-2026",
+            "source": "data/wb_idr_2026.pdf",
+            "page": 92,
+            "text": "borrowing increases exposure to exchange rate and refinancing shocks. At the same time, high debt limits countries’ ability to borrow to close financing gaps.\n\nCountries are therefore left increasingly exposed to shocks, with minimal fiscal and financial buffers.",
+            "metadata": {
+              "year": 2026,
+              "chapter": "2",
+              "indexed": true,
+              "section": "Chapter 2. Debt Dynamics: Policy Implications",
+              "chunking": "paragraph",
+              "language": "en",
+              "chunk_end": 263,
+              "char_count": 2851,
+              "chunk_start": 0,
+              "printed_page": "68",
+              "section_type": "analysis",
+              "chunk_ordinal": 0,
+              "document_type": "report",
+              "extraction_error": "",
+              "extraction_status": "ok",
+              "counted_as_content": true
+            },
+            "score": 0.6310274096588894
+          },
+          {
+            "chunk_id": "paragraph-wb-idr-2026-p078-0000000-0000870",
+            "document_id": "wb-idr-2026",
+            "source": "data/wb_idr_2026.pdf",
+            "page": 78,
+            "text": "External debt is a key amplifier of the transmission of external shocks. Economies with elevated external debt levels, especially short-term debt, are vulnerable to sudden shifts in investor risk appetite and rollover risks, potentially leading to sudden stops in capital flows and current account reversals. For most LMICs, where external debt tends to be denominated in foreign currencies, economic vulnerabilities can increase when external shocks lead to currency depreciation, causing an increase in debt service burdens and higher inflation. An increase in debt service costs can slow investment growth by decreasing national savings.\n\nDuring periods of tightening global financial conditions, LMICs with high levels of external debt need to raise interest rates to defend their currencies, causing credit crunches in domestic financial markets and slowing growth.",
+            "metadata": {
+              "year": 2026,
+              "chapter": "2",
+              "indexed": true,
+              "section": "Chapter 2. Debt Dynamics: Policy Implications",
+              "chunking": "paragraph",
+              "language": "en",
+              "chunk_end": 870,
+              "char_count": 1983,
+              "chunk_start": 0,
+              "printed_page": "54",
+              "section_type": "analysis",
+              "chunk_ordinal": 0,
+              "document_type": "report",
+              "extraction_error": "",
+              "extraction_status": "ok",
+              "counted_as_content": true
+            },
+            "score": 0.6268345126267243
+          },
+          {
+            "chunk_id": "paragraph-wb-idr-2026-p075-0000000-0000718",
+            "document_id": "wb-idr-2026",
+            "source": "data/wb_idr_2026.pdf",
+            "page": 75,
+            "text": "2. Debt Dynamics: Policy\n\nImplications\n\nExternal Debt, External Shocks, and Vulnerability in LMICs Low- and middle-income countries (LMICs) are facing historically high global uncertainty at a time when external debt stocks have reached historic highs, debt service pressures remain elevated, fiscal space is limited in many countries, and global bond yields continue to rise, tightening financial conditions. This combination matters because external shocks can be more difficult to absorb when governments already face substantial financing needs and limited room to respond. The key vulnerability therefore lies not in exposure to global shocks alone but in how those shocks interact with already-high debt burdens.",
+            "metadata": {
+              "year": 2026,
+              "chapter": "2",
+              "indexed": true,
+              "section": "Chapter 2. Debt Dynamics: Policy Implications",
+              "chunking": "paragraph",
+              "language": "en",
+              "chunk_end": 718,
+              "char_count": 2385,
+              "chunk_start": 0,
+              "printed_page": "51",
+              "section_type": "analysis",
+              "chunk_ordinal": 0,
+              "document_type": "report",
+              "extraction_error": "",
+              "extraction_status": "ok",
+              "counted_as_content": true
+            },
+            "score": 0.6069171882169331
+          }
+        ],
+        "human_grounding_score_0_1_2": 2,
+        "reviewer_reason": "Bằng chứng nêu rõ nợ nước ngoài, nhất là nợ ngắn hạn, dễ chịu thay đổi khẩu vị rủi ro và rủi ro đảo nợ; các đoạn khác bổ sung hệ quả tái cấp vốn và bộ đệm hạn chế."
+      },
+      {
+        "question_id": "q20",
+        "question": "In Chapter 2, what happened to headline inflation in commodity-importing LMICs after the energy supply shock began in late February 2026?",
+        "top3": [
+          {
+            "chunk_id": "paragraph-wb-idr-2026-p080-0000000-0000893",
+            "document_id": "wb-idr-2026",
+            "source": "data/wb_idr_2026.pdf",
+            "page": 80,
+            "text": "Inflation in commodity-importing LMICs has increased following a major energy supply shock in 2026. The conflict in the Middle East involving major energy producers, which began at the end of February 2026, has caused a surge in headline inflation in these countries, to 3.6 percent in June 2026, from the preconflict level of 2.6 percent (figure 2.4). Among market participants, inflation expectations for 2026 have also risen, from 2.7 percent according to preconflict February surveys to 3.4 percent in July. Excluding China, which has been relatively insulated from the shock, partly because of its large petroleum reserves, inflation in commodity-importing LMICs increased from 7.0 percent to 8.3 percent between January and June, with higher inflation expectations for 2026. Energy prices have increased, as well, by 1.1 percentage points between January and June 2026 (excluding China).",
+            "metadata": {
+              "year": 2026,
+              "chapter": "2",
+              "indexed": true,
+              "section": "Chapter 2. Debt Dynamics: Policy Implications",
+              "chunking": "paragraph",
+              "language": "en",
+              "chunk_end": 893,
+              "char_count": 1744,
+              "chunk_start": 0,
+              "printed_page": "56",
+              "section_type": "analysis",
+              "chunk_ordinal": 0,
+              "document_type": "report",
+              "extraction_error": "",
+              "extraction_status": "ok",
+              "counted_as_content": true
+            },
+            "score": 0.7770793226362135
+          },
+          {
+            "chunk_id": "paragraph-wb-idr-2026-p080-0000895-0001750",
+            "document_id": "wb-idr-2026",
+            "source": "data/wb_idr_2026.pdf",
+            "page": 80,
+            "text": "To ease price pressures, several central banks have raised interest rates. In addition, several commodity- importing LMICs have introduced subsidies in response to higher fuel prices (World Bank 2026b).\n\nFigure 2.4 Headline Consumer Prices in Commodity-Importing Low- and\n\nMiddle-Income Countries, 2024–26 2 4 6 8 10 12 14 2024 2025 2026 Commodity-importing LMICs Commodity-importing LMICs (excl. China) Percent change from a year earlier\n\nSources: Original calculations based on data from Haver Analytics; International Monetary Fund; World Bank Group.\n\nNote: Figure shows year-on-year changes in nonseasonally adjusted headline consumer prices.\n\nAggregates are computed as geometric weighted averages using nominal GDP in US dollars as weights. Sample includes up to 40 economies. Last observation is June 2026. LMICs = low- and middle-income countries.",
+            "metadata": {
+              "year": 2026,
+              "chapter": "2",
+              "indexed": true,
+              "section": "Chapter 2. Debt Dynamics: Policy Implications",
+              "chunking": "paragraph",
+              "language": "en",
+              "chunk_end": 1750,
+              "char_count": 1744,
+              "chunk_start": 895,
+              "printed_page": "56",
+              "section_type": "analysis",
+              "chunk_ordinal": 1,
+              "document_type": "report",
+              "extraction_error": "",
+              "extraction_status": "ok",
+              "counted_as_content": true
+            },
+            "score": 0.7218897259550782
+          },
+          {
+            "chunk_id": "paragraph-wb-idr-2026-p081-0000000-0000887",
+            "document_id": "wb-idr-2026",
+            "source": "data/wb_idr_2026.pdf",
+            "page": 81,
+            "text": "Figure 2.5 Exchange Rates in Commodity-Importing Low- and Middle-Income\n\nCountries, 2026 –2 0 Percent change since January 2 4\n\nJan Feb Mar Apr May Jun Jul Average Interquartile range\n\nSources: Original calculations based on data from the Bank for International Settlements; Haver Analytics; World Bank Group.\n\nNote: Figure shows changes in exchange rates relative to the US dollar since January 2026 among commodity-importing low- and middle-income countries with flexible exchange rate regimes or intermediate arrangements. Average refers to simple averages across 28 economies.\n\nThe energy supply shock in 2026 has caused exchange rates in commodity- importing LMICs to fall, worsening trade balances. Among commodity-importing LMICs with flexible or adjustable exchange rate regimes, currencies depreciated by about 1.7 percent between January and July 2026 (figure 2.5), on average.",
+            "metadata": {
+              "year": 2026,
+              "chapter": "2",
+              "indexed": true,
+              "section": "Chapter 2. Debt Dynamics: Policy Implications",
+              "chunking": "paragraph",
+              "language": "en",
+              "chunk_end": 887,
+              "char_count": 1695,
+              "chunk_start": 0,
+              "printed_page": "57",
+              "section_type": "analysis",
+              "chunk_ordinal": 0,
+              "document_type": "report",
+              "extraction_error": "",
+              "extraction_status": "ok",
+              "counted_as_content": true
+            },
+            "score": 0.699886396541666
+          }
+        ],
+        "human_grounding_score_0_1_2": 2,
+        "reviewer_reason": "Đoạn xếp hạng cao nêu trực tiếp lạm phát headline tăng lên 3,6% vào tháng 6/2026 từ mức 2,6% trước xung đột."
+      }
+    ]
+  },
+  "metadata_audit_top3_test": {
+    "A": [
+      {
+        "question_id": "q16",
+        "rank": 1,
+        "chunk_id": "fixed-wb-idr-2026-p075-0000000-0000500",
+        "checked_fields": {
+          "document_id": {
+            "actual": "wb-idr-2026",
+            "source_page": "wb-idr-2026"
+          },
+          "source": {
+            "actual": "data/wb_idr_2026.pdf",
+            "source_page": "data/wb_idr_2026.pdf"
+          },
+          "page": {
+            "actual": 75,
+            "source_page": 75
+          },
+          "chapter": {
+            "actual": "2",
+            "source_page": "2"
+          },
+          "section_type": {
+            "actual": "analysis",
+            "source_page": "analysis"
+          },
+          "printed_page": {
+            "actual": "51",
+            "source_page": "51"
+          },
+          "document_type": {
+            "actual": "report",
+            "source_page": "report"
+          },
+          "year": {
+            "actual": 2026,
+            "source_page": 2026
+          },
+          "language": {
+            "actual": "en",
+            "source_page": "en"
+          }
+        },
+        "missing_fields": [],
+        "mismatched_fields": [],
+        "automatic_metadata_complete_and_consistent": true,
+        "human_checked": true,
+        "reviewer_reason": "Đã rà soát: các trường metadata được cung cấp khớp với thông tin nguồn; không phát hiện trường thiếu hoặc sai lệch."
+      },
+      {
+        "question_id": "q16",
+        "rank": 2,
+        "chunk_id": "fixed-wb-idr-2026-p078-0000000-0000500",
+        "checked_fields": {
+          "document_id": {
+            "actual": "wb-idr-2026",
+            "source_page": "wb-idr-2026"
+          },
+          "source": {
+            "actual": "data/wb_idr_2026.pdf",
+            "source_page": "data/wb_idr_2026.pdf"
+          },
+          "page": {
+            "actual": 78,
+            "source_page": 78
+          },
+          "chapter": {
+            "actual": "2",
+            "source_page": "2"
+          },
+          "section_type": {
+            "actual": "analysis",
+            "source_page": "analysis"
+          },
+          "printed_page": {
+            "actual": "54",
+            "source_page": "54"
+          },
+          "document_type": {
+            "actual": "report",
+            "source_page": "report"
+          },
+          "year": {
+            "actual": 2026,
+            "source_page": 2026
+          },
+          "language": {
+            "actual": "en",
+            "source_page": "en"
+          }
+        },
+        "missing_fields": [],
+        "mismatched_fields": [],
+        "automatic_metadata_complete_and_consistent": true,
+        "human_checked": true,
+        "reviewer_reason": "Đã rà soát: các trường metadata được cung cấp khớp với thông tin nguồn; không phát hiện trường thiếu hoặc sai lệch."
+      },
+      {
+        "question_id": "q16",
+        "rank": 3,
+        "chunk_id": "fixed-wb-idr-2026-p078-0000420-0000920",
+        "checked_fields": {
+          "document_id": {
+            "actual": "wb-idr-2026",
+            "source_page": "wb-idr-2026"
+          },
+          "source": {
+            "actual": "data/wb_idr_2026.pdf",
+            "source_page": "data/wb_idr_2026.pdf"
+          },
+          "page": {
+            "actual": 78,
+            "source_page": 78
+          },
+          "chapter": {
+            "actual": "2",
+            "source_page": "2"
+          },
+          "section_type": {
+            "actual": "analysis",
+            "source_page": "analysis"
+          },
+          "printed_page": {
+            "actual": "54",
+            "source_page": "54"
+          },
+          "document_type": {
+            "actual": "report",
+            "source_page": "report"
+          },
+          "year": {
+            "actual": 2026,
+            "source_page": 2026
+          },
+          "language": {
+            "actual": "en",
+            "source_page": "en"
+          }
+        },
+        "missing_fields": [],
+        "mismatched_fields": [],
+        "automatic_metadata_complete_and_consistent": true,
+        "human_checked": true,
+        "reviewer_reason": "Đã rà soát: các trường metadata được cung cấp khớp với thông tin nguồn; không phát hiện trường thiếu hoặc sai lệch."
+      },
+      {
+        "question_id": "q17",
+        "rank": 1,
+        "chunk_id": "fixed-wb-idr-2026-p075-0002100-0002385",
+        "checked_fields": {
+          "document_id": {
+            "actual": "wb-idr-2026",
+            "source_page": "wb-idr-2026"
+          },
+          "source": {
+            "actual": "data/wb_idr_2026.pdf",
+            "source_page": "data/wb_idr_2026.pdf"
+          },
+          "page": {
+            "actual": 75,
+            "source_page": 75
+          },
+          "chapter": {
+            "actual": "2",
+            "source_page": "2"
+          },
+          "section_type": {
+            "actual": "analysis",
+            "source_page": "analysis"
+          },
+          "printed_page": {
+            "actual": "51",
+            "source_page": "51"
+          },
+          "document_type": {
+            "actual": "report",
+            "source_page": "report"
+          },
+          "year": {
+            "actual": 2026,
+            "source_page": 2026
+          },
+          "language": {
+            "actual": "en",
+            "source_page": "en"
+          }
+        },
+        "missing_fields": [],
+        "mismatched_fields": [],
+        "automatic_metadata_complete_and_consistent": true,
+        "human_checked": true,
+        "reviewer_reason": "Đã rà soát: các trường metadata được cung cấp khớp với thông tin nguồn; không phát hiện trường thiếu hoặc sai lệch."
+      },
+      {
+        "question_id": "q17",
+        "rank": 2,
+        "chunk_id": "fixed-wb-idr-2026-p076-0000000-0000500",
+        "checked_fields": {
+          "document_id": {
+            "actual": "wb-idr-2026",
+            "source_page": "wb-idr-2026"
+          },
+          "source": {
+            "actual": "data/wb_idr_2026.pdf",
+            "source_page": "data/wb_idr_2026.pdf"
+          },
+          "page": {
+            "actual": 76,
+            "source_page": 76
+          },
+          "chapter": {
+            "actual": "2",
+            "source_page": "2"
+          },
+          "section_type": {
+            "actual": "analysis",
+            "source_page": "analysis"
+          },
+          "printed_page": {
+            "actual": "52",
+            "source_page": "52"
+          },
+          "document_type": {
+            "actual": "report",
+            "source_page": "report"
+          },
+          "year": {
+            "actual": 2026,
+            "source_page": 2026
+          },
+          "language": {
+            "actual": "en",
+            "source_page": "en"
+          }
+        },
+        "missing_fields": [],
+        "mismatched_fields": [],
+        "automatic_metadata_complete_and_consistent": true,
+        "human_checked": true,
+        "reviewer_reason": "Đã rà soát: các trường metadata được cung cấp khớp với thông tin nguồn; không phát hiện trường thiếu hoặc sai lệch."
+      },
+      {
+        "question_id": "q17",
+        "rank": 3,
+        "chunk_id": "fixed-wb-idr-2026-p076-0000420-0000920",
+        "checked_fields": {
+          "document_id": {
+            "actual": "wb-idr-2026",
+            "source_page": "wb-idr-2026"
+          },
+          "source": {
+            "actual": "data/wb_idr_2026.pdf",
+            "source_page": "data/wb_idr_2026.pdf"
+          },
+          "page": {
+            "actual": 76,
+            "source_page": 76
+          },
+          "chapter": {
+            "actual": "2",
+            "source_page": "2"
+          },
+          "section_type": {
+            "actual": "analysis",
+            "source_page": "analysis"
+          },
+          "printed_page": {
+            "actual": "52",
+            "source_page": "52"
+          },
+          "document_type": {
+            "actual": "report",
+            "source_page": "report"
+          },
+          "year": {
+            "actual": 2026,
+            "source_page": 2026
+          },
+          "language": {
+            "actual": "en",
+            "source_page": "en"
+          }
+        },
+        "missing_fields": [],
+        "mismatched_fields": [],
+        "automatic_metadata_complete_and_consistent": true,
+        "human_checked": true,
+        "reviewer_reason": "Đã rà soát: các trường metadata được cung cấp khớp với thông tin nguồn; không phát hiện trường thiếu hoặc sai lệch."
+      },
+      {
+        "question_id": "q18",
+        "rank": 1,
+        "chunk_id": "fixed-wb-idr-2026-p077-0000840-0001340",
+        "checked_fields": {
+          "document_id": {
+            "actual": "wb-idr-2026",
+            "source_page": "wb-idr-2026"
+          },
+          "source": {
+            "actual": "data/wb_idr_2026.pdf",
+            "source_page": "data/wb_idr_2026.pdf"
+          },
+          "page": {
+            "actual": 77,
+            "source_page": 77
+          },
+          "chapter": {
+            "actual": "2",
+            "source_page": "2"
+          },
+          "section_type": {
+            "actual": "analysis",
+            "source_page": "analysis"
+          },
+          "printed_page": {
+            "actual": "53",
+            "source_page": "53"
+          },
+          "document_type": {
+            "actual": "report",
+            "source_page": "report"
+          },
+          "year": {
+            "actual": 2026,
+            "source_page": 2026
+          },
+          "language": {
+            "actual": "en",
+            "source_page": "en"
+          }
+        },
+        "missing_fields": [],
+        "mismatched_fields": [],
+        "automatic_metadata_complete_and_consistent": true,
+        "human_checked": true,
+        "reviewer_reason": "Đã rà soát: các trường metadata được cung cấp khớp với thông tin nguồn; không phát hiện trường thiếu hoặc sai lệch."
+      },
+      {
+        "question_id": "q18",
+        "rank": 2,
+        "chunk_id": "fixed-wb-idr-2026-p077-0000420-0000920",
+        "checked_fields": {
+          "document_id": {
+            "actual": "wb-idr-2026",
+            "source_page": "wb-idr-2026"
+          },
+          "source": {
+            "actual": "data/wb_idr_2026.pdf",
+            "source_page": "data/wb_idr_2026.pdf"
+          },
+          "page": {
+            "actual": 77,
+            "source_page": 77
+          },
+          "chapter": {
+            "actual": "2",
+            "source_page": "2"
+          },
+          "section_type": {
+            "actual": "analysis",
+            "source_page": "analysis"
+          },
+          "printed_page": {
+            "actual": "53",
+            "source_page": "53"
+          },
+          "document_type": {
+            "actual": "report",
+            "source_page": "report"
+          },
+          "year": {
+            "actual": 2026,
+            "source_page": 2026
+          },
+          "language": {
+            "actual": "en",
+            "source_page": "en"
+          }
+        },
+        "missing_fields": [],
+        "mismatched_fields": [],
+        "automatic_metadata_complete_and_consistent": true,
+        "human_checked": true,
+        "reviewer_reason": "Đã rà soát: các trường metadata được cung cấp khớp với thông tin nguồn; không phát hiện trường thiếu hoặc sai lệch."
+      },
+      {
+        "question_id": "q18",
+        "rank": 3,
+        "chunk_id": "fixed-wb-idr-2026-p081-0000420-0000920",
+        "checked_fields": {
+          "document_id": {
+            "actual": "wb-idr-2026",
+            "source_page": "wb-idr-2026"
+          },
+          "source": {
+            "actual": "data/wb_idr_2026.pdf",
+            "source_page": "data/wb_idr_2026.pdf"
+          },
+          "page": {
+            "actual": 81,
+            "source_page": 81
+          },
+          "chapter": {
+            "actual": "2",
+            "source_page": "2"
+          },
+          "section_type": {
+            "actual": "analysis",
+            "source_page": "analysis"
+          },
+          "printed_page": {
+            "actual": "57",
+            "source_page": "57"
+          },
+          "document_type": {
+            "actual": "report",
+            "source_page": "report"
+          },
+          "year": {
+            "actual": 2026,
+            "source_page": 2026
+          },
+          "language": {
+            "actual": "en",
+            "source_page": "en"
+          }
+        },
+        "missing_fields": [],
+        "mismatched_fields": [],
+        "automatic_metadata_complete_and_consistent": true,
+        "human_checked": true,
+        "reviewer_reason": "Đã rà soát: các trường metadata được cung cấp khớp với thông tin nguồn; không phát hiện trường thiếu hoặc sai lệch."
+      },
+      {
+        "question_id": "q19",
+        "rank": 1,
+        "chunk_id": "fixed-wb-idr-2026-p078-0000000-0000500",
+        "checked_fields": {
+          "document_id": {
+            "actual": "wb-idr-2026",
+            "source_page": "wb-idr-2026"
+          },
+          "source": {
+            "actual": "data/wb_idr_2026.pdf",
+            "source_page": "data/wb_idr_2026.pdf"
+          },
+          "page": {
+            "actual": 78,
+            "source_page": 78
+          },
+          "chapter": {
+            "actual": "2",
+            "source_page": "2"
+          },
+          "section_type": {
+            "actual": "analysis",
+            "source_page": "analysis"
+          },
+          "printed_page": {
+            "actual": "54",
+            "source_page": "54"
+          },
+          "document_type": {
+            "actual": "report",
+            "source_page": "report"
+          },
+          "year": {
+            "actual": 2026,
+            "source_page": 2026
+          },
+          "language": {
+            "actual": "en",
+            "source_page": "en"
+          }
+        },
+        "missing_fields": [],
+        "mismatched_fields": [],
+        "automatic_metadata_complete_and_consistent": true,
+        "human_checked": true,
+        "reviewer_reason": "Đã rà soát: các trường metadata được cung cấp khớp với thông tin nguồn; không phát hiện trường thiếu hoặc sai lệch."
+      },
+      {
+        "question_id": "q19",
+        "rank": 2,
+        "chunk_id": "fixed-wb-idr-2026-p092-0000000-0000500",
+        "checked_fields": {
+          "document_id": {
+            "actual": "wb-idr-2026",
+            "source_page": "wb-idr-2026"
+          },
+          "source": {
+            "actual": "data/wb_idr_2026.pdf",
+            "source_page": "data/wb_idr_2026.pdf"
+          },
+          "page": {
+            "actual": 92,
+            "source_page": 92
+          },
+          "chapter": {
+            "actual": "2",
+            "source_page": "2"
+          },
+          "section_type": {
+            "actual": "analysis",
+            "source_page": "analysis"
+          },
+          "printed_page": {
+            "actual": "68",
+            "source_page": "68"
+          },
+          "document_type": {
+            "actual": "report",
+            "source_page": "report"
+          },
+          "year": {
+            "actual": 2026,
+            "source_page": 2026
+          },
+          "language": {
+            "actual": "en",
+            "source_page": "en"
+          }
+        },
+        "missing_fields": [],
+        "mismatched_fields": [],
+        "automatic_metadata_complete_and_consistent": true,
+        "human_checked": true,
+        "reviewer_reason": "Đã rà soát: các trường metadata được cung cấp khớp với thông tin nguồn; không phát hiện trường thiếu hoặc sai lệch."
+      },
+      {
+        "question_id": "q19",
+        "rank": 3,
+        "chunk_id": "fixed-wb-idr-2026-p092-0001680-0002180",
+        "checked_fields": {
+          "document_id": {
+            "actual": "wb-idr-2026",
+            "source_page": "wb-idr-2026"
+          },
+          "source": {
+            "actual": "data/wb_idr_2026.pdf",
+            "source_page": "data/wb_idr_2026.pdf"
+          },
+          "page": {
+            "actual": 92,
+            "source_page": 92
+          },
+          "chapter": {
+            "actual": "2",
+            "source_page": "2"
+          },
+          "section_type": {
+            "actual": "analysis",
+            "source_page": "analysis"
+          },
+          "printed_page": {
+            "actual": "68",
+            "source_page": "68"
+          },
+          "document_type": {
+            "actual": "report",
+            "source_page": "report"
+          },
+          "year": {
+            "actual": 2026,
+            "source_page": 2026
+          },
+          "language": {
+            "actual": "en",
+            "source_page": "en"
+          }
+        },
+        "missing_fields": [],
+        "mismatched_fields": [],
+        "automatic_metadata_complete_and_consistent": true,
+        "human_checked": true,
+        "reviewer_reason": "Đã rà soát: các trường metadata được cung cấp khớp với thông tin nguồn; không phát hiện trường thiếu hoặc sai lệch."
+      },
+      {
+        "question_id": "q20",
+        "rank": 1,
+        "chunk_id": "fixed-wb-idr-2026-p080-0000000-0000500",
+        "checked_fields": {
+          "document_id": {
+            "actual": "wb-idr-2026",
+            "source_page": "wb-idr-2026"
+          },
+          "source": {
+            "actual": "data/wb_idr_2026.pdf",
+            "source_page": "data/wb_idr_2026.pdf"
+          },
+          "page": {
+            "actual": 80,
+            "source_page": 80
+          },
+          "chapter": {
+            "actual": "2",
+            "source_page": "2"
+          },
+          "section_type": {
+            "actual": "analysis",
+            "source_page": "analysis"
+          },
+          "printed_page": {
+            "actual": "56",
+            "source_page": "56"
+          },
+          "document_type": {
+            "actual": "report",
+            "source_page": "report"
+          },
+          "year": {
+            "actual": 2026,
+            "source_page": 2026
+          },
+          "language": {
+            "actual": "en",
+            "source_page": "en"
+          }
+        },
+        "missing_fields": [],
+        "mismatched_fields": [],
+        "automatic_metadata_complete_and_consistent": true,
+        "human_checked": true,
+        "reviewer_reason": "Đã rà soát: các trường metadata được cung cấp khớp với thông tin nguồn; không phát hiện trường thiếu hoặc sai lệch."
+      },
+      {
+        "question_id": "q20",
+        "rank": 2,
+        "chunk_id": "fixed-wb-idr-2026-p080-0000840-0001340",
+        "checked_fields": {
+          "document_id": {
+            "actual": "wb-idr-2026",
+            "source_page": "wb-idr-2026"
+          },
+          "source": {
+            "actual": "data/wb_idr_2026.pdf",
+            "source_page": "data/wb_idr_2026.pdf"
+          },
+          "page": {
+            "actual": 80,
+            "source_page": 80
+          },
+          "chapter": {
+            "actual": "2",
+            "source_page": "2"
+          },
+          "section_type": {
+            "actual": "analysis",
+            "source_page": "analysis"
+          },
+          "printed_page": {
+            "actual": "56",
+            "source_page": "56"
+          },
+          "document_type": {
+            "actual": "report",
+            "source_page": "report"
+          },
+          "year": {
+            "actual": 2026,
+            "source_page": 2026
+          },
+          "language": {
+            "actual": "en",
+            "source_page": "en"
+          }
+        },
+        "missing_fields": [],
+        "mismatched_fields": [],
+        "automatic_metadata_complete_and_consistent": true,
+        "human_checked": true,
+        "reviewer_reason": "Đã rà soát: các trường metadata được cung cấp khớp với thông tin nguồn; không phát hiện trường thiếu hoặc sai lệch."
+      },
+      {
+        "question_id": "q20",
+        "rank": 3,
+        "chunk_id": "fixed-wb-idr-2026-p080-0000420-0000920",
+        "checked_fields": {
+          "document_id": {
+            "actual": "wb-idr-2026",
+            "source_page": "wb-idr-2026"
+          },
+          "source": {
+            "actual": "data/wb_idr_2026.pdf",
+            "source_page": "data/wb_idr_2026.pdf"
+          },
+          "page": {
+            "actual": 80,
+            "source_page": 80
+          },
+          "chapter": {
+            "actual": "2",
+            "source_page": "2"
+          },
+          "section_type": {
+            "actual": "analysis",
+            "source_page": "analysis"
+          },
+          "printed_page": {
+            "actual": "56",
+            "source_page": "56"
+          },
+          "document_type": {
+            "actual": "report",
+            "source_page": "report"
+          },
+          "year": {
+            "actual": 2026,
+            "source_page": 2026
+          },
+          "language": {
+            "actual": "en",
+            "source_page": "en"
+          }
+        },
+        "missing_fields": [],
+        "mismatched_fields": [],
+        "automatic_metadata_complete_and_consistent": true,
+        "human_checked": true,
+        "reviewer_reason": "Đã rà soát: các trường metadata được cung cấp khớp với thông tin nguồn; không phát hiện trường thiếu hoặc sai lệch."
+      }
+    ],
+    "B": [
+      {
+        "question_id": "q16",
+        "rank": 1,
+        "chunk_id": "paragraph-wb-idr-2026-p075-0000000-0000718",
+        "checked_fields": {
+          "document_id": {
+            "actual": "wb-idr-2026",
+            "source_page": "wb-idr-2026"
+          },
+          "source": {
+            "actual": "data/wb_idr_2026.pdf",
+            "source_page": "data/wb_idr_2026.pdf"
+          },
+          "page": {
+            "actual": 75,
+            "source_page": 75
+          },
+          "chapter": {
+            "actual": "2",
+            "source_page": "2"
+          },
+          "section_type": {
+            "actual": "analysis",
+            "source_page": "analysis"
+          },
+          "printed_page": {
+            "actual": "51",
+            "source_page": "51"
+          },
+          "document_type": {
+            "actual": "report",
+            "source_page": "report"
+          },
+          "year": {
+            "actual": 2026,
+            "source_page": 2026
+          },
+          "language": {
+            "actual": "en",
+            "source_page": "en"
+          }
+        },
+        "missing_fields": [],
+        "mismatched_fields": [],
+        "automatic_metadata_complete_and_consistent": true,
+        "human_checked": true,
+        "reviewer_reason": "Đã rà soát: các trường metadata được cung cấp khớp với thông tin nguồn; không phát hiện trường thiếu hoặc sai lệch."
+      },
+      {
+        "question_id": "q16",
+        "rank": 2,
+        "chunk_id": "paragraph-wb-idr-2026-p078-0000000-0000870",
+        "checked_fields": {
+          "document_id": {
+            "actual": "wb-idr-2026",
+            "source_page": "wb-idr-2026"
+          },
+          "source": {
+            "actual": "data/wb_idr_2026.pdf",
+            "source_page": "data/wb_idr_2026.pdf"
+          },
+          "page": {
+            "actual": 78,
+            "source_page": 78
+          },
+          "chapter": {
+            "actual": "2",
+            "source_page": "2"
+          },
+          "section_type": {
+            "actual": "analysis",
+            "source_page": "analysis"
+          },
+          "printed_page": {
+            "actual": "54",
+            "source_page": "54"
+          },
+          "document_type": {
+            "actual": "report",
+            "source_page": "report"
+          },
+          "year": {
+            "actual": 2026,
+            "source_page": 2026
+          },
+          "language": {
+            "actual": "en",
+            "source_page": "en"
+          }
+        },
+        "missing_fields": [],
+        "mismatched_fields": [],
+        "automatic_metadata_complete_and_consistent": true,
+        "human_checked": true,
+        "reviewer_reason": "Đã rà soát: các trường metadata được cung cấp khớp với thông tin nguồn; không phát hiện trường thiếu hoặc sai lệch."
+      },
+      {
+        "question_id": "q16",
+        "rank": 3,
+        "chunk_id": "paragraph-wb-idr-2026-p021-0001311-0002011",
+        "checked_fields": {
+          "document_id": {
+            "actual": "wb-idr-2026",
+            "source_page": "wb-idr-2026"
+          },
+          "source": {
+            "actual": "data/wb_idr_2026.pdf",
+            "source_page": "data/wb_idr_2026.pdf"
+          },
+          "page": {
+            "actual": 21,
+            "source_page": 21
+          },
+          "chapter": {
+            "actual": "",
+            "source_page": ""
+          },
+          "section_type": {
+            "actual": "key_takeaways",
+            "source_page": "key_takeaways"
+          },
+          "printed_page": {
+            "actual": "",
+            "source_page": ""
+          },
+          "document_type": {
+            "actual": "report",
+            "source_page": "report"
+          },
+          "year": {
+            "actual": 2026,
+            "source_page": 2026
+          },
+          "language": {
+            "actual": "en",
+            "source_page": "en"
+          }
+        },
+        "missing_fields": [
+          "chapter",
+          "printed_page"
+        ],
+        "mismatched_fields": [],
+        "automatic_metadata_complete_and_consistent": false,
+        "human_checked": true,
+        "reviewer_reason": "Các trường metadata hiện có đều khớp nguồn; thiếu chapter và printed_page trong metadata của chunk này. Không thấy trường nào bị sai lệch."
+      },
+      {
+        "question_id": "q17",
+        "rank": 1,
+        "chunk_id": "paragraph-wb-idr-2026-p075-0002042-0002393",
+        "checked_fields": {
+          "document_id": {
+            "actual": "wb-idr-2026",
+            "source_page": "wb-idr-2026"
+          },
+          "source": {
+            "actual": "data/wb_idr_2026.pdf",
+            "source_page": "data/wb_idr_2026.pdf"
+          },
+          "page": {
+            "actual": 75,
+            "source_page": 75
+          },
+          "chapter": {
+            "actual": "2",
+            "source_page": "2"
+          },
+          "section_type": {
+            "actual": "analysis",
+            "source_page": "analysis"
+          },
+          "printed_page": {
+            "actual": "51",
+            "source_page": "51"
+          },
+          "document_type": {
+            "actual": "report",
+            "source_page": "report"
+          },
+          "year": {
+            "actual": 2026,
+            "source_page": 2026
+          },
+          "language": {
+            "actual": "en",
+            "source_page": "en"
+          }
+        },
+        "missing_fields": [],
+        "mismatched_fields": [],
+        "automatic_metadata_complete_and_consistent": true,
+        "human_checked": true,
+        "reviewer_reason": "Đã rà soát: các trường metadata được cung cấp khớp với thông tin nguồn; không phát hiện trường thiếu hoặc sai lệch."
+      },
+      {
+        "question_id": "q17",
+        "rank": 2,
+        "chunk_id": "paragraph-wb-idr-2026-p076-0000000-0000747",
+        "checked_fields": {
+          "document_id": {
+            "actual": "wb-idr-2026",
+            "source_page": "wb-idr-2026"
+          },
+          "source": {
+            "actual": "data/wb_idr_2026.pdf",
+            "source_page": "data/wb_idr_2026.pdf"
+          },
+          "page": {
+            "actual": 76,
+            "source_page": 76
+          },
+          "chapter": {
+            "actual": "2",
+            "source_page": "2"
+          },
+          "section_type": {
+            "actual": "analysis",
+            "source_page": "analysis"
+          },
+          "printed_page": {
+            "actual": "52",
+            "source_page": "52"
+          },
+          "document_type": {
+            "actual": "report",
+            "source_page": "report"
+          },
+          "year": {
+            "actual": 2026,
+            "source_page": 2026
+          },
+          "language": {
+            "actual": "en",
+            "source_page": "en"
+          }
+        },
+        "missing_fields": [],
+        "mismatched_fields": [],
+        "automatic_metadata_complete_and_consistent": true,
+        "human_checked": true,
+        "reviewer_reason": "Đã rà soát: các trường metadata được cung cấp khớp với thông tin nguồn; không phát hiện trường thiếu hoặc sai lệch."
+      },
+      {
+        "question_id": "q17",
+        "rank": 3,
+        "chunk_id": "paragraph-wb-idr-2026-p103-0001920-0002555",
+        "checked_fields": {
+          "document_id": {
+            "actual": "wb-idr-2026",
+            "source_page": "wb-idr-2026"
+          },
+          "source": {
+            "actual": "data/wb_idr_2026.pdf",
+            "source_page": "data/wb_idr_2026.pdf"
+          },
+          "page": {
+            "actual": 103,
+            "source_page": 103
+          },
+          "chapter": {
+            "actual": "2",
+            "source_page": "2"
+          },
+          "section_type": {
+            "actual": "analysis",
+            "source_page": "analysis"
+          },
+          "printed_page": {
+            "actual": "79",
+            "source_page": "79"
+          },
+          "document_type": {
+            "actual": "report",
+            "source_page": "report"
+          },
+          "year": {
+            "actual": 2026,
+            "source_page": 2026
+          },
+          "language": {
+            "actual": "en",
+            "source_page": "en"
+          }
+        },
+        "missing_fields": [],
+        "mismatched_fields": [],
+        "automatic_metadata_complete_and_consistent": true,
+        "human_checked": true,
+        "reviewer_reason": "Đã rà soát: các trường metadata được cung cấp khớp với thông tin nguồn; không phát hiện trường thiếu hoặc sai lệch."
+      },
+      {
+        "question_id": "q18",
+        "rank": 1,
+        "chunk_id": "paragraph-wb-idr-2026-p077-0000879-0001625",
+        "checked_fields": {
+          "document_id": {
+            "actual": "wb-idr-2026",
+            "source_page": "wb-idr-2026"
+          },
+          "source": {
+            "actual": "data/wb_idr_2026.pdf",
+            "source_page": "data/wb_idr_2026.pdf"
+          },
+          "page": {
+            "actual": 77,
+            "source_page": 77
+          },
+          "chapter": {
+            "actual": "2",
+            "source_page": "2"
+          },
+          "section_type": {
+            "actual": "analysis",
+            "source_page": "analysis"
+          },
+          "printed_page": {
+            "actual": "53",
+            "source_page": "53"
+          },
+          "document_type": {
+            "actual": "report",
+            "source_page": "report"
+          },
+          "year": {
+            "actual": 2026,
+            "source_page": 2026
+          },
+          "language": {
+            "actual": "en",
+            "source_page": "en"
+          }
+        },
+        "missing_fields": [],
+        "mismatched_fields": [],
+        "automatic_metadata_complete_and_consistent": true,
+        "human_checked": true,
+        "reviewer_reason": "Đã rà soát: các trường metadata được cung cấp khớp với thông tin nguồn; không phát hiện trường thiếu hoặc sai lệch."
+      },
+      {
+        "question_id": "q18",
+        "rank": 2,
+        "chunk_id": "paragraph-wb-idr-2026-p077-0000000-0000877",
+        "checked_fields": {
+          "document_id": {
+            "actual": "wb-idr-2026",
+            "source_page": "wb-idr-2026"
+          },
+          "source": {
+            "actual": "data/wb_idr_2026.pdf",
+            "source_page": "data/wb_idr_2026.pdf"
+          },
+          "page": {
+            "actual": 77,
+            "source_page": 77
+          },
+          "chapter": {
+            "actual": "2",
+            "source_page": "2"
+          },
+          "section_type": {
+            "actual": "analysis",
+            "source_page": "analysis"
+          },
+          "printed_page": {
+            "actual": "53",
+            "source_page": "53"
+          },
+          "document_type": {
+            "actual": "report",
+            "source_page": "report"
+          },
+          "year": {
+            "actual": 2026,
+            "source_page": 2026
+          },
+          "language": {
+            "actual": "en",
+            "source_page": "en"
+          }
+        },
+        "missing_fields": [],
+        "mismatched_fields": [],
+        "automatic_metadata_complete_and_consistent": true,
+        "human_checked": true,
+        "reviewer_reason": "Đã rà soát: các trường metadata được cung cấp khớp với thông tin nguồn; không phát hiện trường thiếu hoặc sai lệch."
+      },
+      {
+        "question_id": "q18",
+        "rank": 3,
+        "chunk_id": "paragraph-wb-idr-2026-p082-0000856-0001709",
+        "checked_fields": {
+          "document_id": {
+            "actual": "wb-idr-2026",
+            "source_page": "wb-idr-2026"
+          },
+          "source": {
+            "actual": "data/wb_idr_2026.pdf",
+            "source_page": "data/wb_idr_2026.pdf"
+          },
+          "page": {
+            "actual": 82,
+            "source_page": 82
+          },
+          "chapter": {
+            "actual": "2",
+            "source_page": "2"
+          },
+          "section_type": {
+            "actual": "analysis",
+            "source_page": "analysis"
+          },
+          "printed_page": {
+            "actual": "58",
+            "source_page": "58"
+          },
+          "document_type": {
+            "actual": "report",
+            "source_page": "report"
+          },
+          "year": {
+            "actual": 2026,
+            "source_page": 2026
+          },
+          "language": {
+            "actual": "en",
+            "source_page": "en"
+          }
+        },
+        "missing_fields": [],
+        "mismatched_fields": [],
+        "automatic_metadata_complete_and_consistent": true,
+        "human_checked": true,
+        "reviewer_reason": "Đã rà soát: các trường metadata được cung cấp khớp với thông tin nguồn; không phát hiện trường thiếu hoặc sai lệch."
+      },
+      {
+        "question_id": "q19",
+        "rank": 1,
+        "chunk_id": "paragraph-wb-idr-2026-p092-0000000-0000263",
+        "checked_fields": {
+          "document_id": {
+            "actual": "wb-idr-2026",
+            "source_page": "wb-idr-2026"
+          },
+          "source": {
+            "actual": "data/wb_idr_2026.pdf",
+            "source_page": "data/wb_idr_2026.pdf"
+          },
+          "page": {
+            "actual": 92,
+            "source_page": 92
+          },
+          "chapter": {
+            "actual": "2",
+            "source_page": "2"
+          },
+          "section_type": {
+            "actual": "analysis",
+            "source_page": "analysis"
+          },
+          "printed_page": {
+            "actual": "68",
+            "source_page": "68"
+          },
+          "document_type": {
+            "actual": "report",
+            "source_page": "report"
+          },
+          "year": {
+            "actual": 2026,
+            "source_page": 2026
+          },
+          "language": {
+            "actual": "en",
+            "source_page": "en"
+          }
+        },
+        "missing_fields": [],
+        "mismatched_fields": [],
+        "automatic_metadata_complete_and_consistent": true,
+        "human_checked": true,
+        "reviewer_reason": "Đã rà soát: các trường metadata được cung cấp khớp với thông tin nguồn; không phát hiện trường thiếu hoặc sai lệch."
+      },
+      {
+        "question_id": "q19",
+        "rank": 2,
+        "chunk_id": "paragraph-wb-idr-2026-p078-0000000-0000870",
+        "checked_fields": {
+          "document_id": {
+            "actual": "wb-idr-2026",
+            "source_page": "wb-idr-2026"
+          },
+          "source": {
+            "actual": "data/wb_idr_2026.pdf",
+            "source_page": "data/wb_idr_2026.pdf"
+          },
+          "page": {
+            "actual": 78,
+            "source_page": 78
+          },
+          "chapter": {
+            "actual": "2",
+            "source_page": "2"
+          },
+          "section_type": {
+            "actual": "analysis",
+            "source_page": "analysis"
+          },
+          "printed_page": {
+            "actual": "54",
+            "source_page": "54"
+          },
+          "document_type": {
+            "actual": "report",
+            "source_page": "report"
+          },
+          "year": {
+            "actual": 2026,
+            "source_page": 2026
+          },
+          "language": {
+            "actual": "en",
+            "source_page": "en"
+          }
+        },
+        "missing_fields": [],
+        "mismatched_fields": [],
+        "automatic_metadata_complete_and_consistent": true,
+        "human_checked": true,
+        "reviewer_reason": "Đã rà soát: các trường metadata được cung cấp khớp với thông tin nguồn; không phát hiện trường thiếu hoặc sai lệch."
+      },
+      {
+        "question_id": "q19",
+        "rank": 3,
+        "chunk_id": "paragraph-wb-idr-2026-p075-0000000-0000718",
+        "checked_fields": {
+          "document_id": {
+            "actual": "wb-idr-2026",
+            "source_page": "wb-idr-2026"
+          },
+          "source": {
+            "actual": "data/wb_idr_2026.pdf",
+            "source_page": "data/wb_idr_2026.pdf"
+          },
+          "page": {
+            "actual": 75,
+            "source_page": 75
+          },
+          "chapter": {
+            "actual": "2",
+            "source_page": "2"
+          },
+          "section_type": {
+            "actual": "analysis",
+            "source_page": "analysis"
+          },
+          "printed_page": {
+            "actual": "51",
+            "source_page": "51"
+          },
+          "document_type": {
+            "actual": "report",
+            "source_page": "report"
+          },
+          "year": {
+            "actual": 2026,
+            "source_page": 2026
+          },
+          "language": {
+            "actual": "en",
+            "source_page": "en"
+          }
+        },
+        "missing_fields": [],
+        "mismatched_fields": [],
+        "automatic_metadata_complete_and_consistent": true,
+        "human_checked": true,
+        "reviewer_reason": "Đã rà soát: các trường metadata được cung cấp khớp với thông tin nguồn; không phát hiện trường thiếu hoặc sai lệch."
+      },
+      {
+        "question_id": "q20",
+        "rank": 1,
+        "chunk_id": "paragraph-wb-idr-2026-p080-0000000-0000893",
+        "checked_fields": {
+          "document_id": {
+            "actual": "wb-idr-2026",
+            "source_page": "wb-idr-2026"
+          },
+          "source": {
+            "actual": "data/wb_idr_2026.pdf",
+            "source_page": "data/wb_idr_2026.pdf"
+          },
+          "page": {
+            "actual": 80,
+            "source_page": 80
+          },
+          "chapter": {
+            "actual": "2",
+            "source_page": "2"
+          },
+          "section_type": {
+            "actual": "analysis",
+            "source_page": "analysis"
+          },
+          "printed_page": {
+            "actual": "56",
+            "source_page": "56"
+          },
+          "document_type": {
+            "actual": "report",
+            "source_page": "report"
+          },
+          "year": {
+            "actual": 2026,
+            "source_page": 2026
+          },
+          "language": {
+            "actual": "en",
+            "source_page": "en"
+          }
+        },
+        "missing_fields": [],
+        "mismatched_fields": [],
+        "automatic_metadata_complete_and_consistent": true,
+        "human_checked": true,
+        "reviewer_reason": "Đã rà soát: các trường metadata được cung cấp khớp với thông tin nguồn; không phát hiện trường thiếu hoặc sai lệch."
+      },
+      {
+        "question_id": "q20",
+        "rank": 2,
+        "chunk_id": "paragraph-wb-idr-2026-p080-0000895-0001750",
+        "checked_fields": {
+          "document_id": {
+            "actual": "wb-idr-2026",
+            "source_page": "wb-idr-2026"
+          },
+          "source": {
+            "actual": "data/wb_idr_2026.pdf",
+            "source_page": "data/wb_idr_2026.pdf"
+          },
+          "page": {
+            "actual": 80,
+            "source_page": 80
+          },
+          "chapter": {
+            "actual": "2",
+            "source_page": "2"
+          },
+          "section_type": {
+            "actual": "analysis",
+            "source_page": "analysis"
+          },
+          "printed_page": {
+            "actual": "56",
+            "source_page": "56"
+          },
+          "document_type": {
+            "actual": "report",
+            "source_page": "report"
+          },
+          "year": {
+            "actual": 2026,
+            "source_page": 2026
+          },
+          "language": {
+            "actual": "en",
+            "source_page": "en"
+          }
+        },
+        "missing_fields": [],
+        "mismatched_fields": [],
+        "automatic_metadata_complete_and_consistent": true,
+        "human_checked": true,
+        "reviewer_reason": "Đã rà soát: các trường metadata được cung cấp khớp với thông tin nguồn; không phát hiện trường thiếu hoặc sai lệch."
+      },
+      {
+        "question_id": "q20",
+        "rank": 3,
+        "chunk_id": "paragraph-wb-idr-2026-p081-0000000-0000887",
+        "checked_fields": {
+          "document_id": {
+            "actual": "wb-idr-2026",
+            "source_page": "wb-idr-2026"
+          },
+          "source": {
+            "actual": "data/wb_idr_2026.pdf",
+            "source_page": "data/wb_idr_2026.pdf"
+          },
+          "page": {
+            "actual": 81,
+            "source_page": 81
+          },
+          "chapter": {
+            "actual": "2",
+            "source_page": "2"
+          },
+          "section_type": {
+            "actual": "analysis",
+            "source_page": "analysis"
+          },
+          "printed_page": {
+            "actual": "57",
+            "source_page": "57"
+          },
+          "document_type": {
+            "actual": "report",
+            "source_page": "report"
+          },
+          "year": {
+            "actual": 2026,
+            "source_page": 2026
+          },
+          "language": {
+            "actual": "en",
+            "source_page": "en"
+          }
+        },
+        "missing_fields": [],
+        "mismatched_fields": [],
+        "automatic_metadata_complete_and_consistent": true,
+        "human_checked": true,
+        "reviewer_reason": "Đã rà soát: các trường metadata được cung cấp khớp với thông tin nguồn; không phát hiện trường thiếu hoặc sai lệch."
+      }
+    ],
+    "C": [
+      {
+        "question_id": "q16",
+        "rank": 1,
+        "chunk_id": "paragraph-wb-idr-2026-p075-0000000-0000718",
+        "checked_fields": {
+          "document_id": {
+            "actual": "wb-idr-2026",
+            "source_page": "wb-idr-2026"
+          },
+          "source": {
+            "actual": "data/wb_idr_2026.pdf",
+            "source_page": "data/wb_idr_2026.pdf"
+          },
+          "page": {
+            "actual": 75,
+            "source_page": 75
+          },
+          "chapter": {
+            "actual": "2",
+            "source_page": "2"
+          },
+          "section_type": {
+            "actual": "analysis",
+            "source_page": "analysis"
+          },
+          "printed_page": {
+            "actual": "51",
+            "source_page": "51"
+          },
+          "document_type": {
+            "actual": "report",
+            "source_page": "report"
+          },
+          "year": {
+            "actual": 2026,
+            "source_page": 2026
+          },
+          "language": {
+            "actual": "en",
+            "source_page": "en"
+          }
+        },
+        "missing_fields": [],
+        "mismatched_fields": [],
+        "automatic_metadata_complete_and_consistent": true,
+        "human_checked": true,
+        "reviewer_reason": "Đã rà soát: các trường metadata được cung cấp khớp với thông tin nguồn; không phát hiện trường thiếu hoặc sai lệch."
+      },
+      {
+        "question_id": "q16",
+        "rank": 2,
+        "chunk_id": "paragraph-wb-idr-2026-p078-0000000-0000870",
+        "checked_fields": {
+          "document_id": {
+            "actual": "wb-idr-2026",
+            "source_page": "wb-idr-2026"
+          },
+          "source": {
+            "actual": "data/wb_idr_2026.pdf",
+            "source_page": "data/wb_idr_2026.pdf"
+          },
+          "page": {
+            "actual": 78,
+            "source_page": 78
+          },
+          "chapter": {
+            "actual": "2",
+            "source_page": "2"
+          },
+          "section_type": {
+            "actual": "analysis",
+            "source_page": "analysis"
+          },
+          "printed_page": {
+            "actual": "54",
+            "source_page": "54"
+          },
+          "document_type": {
+            "actual": "report",
+            "source_page": "report"
+          },
+          "year": {
+            "actual": 2026,
+            "source_page": 2026
+          },
+          "language": {
+            "actual": "en",
+            "source_page": "en"
+          }
+        },
+        "missing_fields": [],
+        "mismatched_fields": [],
+        "automatic_metadata_complete_and_consistent": true,
+        "human_checked": true,
+        "reviewer_reason": "Đã rà soát: các trường metadata được cung cấp khớp với thông tin nguồn; không phát hiện trường thiếu hoặc sai lệch."
+      },
+      {
+        "question_id": "q16",
+        "rank": 3,
+        "chunk_id": "paragraph-wb-idr-2026-p021-0001311-0002011",
+        "checked_fields": {
+          "document_id": {
+            "actual": "wb-idr-2026",
+            "source_page": "wb-idr-2026"
+          },
+          "source": {
+            "actual": "data/wb_idr_2026.pdf",
+            "source_page": "data/wb_idr_2026.pdf"
+          },
+          "page": {
+            "actual": 21,
+            "source_page": 21
+          },
+          "chapter": {
+            "actual": "",
+            "source_page": ""
+          },
+          "section_type": {
+            "actual": "key_takeaways",
+            "source_page": "key_takeaways"
+          },
+          "printed_page": {
+            "actual": "",
+            "source_page": ""
+          },
+          "document_type": {
+            "actual": "report",
+            "source_page": "report"
+          },
+          "year": {
+            "actual": 2026,
+            "source_page": 2026
+          },
+          "language": {
+            "actual": "en",
+            "source_page": "en"
+          }
+        },
+        "missing_fields": [
+          "chapter",
+          "printed_page"
+        ],
+        "mismatched_fields": [],
+        "automatic_metadata_complete_and_consistent": false,
+        "human_checked": true,
+        "reviewer_reason": "Các trường metadata hiện có đều khớp nguồn; thiếu chapter và printed_page trong metadata của chunk này. Không thấy trường nào bị sai lệch."
+      },
+      {
+        "question_id": "q17",
+        "rank": 1,
+        "chunk_id": "paragraph-wb-idr-2026-p075-0002042-0002393",
+        "checked_fields": {
+          "document_id": {
+            "actual": "wb-idr-2026",
+            "source_page": "wb-idr-2026"
+          },
+          "source": {
+            "actual": "data/wb_idr_2026.pdf",
+            "source_page": "data/wb_idr_2026.pdf"
+          },
+          "page": {
+            "actual": 75,
+            "source_page": 75
+          },
+          "chapter": {
+            "actual": "2",
+            "source_page": "2"
+          },
+          "section_type": {
+            "actual": "analysis",
+            "source_page": "analysis"
+          },
+          "printed_page": {
+            "actual": "51",
+            "source_page": "51"
+          },
+          "document_type": {
+            "actual": "report",
+            "source_page": "report"
+          },
+          "year": {
+            "actual": 2026,
+            "source_page": 2026
+          },
+          "language": {
+            "actual": "en",
+            "source_page": "en"
+          }
+        },
+        "missing_fields": [],
+        "mismatched_fields": [],
+        "automatic_metadata_complete_and_consistent": true,
+        "human_checked": true,
+        "reviewer_reason": "Đã rà soát: các trường metadata được cung cấp khớp với thông tin nguồn; không phát hiện trường thiếu hoặc sai lệch."
+      },
+      {
+        "question_id": "q17",
+        "rank": 2,
+        "chunk_id": "paragraph-wb-idr-2026-p076-0000000-0000747",
+        "checked_fields": {
+          "document_id": {
+            "actual": "wb-idr-2026",
+            "source_page": "wb-idr-2026"
+          },
+          "source": {
+            "actual": "data/wb_idr_2026.pdf",
+            "source_page": "data/wb_idr_2026.pdf"
+          },
+          "page": {
+            "actual": 76,
+            "source_page": 76
+          },
+          "chapter": {
+            "actual": "2",
+            "source_page": "2"
+          },
+          "section_type": {
+            "actual": "analysis",
+            "source_page": "analysis"
+          },
+          "printed_page": {
+            "actual": "52",
+            "source_page": "52"
+          },
+          "document_type": {
+            "actual": "report",
+            "source_page": "report"
+          },
+          "year": {
+            "actual": 2026,
+            "source_page": 2026
+          },
+          "language": {
+            "actual": "en",
+            "source_page": "en"
+          }
+        },
+        "missing_fields": [],
+        "mismatched_fields": [],
+        "automatic_metadata_complete_and_consistent": true,
+        "human_checked": true,
+        "reviewer_reason": "Đã rà soát: các trường metadata được cung cấp khớp với thông tin nguồn; không phát hiện trường thiếu hoặc sai lệch."
+      },
+      {
+        "question_id": "q17",
+        "rank": 3,
+        "chunk_id": "paragraph-wb-idr-2026-p103-0001920-0002555",
+        "checked_fields": {
+          "document_id": {
+            "actual": "wb-idr-2026",
+            "source_page": "wb-idr-2026"
+          },
+          "source": {
+            "actual": "data/wb_idr_2026.pdf",
+            "source_page": "data/wb_idr_2026.pdf"
+          },
+          "page": {
+            "actual": 103,
+            "source_page": 103
+          },
+          "chapter": {
+            "actual": "2",
+            "source_page": "2"
+          },
+          "section_type": {
+            "actual": "analysis",
+            "source_page": "analysis"
+          },
+          "printed_page": {
+            "actual": "79",
+            "source_page": "79"
+          },
+          "document_type": {
+            "actual": "report",
+            "source_page": "report"
+          },
+          "year": {
+            "actual": 2026,
+            "source_page": 2026
+          },
+          "language": {
+            "actual": "en",
+            "source_page": "en"
+          }
+        },
+        "missing_fields": [],
+        "mismatched_fields": [],
+        "automatic_metadata_complete_and_consistent": true,
+        "human_checked": true,
+        "reviewer_reason": "Đã rà soát: các trường metadata được cung cấp khớp với thông tin nguồn; không phát hiện trường thiếu hoặc sai lệch."
+      },
+      {
+        "question_id": "q18",
+        "rank": 1,
+        "chunk_id": "paragraph-wb-idr-2026-p077-0000879-0001625",
+        "checked_fields": {
+          "document_id": {
+            "actual": "wb-idr-2026",
+            "source_page": "wb-idr-2026"
+          },
+          "source": {
+            "actual": "data/wb_idr_2026.pdf",
+            "source_page": "data/wb_idr_2026.pdf"
+          },
+          "page": {
+            "actual": 77,
+            "source_page": 77
+          },
+          "chapter": {
+            "actual": "2",
+            "source_page": "2"
+          },
+          "section_type": {
+            "actual": "analysis",
+            "source_page": "analysis"
+          },
+          "printed_page": {
+            "actual": "53",
+            "source_page": "53"
+          },
+          "document_type": {
+            "actual": "report",
+            "source_page": "report"
+          },
+          "year": {
+            "actual": 2026,
+            "source_page": 2026
+          },
+          "language": {
+            "actual": "en",
+            "source_page": "en"
+          }
+        },
+        "missing_fields": [],
+        "mismatched_fields": [],
+        "automatic_metadata_complete_and_consistent": true,
+        "human_checked": true,
+        "reviewer_reason": "Đã rà soát: các trường metadata được cung cấp khớp với thông tin nguồn; không phát hiện trường thiếu hoặc sai lệch."
+      },
+      {
+        "question_id": "q18",
+        "rank": 2,
+        "chunk_id": "paragraph-wb-idr-2026-p077-0000000-0000877",
+        "checked_fields": {
+          "document_id": {
+            "actual": "wb-idr-2026",
+            "source_page": "wb-idr-2026"
+          },
+          "source": {
+            "actual": "data/wb_idr_2026.pdf",
+            "source_page": "data/wb_idr_2026.pdf"
+          },
+          "page": {
+            "actual": 77,
+            "source_page": 77
+          },
+          "chapter": {
+            "actual": "2",
+            "source_page": "2"
+          },
+          "section_type": {
+            "actual": "analysis",
+            "source_page": "analysis"
+          },
+          "printed_page": {
+            "actual": "53",
+            "source_page": "53"
+          },
+          "document_type": {
+            "actual": "report",
+            "source_page": "report"
+          },
+          "year": {
+            "actual": 2026,
+            "source_page": 2026
+          },
+          "language": {
+            "actual": "en",
+            "source_page": "en"
+          }
+        },
+        "missing_fields": [],
+        "mismatched_fields": [],
+        "automatic_metadata_complete_and_consistent": true,
+        "human_checked": true,
+        "reviewer_reason": "Đã rà soát: các trường metadata được cung cấp khớp với thông tin nguồn; không phát hiện trường thiếu hoặc sai lệch."
+      },
+      {
+        "question_id": "q18",
+        "rank": 3,
+        "chunk_id": "paragraph-wb-idr-2026-p082-0000856-0001709",
+        "checked_fields": {
+          "document_id": {
+            "actual": "wb-idr-2026",
+            "source_page": "wb-idr-2026"
+          },
+          "source": {
+            "actual": "data/wb_idr_2026.pdf",
+            "source_page": "data/wb_idr_2026.pdf"
+          },
+          "page": {
+            "actual": 82,
+            "source_page": 82
+          },
+          "chapter": {
+            "actual": "2",
+            "source_page": "2"
+          },
+          "section_type": {
+            "actual": "analysis",
+            "source_page": "analysis"
+          },
+          "printed_page": {
+            "actual": "58",
+            "source_page": "58"
+          },
+          "document_type": {
+            "actual": "report",
+            "source_page": "report"
+          },
+          "year": {
+            "actual": 2026,
+            "source_page": 2026
+          },
+          "language": {
+            "actual": "en",
+            "source_page": "en"
+          }
+        },
+        "missing_fields": [],
+        "mismatched_fields": [],
+        "automatic_metadata_complete_and_consistent": true,
+        "human_checked": true,
+        "reviewer_reason": "Đã rà soát: các trường metadata được cung cấp khớp với thông tin nguồn; không phát hiện trường thiếu hoặc sai lệch."
+      },
+      {
+        "question_id": "q19",
+        "rank": 1,
+        "chunk_id": "paragraph-wb-idr-2026-p092-0000000-0000263",
+        "checked_fields": {
+          "document_id": {
+            "actual": "wb-idr-2026",
+            "source_page": "wb-idr-2026"
+          },
+          "source": {
+            "actual": "data/wb_idr_2026.pdf",
+            "source_page": "data/wb_idr_2026.pdf"
+          },
+          "page": {
+            "actual": 92,
+            "source_page": 92
+          },
+          "chapter": {
+            "actual": "2",
+            "source_page": "2"
+          },
+          "section_type": {
+            "actual": "analysis",
+            "source_page": "analysis"
+          },
+          "printed_page": {
+            "actual": "68",
+            "source_page": "68"
+          },
+          "document_type": {
+            "actual": "report",
+            "source_page": "report"
+          },
+          "year": {
+            "actual": 2026,
+            "source_page": 2026
+          },
+          "language": {
+            "actual": "en",
+            "source_page": "en"
+          }
+        },
+        "missing_fields": [],
+        "mismatched_fields": [],
+        "automatic_metadata_complete_and_consistent": true,
+        "human_checked": true,
+        "reviewer_reason": "Đã rà soát: các trường metadata được cung cấp khớp với thông tin nguồn; không phát hiện trường thiếu hoặc sai lệch."
+      },
+      {
+        "question_id": "q19",
+        "rank": 2,
+        "chunk_id": "paragraph-wb-idr-2026-p078-0000000-0000870",
+        "checked_fields": {
+          "document_id": {
+            "actual": "wb-idr-2026",
+            "source_page": "wb-idr-2026"
+          },
+          "source": {
+            "actual": "data/wb_idr_2026.pdf",
+            "source_page": "data/wb_idr_2026.pdf"
+          },
+          "page": {
+            "actual": 78,
+            "source_page": 78
+          },
+          "chapter": {
+            "actual": "2",
+            "source_page": "2"
+          },
+          "section_type": {
+            "actual": "analysis",
+            "source_page": "analysis"
+          },
+          "printed_page": {
+            "actual": "54",
+            "source_page": "54"
+          },
+          "document_type": {
+            "actual": "report",
+            "source_page": "report"
+          },
+          "year": {
+            "actual": 2026,
+            "source_page": 2026
+          },
+          "language": {
+            "actual": "en",
+            "source_page": "en"
+          }
+        },
+        "missing_fields": [],
+        "mismatched_fields": [],
+        "automatic_metadata_complete_and_consistent": true,
+        "human_checked": true,
+        "reviewer_reason": "Đã rà soát: các trường metadata được cung cấp khớp với thông tin nguồn; không phát hiện trường thiếu hoặc sai lệch."
+      },
+      {
+        "question_id": "q19",
+        "rank": 3,
+        "chunk_id": "paragraph-wb-idr-2026-p075-0000000-0000718",
+        "checked_fields": {
+          "document_id": {
+            "actual": "wb-idr-2026",
+            "source_page": "wb-idr-2026"
+          },
+          "source": {
+            "actual": "data/wb_idr_2026.pdf",
+            "source_page": "data/wb_idr_2026.pdf"
+          },
+          "page": {
+            "actual": 75,
+            "source_page": 75
+          },
+          "chapter": {
+            "actual": "2",
+            "source_page": "2"
+          },
+          "section_type": {
+            "actual": "analysis",
+            "source_page": "analysis"
+          },
+          "printed_page": {
+            "actual": "51",
+            "source_page": "51"
+          },
+          "document_type": {
+            "actual": "report",
+            "source_page": "report"
+          },
+          "year": {
+            "actual": 2026,
+            "source_page": 2026
+          },
+          "language": {
+            "actual": "en",
+            "source_page": "en"
+          }
+        },
+        "missing_fields": [],
+        "mismatched_fields": [],
+        "automatic_metadata_complete_and_consistent": true,
+        "human_checked": true,
+        "reviewer_reason": "Đã rà soát: các trường metadata được cung cấp khớp với thông tin nguồn; không phát hiện trường thiếu hoặc sai lệch."
+      },
+      {
+        "question_id": "q20",
+        "rank": 1,
+        "chunk_id": "paragraph-wb-idr-2026-p080-0000000-0000893",
+        "checked_fields": {
+          "document_id": {
+            "actual": "wb-idr-2026",
+            "source_page": "wb-idr-2026"
+          },
+          "source": {
+            "actual": "data/wb_idr_2026.pdf",
+            "source_page": "data/wb_idr_2026.pdf"
+          },
+          "page": {
+            "actual": 80,
+            "source_page": 80
+          },
+          "chapter": {
+            "actual": "2",
+            "source_page": "2"
+          },
+          "section_type": {
+            "actual": "analysis",
+            "source_page": "analysis"
+          },
+          "printed_page": {
+            "actual": "56",
+            "source_page": "56"
+          },
+          "document_type": {
+            "actual": "report",
+            "source_page": "report"
+          },
+          "year": {
+            "actual": 2026,
+            "source_page": 2026
+          },
+          "language": {
+            "actual": "en",
+            "source_page": "en"
+          }
+        },
+        "missing_fields": [],
+        "mismatched_fields": [],
+        "automatic_metadata_complete_and_consistent": true,
+        "human_checked": true,
+        "reviewer_reason": "Đã rà soát: các trường metadata được cung cấp khớp với thông tin nguồn; không phát hiện trường thiếu hoặc sai lệch."
+      },
+      {
+        "question_id": "q20",
+        "rank": 2,
+        "chunk_id": "paragraph-wb-idr-2026-p080-0000895-0001750",
+        "checked_fields": {
+          "document_id": {
+            "actual": "wb-idr-2026",
+            "source_page": "wb-idr-2026"
+          },
+          "source": {
+            "actual": "data/wb_idr_2026.pdf",
+            "source_page": "data/wb_idr_2026.pdf"
+          },
+          "page": {
+            "actual": 80,
+            "source_page": 80
+          },
+          "chapter": {
+            "actual": "2",
+            "source_page": "2"
+          },
+          "section_type": {
+            "actual": "analysis",
+            "source_page": "analysis"
+          },
+          "printed_page": {
+            "actual": "56",
+            "source_page": "56"
+          },
+          "document_type": {
+            "actual": "report",
+            "source_page": "report"
+          },
+          "year": {
+            "actual": 2026,
+            "source_page": 2026
+          },
+          "language": {
+            "actual": "en",
+            "source_page": "en"
+          }
+        },
+        "missing_fields": [],
+        "mismatched_fields": [],
+        "automatic_metadata_complete_and_consistent": true,
+        "human_checked": true,
+        "reviewer_reason": "Đã rà soát: các trường metadata được cung cấp khớp với thông tin nguồn; không phát hiện trường thiếu hoặc sai lệch."
+      },
+      {
+        "question_id": "q20",
+        "rank": 3,
+        "chunk_id": "paragraph-wb-idr-2026-p081-0000000-0000887",
+        "checked_fields": {
+          "document_id": {
+            "actual": "wb-idr-2026",
+            "source_page": "wb-idr-2026"
+          },
+          "source": {
+            "actual": "data/wb_idr_2026.pdf",
+            "source_page": "data/wb_idr_2026.pdf"
+          },
+          "page": {
+            "actual": 81,
+            "source_page": 81
+          },
+          "chapter": {
+            "actual": "2",
+            "source_page": "2"
+          },
+          "section_type": {
+            "actual": "analysis",
+            "source_page": "analysis"
+          },
+          "printed_page": {
+            "actual": "57",
+            "source_page": "57"
+          },
+          "document_type": {
+            "actual": "report",
+            "source_page": "report"
+          },
+          "year": {
+            "actual": 2026,
+            "source_page": 2026
+          },
+          "language": {
+            "actual": "en",
+            "source_page": "en"
+          }
+        },
+        "missing_fields": [],
+        "mismatched_fields": [],
+        "automatic_metadata_complete_and_consistent": true,
+        "human_checked": true,
+        "reviewer_reason": "Đã rà soát: các trường metadata được cung cấp khớp với thông tin nguồn; không phát hiện trường thiếu hoặc sai lệch."
+      }
+    ]
+  }
+}

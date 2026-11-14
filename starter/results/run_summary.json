@@ -1,0 +1,181 @@
+{
+  "run_at": "2026-11-14T05:19:48.234674+00:00",
+  "document_id": "wb-idr-2026",
+  "source": "data/wb_idr_2026.pdf",
+  "embedding_provider": "openrouter",
+  "embedding_model": "openai/text-embedding-3-small",
+  "embedding_dimensions": 1536,
+  "vector_store": "PostgreSQL + pgvector",
+  "distance_metric": "cosine distance (exact search; no approximate vector index created)",
+  "benchmark": {
+    "total": 20,
+    "splits": {
+      "dev": 15,
+      "test": 5
+    },
+    "filter_questions": 6
+  },
+  "strategies": {
+    "A": {
+      "chunking": "fixed-size",
+      "size_characters": 500,
+      "overlap_characters": 80,
+      "chunks": 1192,
+      "total_characters": 541333,
+      "min_characters": 8,
+      "max_characters": 500,
+      "mean_characters": 454.14
+    },
+    "B": {
+      "chunking": "paragraph-aware",
+      "max_size_characters": 900,
+      "chunks": 715,
+      "total_characters": 469220,
+      "min_characters": 8,
+      "max_characters": 900,
+      "mean_characters": 656.25
+    },
+    "C": {
+      "chunking": "same as B",
+      "retrieval_filter": "apply question.filter when present",
+      "chunks": 715,
+      "total_characters": 469220,
+      "min_characters": 8,
+      "max_characters": 900,
+      "mean_characters": 656.25
+    }
+  },
+  "timings_seconds": {
+    "pdf_extraction_seconds": 5.56,
+    "chunking_seconds": 0.101,
+    "database_schema_setup_seconds": 0.029,
+    "embedding_seconds": {
+      "A": 60.808,
+      "B": 36.44
+    },
+    "upsert_seconds": {
+      "A": 1.079,
+      "B": 0.63,
+      "C": 0.678
+    },
+    "query_embedding_seconds": 2.169,
+    "total_pipeline_seconds": 109.715
+  },
+  "metrics": {
+    "A": {
+      "dev": {
+        "questions": 15,
+        "hit_at_1": {
+          "numerator": 7,
+          "denominator": 15,
+          "rate": 0.4666666666666667
+        },
+        "evidence_hit_at_3": {
+          "numerator": 9,
+          "denominator": 15,
+          "rate": 0.6
+        }
+      },
+      "test": {
+        "questions": 5,
+        "hit_at_1": {
+          "numerator": 2,
+          "denominator": 5,
+          "rate": 0.4
+        },
+        "evidence_hit_at_3": {
+          "numerator": 2,
+          "denominator": 5,
+          "rate": 0.4
+        }
+      }
+    },
+    "B": {
+      "dev": {
+        "questions": 15,
+        "hit_at_1": {
+          "numerator": 9,
+          "denominator": 15,
+          "rate": 0.6
+        },
+        "evidence_hit_at_3": {
+          "numerator": 12,
+          "denominator": 15,
+          "rate": 0.8
+        }
+      },
+      "test": {
+        "questions": 5,
+        "hit_at_1": {
+          "numerator": 2,
+          "denominator": 5,
+          "rate": 0.4
+        },
+        "evidence_hit_at_3": {
+          "numerator": 3,
+          "denominator": 5,
+          "rate": 0.6
+        }
+      }
+    },
+    "C": {
+      "dev": {
+        "questions": 15,
+        "hit_at_1": {
+          "numerator": 9,
+          "denominator": 15,
+          "rate": 0.6
+        },
+        "evidence_hit_at_3": {
+          "numerator": 12,
+          "denominator": 15,
+          "rate": 0.8
+        }
+      },
+      "test": {
+        "questions": 5,
+        "hit_at_1": {
+          "numerator": 2,
+          "denominator": 5,
+          "rate": 0.4
+        },
+        "evidence_hit_at_3": {
+          "numerator": 3,
+          "denominator": 5,
+          "rate": 0.6
+        }
+      }
+    }
+  },
+  "metadata_filter_compliance": {
+    "A": {
+      "applied": false,
+      "note": "Baseline strategy; filters are intentionally not applied."
+    },
+    "B": {
+      "applied": false,
+      "note": "Baseline strategy; filters are intentionally not applied."
+    },
+    "C": {
+      "filtered_questions": 6,
+      "fully_compliant_top3_questions": 6,
+      "question_compliance_rate": 1.0,
+      "compliant_hit_records": 18,
+      "hit_records_checked": 18,
+      "hit_record_compliance_rate": 1.0
+    }
+  },
+  "embedding_usage": {
+    "api_requests": 32,
+    "prompt_tokens": 256790,
+    "total_tokens": 256790,
+    "cost_usd": null,
+    "cost_note": "No authoritative cost was returned in the embedding response; check provider billing dashboard."
+  },
+  "notes": [
+    "Automatic Evidence Hit@3 requires exact normalized evidence text in a gold source/page chunk.",
+    "A and B do not apply question metadata filters; C applies them only when the benchmark question supplies a filter.",
+    "Chunk coherence and grounding quality require manual labels in manual_review.json.",
+    "No model answer generation is evaluated; grounding measures retrieved evidence only."
+  ]
+}

@@ -1,0 +1,234 @@
+{
+  "document_id": "wb-idr-2026",
+  "source": "data/wb_idr_2026.pdf",
+  "title": "International Debt Report 2026",
+  "question_language": "English (matches the source language for this initial retrieval benchmark)",
+  "page_numbering": "gold_page uses 1-based physical PDF page numbers, not printed page labels.",
+  "questions": [
+    {
+      "id": "q01",
+      "split": "dev",
+      "type": "direct",
+      "question": "What record level did the external borrowing of low- and middle-income countries (LMICs) reach at the end of 2025, and how much did it increase from 2024?",
+      "expected_answer": "LMIC external borrowing reached $9.4 trillion, up 5.5 percent from $8.9 trillion in 2024.",
+      "gold_source_id": "wb-idr-2026",
+      "gold_page": 27,
+      "evidence_quote": "LMICs’ external borrowing levels reached a record $9.4 trillion at the end of the year, increasing 5.5 percent from $8.9 trillion in 2024."
+    },
+    {
+      "id": "q02",
+      "split": "dev",
+      "type": "explanatory",
+      "question": "Which two main factors, besides debt forgiveness, drove the change in LMIC external debt stock in 2025?",
+      "expected_answer": "Net debt inflows of $423.5 billion (more than double the 2024 amount) and the upward accounting effect of US dollar depreciation.",
+      "gold_source_id": "wb-idr-2026",
+      "gold_page": 27,
+      "evidence_quote": "The change in debt stock was driven by net debt inflows of $423.5 billion, a more than twofold increase from 2024, as well as by some debt forgiveness and the upward accounting effect of US dollar depreciation."
+    },
+    {
+      "id": "q03",
+      "split": "dev",
+      "type": "table_lookup",
+      "question": "According to Table 1.1, what was the stock of LMIC long-term debt owed to multilateral creditors in 2025?",
+      "expected_answer": "US$1,493.7 billion.",
+      "gold_source_id": "wb-idr-2026",
+      "gold_page": 28,
+      "evidence_quote": "Multilateral creditors 652.7 683.2 746.2 796.4 852.8 989.7 1,194.3 1,236.5 1,321.8 1,362.4 1,493.7"
+    },
+    {
+      "id": "q04",
+      "split": "dev",
+      "type": "table_lookup",
+      "question": "What was the 2025 external debt stock attributed to the World Bank (IBRD and IDA) in Table 1.1?",
+      "expected_answer": "US$498.7 billion.",
+      "gold_source_id": "wb-idr-2026",
+      "gold_page": 28,
+      "evidence_quote": "World Bank (IBRD and IDA) 278.0 288.6 311.7 321.3 339.5 375.2 387.5 405.0 435.7 463.1 498.7"
+    },
+    {
+      "id": "q05",
+      "split": "dev",
+      "type": "direct",
+      "question": "Which three components make up a country's total external debt, according to the report's definition?",
+      "expected_answer": "Public and publicly guaranteed debt, private nonguaranteed debt, and short-term debt.",
+      "gold_source_id": "wb-idr-2026",
+      "gold_page": 29,
+      "evidence_quote": "The total external debt of a country is the sum of public and publicly guaranteed debt, private nonguaranteed debt, and short-term debt."
+    },
+    {
+      "id": "q06",
+      "split": "dev",
+      "type": "definition",
+      "question": "How are debt data reported to the Debtor Reporting System (DRS) checked before they are used in the report?",
+      "expected_answer": "They are validated against data from other sources and, when appropriate, supplemented with those data.",
+      "gold_source_id": "wb-idr-2026",
+      "gold_page": 29,
+      "evidence_quote": "All debt data reported to the DRS are validated against—and, when appropriate, supplemented by—data from other sources."
+    },
+    {
+      "id": "q07",
+      "split": "dev",
+      "type": "definition",
+      "question": "What maturity threshold does the report use to define short-term debt, and is it covered by DRS reporting requirements?",
+      "expected_answer": "Short-term debt has an original maturity of one year or less and is not covered under DRS reporting requirements.",
+      "gold_source_id": "wb-idr-2026",
+      "gold_page": 29,
+      "evidence_quote": "Short-term debt is defined as debt with an original maturity of one year or less and is not covered under DRS reporting requirements."
+    },
+    {
+      "id": "q08",
+      "split": "dev",
+      "type": "direct",
+      "question": "By what percentage and to what total did the LMIC short-term debt stock increase at the end of 2025?",
+      "expected_answer": "It increased by 4.0 percent to $2.4 trillion.",
+      "gold_source_id": "wb-idr-2026",
+      "gold_page": 30,
+      "evidence_quote": "In addition, the short-term debt stock of LMICs increased 4.0 percent to $2.4 trillion at end-2025."
+    },
+    {
+      "id": "q09",
+      "split": "dev",
+      "type": "comparison",
+      "question": "How did external debt growth in low-income countries (LICs) compare with that in middle-income countries (MICs) in 2025?",
+      "expected_answer": "LIC debt rose 8.9 percent to $262.4 billion, while MIC debt rose 5.4 percent to a record $9.2 trillion.",
+      "gold_source_id": "wb-idr-2026",
+      "gold_page": 30,
+      "evidence_quote": "In low-income countries (LICs), it rose 8.9 percent to $262.4 billion. In MICs, debt rose 5.4 percent to a record $9.2 trillion in 2025, the fastest increase since 2021."
+    },
+    {
+      "id": "q10",
+      "split": "dev",
+      "type": "paraphrase",
+      "question": "When China is left out, how quickly did MIC external debt grow in 2025, and what was its resulting stock?",
+      "expected_answer": "It increased by 9.1 percent to $6.9 trillion.",
+      "gold_source_id": "wb-idr-2026",
+      "gold_page": 31,
+      "evidence_quote": "When China is excluded, the cumulative external debt stock of MICs increased at a much faster pace—by 9.1 percent in 2025, to $6.9 trillion in 2025."
+    },
+    {
+      "id": "q11",
+      "split": "dev",
+      "type": "metadata_filter",
+      "question": "Within Chapter 1, what share of all LMIC external debt was accounted for by the ten largest LMIC borrowers other than China?",
+      "expected_answer": "They accounted for 59.5 percent of all LMIC external debt.",
+      "gold_source_id": "wb-idr-2026",
+      "gold_page": 31,
+      "evidence_quote": "These borrowers account for 59.5 percent of all LMIC external debt.",
+      "filter": {
+        "chapter": "1"
+      }
+    },
+    {
+      "id": "q12",
+      "split": "dev",
+      "type": "metadata_filter",
+      "question": "In Chapter 1's discussion of sovereign total return swaps, what were the maturity and collateralization ratio of Nigeria's $5 billion transaction in 2026?",
+      "expected_answer": "It had a three-year maturity and approximately 133 percent collateralization, corresponding to about $6.7 billion in domestic securities.",
+      "gold_source_id": "wb-idr-2026",
+      "gold_page": 32,
+      "evidence_quote": "Nigeria’s $5 billion transaction in 2026 has a three-year maturity and collateralization of approximately 133 percent, corresponding to about $6.7 billion in domestic securities.",
+      "filter": {
+        "chapter": "1"
+      }
+    },
+    {
+      "id": "q13",
+      "split": "dev",
+      "type": "metadata_filter",
+      "question": "According to Chapter 1, what collateral value range was disclosed for each US$1 of financing in recent sovereign total return swap arrangements?",
+      "expected_answer": "Approximately $1.33 to $1.98 in securities for each $1.00 of financing received.",
+      "gold_source_id": "wb-idr-2026",
+      "gold_page": 33,
+      "evidence_quote": "Significant overcollateralization: For every $1.00 of financing received, disclosed arrangements have involved securities worth approximately $1.33 to $1.98.",
+      "filter": {
+        "chapter": "1"
+      }
+    },
+    {
+      "id": "q14",
+      "split": "dev",
+      "type": "conditional",
+      "question": "Under what repayment condition does a sovereign total return swap create a debt that should be recorded as debt in the statistics?",
+      "expected_answer": "When the sovereign receives cash upfront and must repay it regardless of the performance of the underlying assets, creating an unconditional repayment obligation.",
+      "gold_source_id": "wb-idr-2026",
+      "gold_page": 33,
+      "evidence_quote": "If the sovereign receives cash up front and is required to repay it regardless of the performance of the underlying assets, the financing creates an unconditional repayment obligation and is therefore recorded as debt."
+    },
+    {
+      "id": "q15",
+      "split": "dev",
+      "type": "quantitative",
+      "question": "At least what proportion of the 2025 increase in LMIC public and publicly guaranteed (PPG) debt stock was attributed to US dollar depreciation?",
+      "expected_answer": "At least 28.2 percent of the US$301.8 billion increase.",
+      "gold_source_id": "wb-idr-2026",
+      "gold_page": 34,
+      "evidence_quote": "Of the $301.8 billion increase in LMICs’ PPG debt stock (external debt obligations of a country’s government and any private sector debts backed by a public sector guarantee) recorded in 2025, at least 28.2 percent can be attributed to the depreciation of the US dollar."
+    },
+    {
+      "id": "q16",
+      "split": "test",
+      "type": "synthesis",
+      "question": "Why can adverse external developments have especially serious consequences for LMICs that already have high debt burdens?",
+      "expected_answer": "Because adverse trade, commodity, growth, exchange-rate and financing developments can weaken external and fiscal positions, while high debt amplifies their economic and development consequences and reduces the effectiveness of policy responses.",
+      "gold_source_id": "wb-idr-2026",
+      "gold_page": 75,
+      "evidence_quote": "Adverse developments in trade, commodity markets, growth, exchange rates, and tighter global financing conditions all have the potential to weaken external and fiscal positions, and high debt levels can amplify their economic and development consequences and impair the effectiveness of policy responses."
+    },
+    {
+      "id": "q17",
+      "split": "test",
+      "type": "quantitative",
+      "question": "How much did the World Uncertainty Index rise between the third quarters of 2024 and 2025, relative to its COVID-19 peak?",
+      "expected_answer": "It rose more than fivefold and reached nearly twice its COVID-19 peak.",
+      "gold_source_id": "wb-idr-2026",
+      "gold_page": 75,
+      "evidence_quote": "The World Uncertainty Index measures broad uncertainty and rose more than fivefold between the third quarter of 2024 and the third quarter of 2025, nearly twice its COVID-19 peak."
+    },
+    {
+      "id": "q18",
+      "split": "test",
+      "type": "metadata_filter",
+      "question": "In Chapter 2, how do flexible and fixed exchange-rate regimes differ in absorbing external shocks?",
+      "expected_answer": "Flexible regimes partly absorb shocks through currency movements; fixed regimes can cushion exchange-rate pressure by using foreign reserves.",
+      "gold_source_id": "wb-idr-2026",
+      "gold_page": 77,
+      "evidence_quote": "In economies with flexible exchange rate regimes, the effects of external shocks are partly absorbed through currency movements. In economies with fixed exchange rate regimes, pressure on the exchange rate can be cushioned by using foreign reserves.",
+      "filter": {
+        "chapter": "2"
+      }
+    },
+    {
+      "id": "q19",
+      "split": "test",
+      "type": "metadata_filter",
+      "question": "According to Chapter 2, why are economies with high external debt, especially short-term debt, vulnerable to rollover risk?",
+      "expected_answer": "Sudden changes in investor risk appetite can trigger rollover risks, sudden stops in capital flows and current-account reversals.",
+      "gold_source_id": "wb-idr-2026",
+      "gold_page": 78,
+      "evidence_quote": "Economies with elevated external debt levels, especially short-term debt, are vulnerable to sudden shifts in investor risk appetite and rollover risks, potentially leading to sudden stops in capital flows and current account reversals.",
+      "filter": {
+        "chapter": "2"
+      }
+    },
+    {
+      "id": "q20",
+      "split": "test",
+      "type": "metadata_filter",
+      "question": "In Chapter 2, what happened to headline inflation in commodity-importing LMICs after the energy supply shock began in late February 2026?",
+      "expected_answer": "It rose to 3.6 percent in June 2026, up from a preconflict level of 2.6 percent.",
+      "gold_source_id": "wb-idr-2026",
+      "gold_page": 80,
+      "evidence_quote": "The conflict in the Middle East involving major energy producers, which began at the end of February 2026, has caused a surge in headline inflation in these countries, to 3.6 percent in June 2026, from the preconflict level of 2.6 percent (figure 2.4).",
+      "filter": {
+        "chapter": "2"
+      }
+    }
+  ],
+  "split_method": "Topic-aware holdout: q01-q15 (Chapter 1) are dev; q16-q20 (Chapter 2) are test. This reduces direct page/topic overlap but yields a small, topic-shifted test set.",
+  "limitations": [
+    "The benchmark is a 20-question seed based on selected physical PDF pages, not a comprehensive evaluation of the full report.",
+    "All questions are written in English to match the source document language.",
+    "Dev and test are separated by chapter/topic; test metrics may reflect topic shift and must not be generalized beyond this PDF.",
+    "Review each expected_answer and evidence_quote manually before treating the gold labels as final."
+  ]
+}
